@@ -7,3 +7,8 @@ __pycache__/
 # Material del Panel I que no se publica (datos de contacto, documentos de terceros)
 privado/
 panel1/deck_fuentes/slides/portada.html
+
+# Carpeta de trabajo del foro: documentos de terceros, oficio de invitacion y fotografia con datos de un paciente
+FORO/
+# Exportaciones del deck: la portada lleva datos de contacto
+Panel I*.pptx
