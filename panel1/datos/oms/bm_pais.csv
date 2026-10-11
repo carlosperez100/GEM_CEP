@@ -1,0 +1,218 @@
+﻿iso3,nombre,region,grupo_ingreso,capital,url
+ABW,Aruba,Latin America & Caribbean ,High income,Oranjestad,https://api.worldbank.org/v2/country?format=json&per_page=400
+AFG,Afghanistan,"Middle East, North Africa, Afghanistan & Pakistan",Low income,Kabul,https://api.worldbank.org/v2/country?format=json&per_page=400
+AGO,Angola,Sub-Saharan Africa ,Lower middle income,Luanda,https://api.worldbank.org/v2/country?format=json&per_page=400
+ALB,Albania,Europe & Central Asia,Upper middle income,Tirane,https://api.worldbank.org/v2/country?format=json&per_page=400
+AND,Andorra,Europe & Central Asia,High income,Andorra la Vella,https://api.worldbank.org/v2/country?format=json&per_page=400
+ARE,United Arab Emirates,"Middle East, North Africa, Afghanistan & Pakistan",High income,Abu Dhabi,https://api.worldbank.org/v2/country?format=json&per_page=400
+ARG,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,https://api.worldbank.org/v2/country?format=json&per_page=400
+ARM,Armenia,Europe & Central Asia,Upper middle income,Yerevan,https://api.worldbank.org/v2/country?format=json&per_page=400
+ASM,American Samoa,East Asia & Pacific,High income,Pago Pago,https://api.worldbank.org/v2/country?format=json&per_page=400
+ATG,Antigua and Barbuda,Latin America & Caribbean ,High income,Saint John's,https://api.worldbank.org/v2/country?format=json&per_page=400
+AUS,Australia,East Asia & Pacific,High income,Canberra,https://api.worldbank.org/v2/country?format=json&per_page=400
+AUT,Austria,Europe & Central Asia,High income,Vienna,https://api.worldbank.org/v2/country?format=json&per_page=400
+AZE,Azerbaijan,Europe & Central Asia,Upper middle income,Baku,https://api.worldbank.org/v2/country?format=json&per_page=400
+BDI,Burundi,Sub-Saharan Africa ,Low income,Bujumbura,https://api.worldbank.org/v2/country?format=json&per_page=400
+BEL,Belgium,Europe & Central Asia,High income,Brussels,https://api.worldbank.org/v2/country?format=json&per_page=400
+BEN,Benin,Sub-Saharan Africa ,Lower middle income,Porto-Novo,https://api.worldbank.org/v2/country?format=json&per_page=400
+BFA,Burkina Faso,Sub-Saharan Africa ,Low income,Ouagadougou,https://api.worldbank.org/v2/country?format=json&per_page=400
+BGD,Bangladesh,South Asia,Lower middle income,Dhaka,https://api.worldbank.org/v2/country?format=json&per_page=400
+BGR,Bulgaria,Europe & Central Asia,High income,Sofia,https://api.worldbank.org/v2/country?format=json&per_page=400
+BHR,Bahrain,"Middle East, North Africa, Afghanistan & Pakistan",High income,Manama,https://api.worldbank.org/v2/country?format=json&per_page=400
+BHS,"Bahamas, The",Latin America & Caribbean ,High income,Nassau,https://api.worldbank.org/v2/country?format=json&per_page=400
+BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,Sarajevo,https://api.worldbank.org/v2/country?format=json&per_page=400
+BLR,Belarus,Europe & Central Asia,Upper middle income,Minsk,https://api.worldbank.org/v2/country?format=json&per_page=400
+BLZ,Belize,Latin America & Caribbean ,Upper middle income,Belmopan,https://api.worldbank.org/v2/country?format=json&per_page=400
+BMU,Bermuda,North America,High income,Hamilton,https://api.worldbank.org/v2/country?format=json&per_page=400
+BOL,Bolivia,Latin America & Caribbean ,Lower middle income,La Paz,https://api.worldbank.org/v2/country?format=json&per_page=400
+BRA,Brazil,Latin America & Caribbean ,Upper middle income,Brasilia,https://api.worldbank.org/v2/country?format=json&per_page=400
+BRB,Barbados,Latin America & Caribbean ,High income,Bridgetown,https://api.worldbank.org/v2/country?format=json&per_page=400
+BRN,Brunei Darussalam,East Asia & Pacific,High income,Bandar Seri Begawan,https://api.worldbank.org/v2/country?format=json&per_page=400
+BTN,Bhutan,South Asia,Lower middle income,Thimphu,https://api.worldbank.org/v2/country?format=json&per_page=400
+BWA,Botswana,Sub-Saharan Africa ,Upper middle income,Gaborone,https://api.worldbank.org/v2/country?format=json&per_page=400
+CAF,Central African Republic,Sub-Saharan Africa ,Low income,Bangui,https://api.worldbank.org/v2/country?format=json&per_page=400
+CAN,Canada,North America,High income,Ottawa,https://api.worldbank.org/v2/country?format=json&per_page=400
+CHE,Switzerland,Europe & Central Asia,High income,Bern,https://api.worldbank.org/v2/country?format=json&per_page=400
+CHI,Channel Islands,Europe & Central Asia,High income,,https://api.worldbank.org/v2/country?format=json&per_page=400
+CHL,Chile,Latin America & Caribbean ,High income,Santiago,https://api.worldbank.org/v2/country?format=json&per_page=400
+CHN,China,East Asia & Pacific,Upper middle income,Beijing,https://api.worldbank.org/v2/country?format=json&per_page=400
+CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,Yamoussoukro,https://api.worldbank.org/v2/country?format=json&per_page=400
+CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,Yaounde,https://api.worldbank.org/v2/country?format=json&per_page=400
+COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,Kinshasa,https://api.worldbank.org/v2/country?format=json&per_page=400
+COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,Brazzaville,https://api.worldbank.org/v2/country?format=json&per_page=400
+COL,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,https://api.worldbank.org/v2/country?format=json&per_page=400
+COM,Comoros,Sub-Saharan Africa ,Lower middle income,Moroni,https://api.worldbank.org/v2/country?format=json&per_page=400
+CPV,Cabo Verde,Sub-Saharan Africa ,Upper middle income,Praia,https://api.worldbank.org/v2/country?format=json&per_page=400
+CRI,Costa Rica,Latin America & Caribbean ,High income,San Jose,https://api.worldbank.org/v2/country?format=json&per_page=400
+CUB,Cuba,Latin America & Caribbean ,Upper middle income,Havana,https://api.worldbank.org/v2/country?format=json&per_page=400
+CUW,Curacao,Latin America & Caribbean ,High income,Willemstad,https://api.worldbank.org/v2/country?format=json&per_page=400
+CYM,Cayman Islands,Latin America & Caribbean ,High income,George Town,https://api.worldbank.org/v2/country?format=json&per_page=400
+CYP,Cyprus,Europe & Central Asia,High income,Nicosia,https://api.worldbank.org/v2/country?format=json&per_page=400
+CZE,Czechia,Europe & Central Asia,High income,Prague,https://api.worldbank.org/v2/country?format=json&per_page=400
+DEU,Germany,Europe & Central Asia,High income,Berlin,https://api.worldbank.org/v2/country?format=json&per_page=400
+DJI,Djibouti,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Djibouti,https://api.worldbank.org/v2/country?format=json&per_page=400
+DMA,Dominica,Latin America & Caribbean ,Upper middle income,Roseau,https://api.worldbank.org/v2/country?format=json&per_page=400
+DNK,Denmark,Europe & Central Asia,High income,Copenhagen,https://api.worldbank.org/v2/country?format=json&per_page=400
+DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,Santo Domingo,https://api.worldbank.org/v2/country?format=json&per_page=400
+DZA,Algeria,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Algiers,https://api.worldbank.org/v2/country?format=json&per_page=400
+ECU,Ecuador,Latin America & Caribbean ,Upper middle income,Quito,https://api.worldbank.org/v2/country?format=json&per_page=400
+EGY,"Egypt, Arab Rep.","Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Cairo,https://api.worldbank.org/v2/country?format=json&per_page=400
+ERI,Eritrea,Sub-Saharan Africa ,Low income,Asmara,https://api.worldbank.org/v2/country?format=json&per_page=400
+ESP,Spain,Europe & Central Asia,High income,Madrid,https://api.worldbank.org/v2/country?format=json&per_page=400
+EST,Estonia,Europe & Central Asia,High income,Tallinn,https://api.worldbank.org/v2/country?format=json&per_page=400
+ETH,Ethiopia,Sub-Saharan Africa ,Low income,Addis Ababa,https://api.worldbank.org/v2/country?format=json&per_page=400
+FIN,Finland,Europe & Central Asia,High income,Helsinki,https://api.worldbank.org/v2/country?format=json&per_page=400
+FJI,Fiji,East Asia & Pacific,Upper middle income,Suva,https://api.worldbank.org/v2/country?format=json&per_page=400
+FRA,France,Europe & Central Asia,High income,Paris,https://api.worldbank.org/v2/country?format=json&per_page=400
+FRO,Faroe Islands,Europe & Central Asia,High income,Torshavn,https://api.worldbank.org/v2/country?format=json&per_page=400
+FSM,"Micronesia, Fed. Sts.",East Asia & Pacific,Upper middle income,Palikir,https://api.worldbank.org/v2/country?format=json&per_page=400
+GAB,Gabon,Sub-Saharan Africa ,Upper middle income,Libreville,https://api.worldbank.org/v2/country?format=json&per_page=400
+GBR,United Kingdom,Europe & Central Asia,High income,London,https://api.worldbank.org/v2/country?format=json&per_page=400
+GEO,Georgia,Europe & Central Asia,Upper middle income,Tbilisi,https://api.worldbank.org/v2/country?format=json&per_page=400
+GHA,Ghana,Sub-Saharan Africa ,Lower middle income,Accra,https://api.worldbank.org/v2/country?format=json&per_page=400
+GIB,Gibraltar,Europe & Central Asia,High income,,https://api.worldbank.org/v2/country?format=json&per_page=400
+GIN,Guinea,Sub-Saharan Africa ,Lower middle income,Conakry,https://api.worldbank.org/v2/country?format=json&per_page=400
+GMB,"Gambia, The",Sub-Saharan Africa ,Low income,Banjul,https://api.worldbank.org/v2/country?format=json&per_page=400
+GNB,Guinea-Bissau,Sub-Saharan Africa ,Low income,Bissau,https://api.worldbank.org/v2/country?format=json&per_page=400
+GNQ,Equatorial Guinea,Sub-Saharan Africa ,Upper middle income,Malabo,https://api.worldbank.org/v2/country?format=json&per_page=400
+GRC,Greece,Europe & Central Asia,High income,Athens,https://api.worldbank.org/v2/country?format=json&per_page=400
+GRD,Grenada,Latin America & Caribbean ,Upper middle income,Saint George's,https://api.worldbank.org/v2/country?format=json&per_page=400
+GRL,Greenland,Europe & Central Asia,High income,Nuuk,https://api.worldbank.org/v2/country?format=json&per_page=400
+GTM,Guatemala,Latin America & Caribbean ,Upper middle income,Guatemala City,https://api.worldbank.org/v2/country?format=json&per_page=400
+GUM,Guam,East Asia & Pacific,High income,Agana,https://api.worldbank.org/v2/country?format=json&per_page=400
+GUY,Guyana,Latin America & Caribbean ,High income,Georgetown,https://api.worldbank.org/v2/country?format=json&per_page=400
+HKG,"Hong Kong SAR, China",East Asia & Pacific,High income,,https://api.worldbank.org/v2/country?format=json&per_page=400
+HND,Honduras,Latin America & Caribbean ,Lower middle income,Tegucigalpa,https://api.worldbank.org/v2/country?format=json&per_page=400
+HRV,Croatia,Europe & Central Asia,High income,Zagreb,https://api.worldbank.org/v2/country?format=json&per_page=400
+HTI,Haiti,Latin America & Caribbean ,Lower middle income,Port-au-Prince,https://api.worldbank.org/v2/country?format=json&per_page=400
+HUN,Hungary,Europe & Central Asia,High income,Budapest,https://api.worldbank.org/v2/country?format=json&per_page=400
+IDN,Indonesia,East Asia & Pacific,Upper middle income,Jakarta,https://api.worldbank.org/v2/country?format=json&per_page=400
+IMN,Isle of Man,Europe & Central Asia,High income,Douglas,https://api.worldbank.org/v2/country?format=json&per_page=400
+IND,India,South Asia,Lower middle income,New Delhi,https://api.worldbank.org/v2/country?format=json&per_page=400
+IRL,Ireland,Europe & Central Asia,High income,Dublin,https://api.worldbank.org/v2/country?format=json&per_page=400
+IRN,"Iran, Islamic Rep.","Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Tehran,https://api.worldbank.org/v2/country?format=json&per_page=400
+IRQ,Iraq,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Baghdad,https://api.worldbank.org/v2/country?format=json&per_page=400
+ISL,Iceland,Europe & Central Asia,High income,Reykjavik,https://api.worldbank.org/v2/country?format=json&per_page=400
+ISR,Israel,"Middle East, North Africa, Afghanistan & Pakistan",High income,,https://api.worldbank.org/v2/country?format=json&per_page=400
+ITA,Italy,Europe & Central Asia,High income,Rome,https://api.worldbank.org/v2/country?format=json&per_page=400
+JAM,Jamaica,Latin America & Caribbean ,Upper middle income,Kingston,https://api.worldbank.org/v2/country?format=json&per_page=400
+JOR,Jordan,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Amman,https://api.worldbank.org/v2/country?format=json&per_page=400
+JPN,Japan,East Asia & Pacific,High income,Tokyo,https://api.worldbank.org/v2/country?format=json&per_page=400
+KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,Astana,https://api.worldbank.org/v2/country?format=json&per_page=400
+KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Nairobi,https://api.worldbank.org/v2/country?format=json&per_page=400
+KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income,Bishkek,https://api.worldbank.org/v2/country?format=json&per_page=400
+KHM,Cambodia,East Asia & Pacific,Lower middle income,Phnom Penh,https://api.worldbank.org/v2/country?format=json&per_page=400
+KIR,Kiribati,East Asia & Pacific,Lower middle income,Tarawa,https://api.worldbank.org/v2/country?format=json&per_page=400
+KNA,St. Kitts and Nevis,Latin America & Caribbean ,High income,Basseterre,https://api.worldbank.org/v2/country?format=json&per_page=400
+KOR,"Korea, Rep.",East Asia & Pacific,High income,Seoul,https://api.worldbank.org/v2/country?format=json&per_page=400
+KWT,Kuwait,"Middle East, North Africa, Afghanistan & Pakistan",High income,Kuwait City,https://api.worldbank.org/v2/country?format=json&per_page=400
+LAO,Lao PDR,East Asia & Pacific,Lower middle income,Vientiane,https://api.worldbank.org/v2/country?format=json&per_page=400
+LBN,Lebanon,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Beirut,https://api.worldbank.org/v2/country?format=json&per_page=400
+LBR,Liberia,Sub-Saharan Africa ,Low income,Monrovia,https://api.worldbank.org/v2/country?format=json&per_page=400
+LBY,Libya,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Tripoli,https://api.worldbank.org/v2/country?format=json&per_page=400
+LCA,St. Lucia,Latin America & Caribbean ,Upper middle income,Castries,https://api.worldbank.org/v2/country?format=json&per_page=400
+LIE,Liechtenstein,Europe & Central Asia,High income,Vaduz,https://api.worldbank.org/v2/country?format=json&per_page=400
+LKA,Sri Lanka,South Asia,Upper middle income,Colombo,https://api.worldbank.org/v2/country?format=json&per_page=400
+LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,Maseru,https://api.worldbank.org/v2/country?format=json&per_page=400
+LTU,Lithuania,Europe & Central Asia,High income,Vilnius,https://api.worldbank.org/v2/country?format=json&per_page=400
+LUX,Luxembourg,Europe & Central Asia,High income,Luxembourg,https://api.worldbank.org/v2/country?format=json&per_page=400
+LVA,Latvia,Europe & Central Asia,High income,Riga,https://api.worldbank.org/v2/country?format=json&per_page=400
+MAC,"Macao SAR, China",East Asia & Pacific,High income,,https://api.worldbank.org/v2/country?format=json&per_page=400
+MAF,St. Martin (French part),Latin America & Caribbean ,High income,Marigot,https://api.worldbank.org/v2/country?format=json&per_page=400
+MAR,Morocco,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Rabat,https://api.worldbank.org/v2/country?format=json&per_page=400
+MCO,Monaco,Europe & Central Asia,High income,Monaco,https://api.worldbank.org/v2/country?format=json&per_page=400
+MDA,Moldova,Europe & Central Asia,Upper middle income,Chisinau,https://api.worldbank.org/v2/country?format=json&per_page=400
+MDG,Madagascar,Sub-Saharan Africa ,Low income,Antananarivo,https://api.worldbank.org/v2/country?format=json&per_page=400
+MDV,Maldives,South Asia,Upper middle income,Male,https://api.worldbank.org/v2/country?format=json&per_page=400
+MEX,Mexico,Latin America & Caribbean ,Upper middle income,Mexico City,https://api.worldbank.org/v2/country?format=json&per_page=400
+MHL,Marshall Islands,East Asia & Pacific,Upper middle income,Majuro,https://api.worldbank.org/v2/country?format=json&per_page=400
+MKD,North Macedonia,Europe & Central Asia,Upper middle income,Skopje,https://api.worldbank.org/v2/country?format=json&per_page=400
+MLI,Mali,Sub-Saharan Africa ,Low income,Bamako,https://api.worldbank.org/v2/country?format=json&per_page=400
+MLT,Malta,"Middle East, North Africa, Afghanistan & Pakistan",High income,Valletta,https://api.worldbank.org/v2/country?format=json&per_page=400
+MMR,Myanmar,East Asia & Pacific,Lower middle income,Naypyidaw,https://api.worldbank.org/v2/country?format=json&per_page=400
+MNE,Montenegro,Europe & Central Asia,Upper middle income,Podgorica,https://api.worldbank.org/v2/country?format=json&per_page=400
+MNG,Mongolia,East Asia & Pacific,Upper middle income,Ulaanbaatar,https://api.worldbank.org/v2/country?format=json&per_page=400
+MNP,Northern Mariana Islands,East Asia & Pacific,High income,Saipan,https://api.worldbank.org/v2/country?format=json&per_page=400
+MOZ,Mozambique,Sub-Saharan Africa ,Low income,Maputo,https://api.worldbank.org/v2/country?format=json&per_page=400
+MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,Nouakchott,https://api.worldbank.org/v2/country?format=json&per_page=400
+MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,Port Louis,https://api.worldbank.org/v2/country?format=json&per_page=400
+MWI,Malawi,Sub-Saharan Africa ,Low income,Lilongwe,https://api.worldbank.org/v2/country?format=json&per_page=400
+MYS,Malaysia,East Asia & Pacific,Upper middle income,Kuala Lumpur,https://api.worldbank.org/v2/country?format=json&per_page=400
+NAM,Namibia,Sub-Saharan Africa ,Lower middle income,Windhoek,https://api.worldbank.org/v2/country?format=json&per_page=400
+NCL,New Caledonia,East Asia & Pacific,High income,Noum'ea,https://api.worldbank.org/v2/country?format=json&per_page=400
+NER,Niger,Sub-Saharan Africa ,Low income,Niamey,https://api.worldbank.org/v2/country?format=json&per_page=400
+NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Abuja,https://api.worldbank.org/v2/country?format=json&per_page=400
+NIC,Nicaragua,Latin America & Caribbean ,Lower middle income,Managua,https://api.worldbank.org/v2/country?format=json&per_page=400
+NLD,Netherlands,Europe & Central Asia,High income,Amsterdam,https://api.worldbank.org/v2/country?format=json&per_page=400
+NOR,Norway,Europe & Central Asia,High income,Oslo,https://api.worldbank.org/v2/country?format=json&per_page=400
+NPL,Nepal,South Asia,Lower middle income,Kathmandu,https://api.worldbank.org/v2/country?format=json&per_page=400
+NRU,Naoero,East Asia & Pacific,High income,Yaren District,https://api.worldbank.org/v2/country?format=json&per_page=400
+NZL,New Zealand,East Asia & Pacific,High income,Wellington,https://api.worldbank.org/v2/country?format=json&per_page=400
+OMN,Oman,"Middle East, North Africa, Afghanistan & Pakistan",High income,Muscat,https://api.worldbank.org/v2/country?format=json&per_page=400
+PAK,Pakistan,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Islamabad,https://api.worldbank.org/v2/country?format=json&per_page=400
+PAN,Panama,Latin America & Caribbean ,High income,Panama City,https://api.worldbank.org/v2/country?format=json&per_page=400
+PER,Peru,Latin America & Caribbean ,Upper middle income,Lima,https://api.worldbank.org/v2/country?format=json&per_page=400
+PHL,Philippines,East Asia & Pacific,Upper middle income,Manila,https://api.worldbank.org/v2/country?format=json&per_page=400
+PLW,Palau,East Asia & Pacific,High income,Koror,https://api.worldbank.org/v2/country?format=json&per_page=400
+PNG,Papua New Guinea,East Asia & Pacific,Lower middle income,Port Moresby,https://api.worldbank.org/v2/country?format=json&per_page=400
+POL,Poland,Europe & Central Asia,High income,Warsaw,https://api.worldbank.org/v2/country?format=json&per_page=400
+PRI,Puerto Rico (US),Latin America & Caribbean ,High income,San Juan,https://api.worldbank.org/v2/country?format=json&per_page=400
+PRK,"Korea, Dem. People's Rep.",East Asia & Pacific,Low income,Pyongyang,https://api.worldbank.org/v2/country?format=json&per_page=400
+PRT,Portugal,Europe & Central Asia,High income,Lisbon,https://api.worldbank.org/v2/country?format=json&per_page=400
+PRY,Paraguay,Latin America & Caribbean ,Upper middle income,Asuncion,https://api.worldbank.org/v2/country?format=json&per_page=400
+PSE,West Bank and Gaza,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,,https://api.worldbank.org/v2/country?format=json&per_page=400
+PYF,French Polynesia,East Asia & Pacific,High income,Papeete,https://api.worldbank.org/v2/country?format=json&per_page=400
+QAT,Qatar,"Middle East, North Africa, Afghanistan & Pakistan",High income,Doha,https://api.worldbank.org/v2/country?format=json&per_page=400
+ROU,Romania,Europe & Central Asia,High income,Bucharest,https://api.worldbank.org/v2/country?format=json&per_page=400
+RUS,Russian Federation,Europe & Central Asia,High income,Moscow,https://api.worldbank.org/v2/country?format=json&per_page=400
+RWA,Rwanda,Sub-Saharan Africa ,Low income,Kigali,https://api.worldbank.org/v2/country?format=json&per_page=400
+SAU,Saudi Arabia,"Middle East, North Africa, Afghanistan & Pakistan",High income,Riyadh,https://api.worldbank.org/v2/country?format=json&per_page=400
+SDN,Sudan,Sub-Saharan Africa ,Low income,Khartoum,https://api.worldbank.org/v2/country?format=json&per_page=400
+SEN,Senegal,Sub-Saharan Africa ,Lower middle income,Dakar,https://api.worldbank.org/v2/country?format=json&per_page=400
+SGP,Singapore,East Asia & Pacific,High income,Singapore,https://api.worldbank.org/v2/country?format=json&per_page=400
+SLB,Solomon Islands,East Asia & Pacific,Lower middle income,Honiara,https://api.worldbank.org/v2/country?format=json&per_page=400
+SLE,Sierra Leone,Sub-Saharan Africa ,Low income,Freetown,https://api.worldbank.org/v2/country?format=json&per_page=400
+SLV,El Salvador,Latin America & Caribbean ,Upper middle income,San Salvador,https://api.worldbank.org/v2/country?format=json&per_page=400
+SMR,San Marino,Europe & Central Asia,High income,San Marino,https://api.worldbank.org/v2/country?format=json&per_page=400
+SOM,"Somalia, Fed. Rep.",Sub-Saharan Africa ,Low income,Mogadishu,https://api.worldbank.org/v2/country?format=json&per_page=400
+SRB,Serbia,Europe & Central Asia,Upper middle income,Belgrade,https://api.worldbank.org/v2/country?format=json&per_page=400
+SSD,South Sudan,Sub-Saharan Africa ,Low income,Juba,https://api.worldbank.org/v2/country?format=json&per_page=400
+STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,Sao Tome,https://api.worldbank.org/v2/country?format=json&per_page=400
+SUR,Suriname,Latin America & Caribbean ,Upper middle income,Paramaribo,https://api.worldbank.org/v2/country?format=json&per_page=400
+SVK,Slovak Republic,Europe & Central Asia,High income,Bratislava,https://api.worldbank.org/v2/country?format=json&per_page=400
+SVN,Slovenia,Europe & Central Asia,High income,Ljubljana,https://api.worldbank.org/v2/country?format=json&per_page=400
+SWE,Sweden,Europe & Central Asia,High income,Stockholm,https://api.worldbank.org/v2/country?format=json&per_page=400
+SWZ,Eswatini,Sub-Saharan Africa ,Lower middle income,Mbabane,https://api.worldbank.org/v2/country?format=json&per_page=400
+SXM,Sint Maarten (Dutch part),Latin America & Caribbean ,High income,Philipsburg,https://api.worldbank.org/v2/country?format=json&per_page=400
+SYC,Seychelles,Sub-Saharan Africa ,High income,Victoria,https://api.worldbank.org/v2/country?format=json&per_page=400
+SYR,Syrian Arab Republic,"Middle East, North Africa, Afghanistan & Pakistan",Low income,Damascus,https://api.worldbank.org/v2/country?format=json&per_page=400
+TCA,Turks and Caicos Islands,Latin America & Caribbean ,High income,Grand Turk,https://api.worldbank.org/v2/country?format=json&per_page=400
+TCD,Chad,Sub-Saharan Africa ,Low income,N'Djamena,https://api.worldbank.org/v2/country?format=json&per_page=400
+TGO,Togo,Sub-Saharan Africa ,Lower middle income,Lome,https://api.worldbank.org/v2/country?format=json&per_page=400
+THA,Thailand,East Asia & Pacific,Upper middle income,Bangkok,https://api.worldbank.org/v2/country?format=json&per_page=400
+TJK,Tajikistan,Europe & Central Asia,Lower middle income,Dushanbe,https://api.worldbank.org/v2/country?format=json&per_page=400
+TKM,Turkmenistan,Europe & Central Asia,Upper middle income,Ashgabat,https://api.worldbank.org/v2/country?format=json&per_page=400
+TLS,Timor-Leste,East Asia & Pacific,Lower middle income,Dili,https://api.worldbank.org/v2/country?format=json&per_page=400
+TON,Tonga,East Asia & Pacific,Upper middle income,Nuku'alofa,https://api.worldbank.org/v2/country?format=json&per_page=400
+TTO,Trinidad and Tobago,Latin America & Caribbean ,High income,Port-of-Spain,https://api.worldbank.org/v2/country?format=json&per_page=400
+TUN,Tunisia,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Tunis,https://api.worldbank.org/v2/country?format=json&per_page=400
+TUR,Turkiye,Europe & Central Asia,Upper middle income,Ankara,https://api.worldbank.org/v2/country?format=json&per_page=400
+TUV,Tuvalu,East Asia & Pacific,Upper middle income,Funafuti,https://api.worldbank.org/v2/country?format=json&per_page=400
+TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,Dodoma,https://api.worldbank.org/v2/country?format=json&per_page=400
+UGA,Uganda,Sub-Saharan Africa ,Low income,Kampala,https://api.worldbank.org/v2/country?format=json&per_page=400
+UKR,Ukraine,Europe & Central Asia,Upper middle income,Kiev,https://api.worldbank.org/v2/country?format=json&per_page=400
+URY,Uruguay,Latin America & Caribbean ,High income,Montevideo,https://api.worldbank.org/v2/country?format=json&per_page=400
+USA,United States,North America,High income,Washington D.C.,https://api.worldbank.org/v2/country?format=json&per_page=400
+UZB,Uzbekistan,Europe & Central Asia,Lower middle income,Tashkent,https://api.worldbank.org/v2/country?format=json&per_page=400
+VCT,St. Vincent and the Grenadines,Latin America & Caribbean ,Upper middle income,Kingstown,https://api.worldbank.org/v2/country?format=json&per_page=400
+VEN,"Venezuela, RB",Latin America & Caribbean ,Lower middle income,Caracas,https://api.worldbank.org/v2/country?format=json&per_page=400
+VGB,British Virgin Islands,Latin America & Caribbean ,High income,Road Town,https://api.worldbank.org/v2/country?format=json&per_page=400
+VIR,Virgin Islands (U.S.),Latin America & Caribbean ,High income,Charlotte Amalie,https://api.worldbank.org/v2/country?format=json&per_page=400
+VNM,Viet Nam,East Asia & Pacific,Upper middle income,Hanoi,https://api.worldbank.org/v2/country?format=json&per_page=400
+VUT,Vanuatu,East Asia & Pacific,Lower middle income,Port-Vila,https://api.worldbank.org/v2/country?format=json&per_page=400
+WSM,Samoa,East Asia & Pacific,Upper middle income,Apia,https://api.worldbank.org/v2/country?format=json&per_page=400
+XKX,Kosovo,Europe & Central Asia,Upper middle income,Pristina,https://api.worldbank.org/v2/country?format=json&per_page=400
+YEM,"Yemen, Rep.","Middle East, North Africa, Afghanistan & Pakistan",Low income,Sana'a,https://api.worldbank.org/v2/country?format=json&per_page=400
+ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,Pretoria,https://api.worldbank.org/v2/country?format=json&per_page=400
+ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,Lusaka,https://api.worldbank.org/v2/country?format=json&per_page=400
+ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Harare,https://api.worldbank.org/v2/country?format=json&per_page=400

@@ -1,0 +1,71 @@
+﻿edicion,estrato,indicador,mejor_si,n_si,mediana_si,n_no_o_parcial,mediana_no_o_parcial,n_no_reportado,mediana_no_reportado,p_mann_whitney_si_frente_a_no
+2020,Todos,Índice de cobertura de servicios (0 a 100),alto,115,74.0,51,67.0,28,74.5,0.04461
+2020,Todos,Esperanza de vida al nacer (años),alto,107,73.4,50,73.35,26,76.7,0.6539
+2020,Todos,Mortalidad materna por 100 000 nacidos vivos,bajo,114,46.1,51,66.91,28,10.68,0.1752
+2020,Todos,Mortalidad de menores de cinco años por 1 000 nacidos vivos,bajo,115,14.86,51,17.17,28,5.85,0.1835
+2020,Todos,Mortalidad neonatal por 1 000 nacidos vivos,bajo,115,8.59,51,10.0,28,2.92,0.2002
+2020,Todos,Personal de enfermería y partería por 10 000 habitantes,alto,115,40.3,51,20.52,28,52.3,0.06112
+2020,Todos,Gasto corriente en salud por habitante (dólares),alto,115,492.45,51,255.04,27,983.69,0.1689
+2020,Ingreso alto,Índice de cobertura de servicios (0 a 100),alto,39,82.0,11,86.0,13,79.0,0.03335
+2020,Ingreso alto,Esperanza de vida al nacer (años),alto,36,80.7,10,81.2,11,81.6,0.5226
+2020,Ingreso alto,Mortalidad materna por 100 000 nacidos vivos,bajo,39,8.31,11,3.92,13,6.48,0.3253
+2020,Ingreso alto,Mortalidad de menores de cinco años por 1 000 nacidos vivos,bajo,39,4.98,11,3.72,13,3.82,0.4396
+2020,Ingreso alto,Mortalidad neonatal por 1 000 nacidos vivos,bajo,39,2.75,11,2.3,13,2.18,0.512
+2020,Ingreso alto,Personal de enfermería y partería por 10 000 habitantes,alto,39,70.9,11,106.82,13,65.57,0.03931
+2020,Ingreso alto,Gasto corriente en salud por habitante (dólares),alto,39,2292.37,11,3043.87,13,3106.62,0.1166
+2020,Ingreso mediano alto,Índice de cobertura de servicios (0 a 100),alto,33,74.0,15,71.0,10,70.5,0.06917
+2020,Ingreso mediano alto,Esperanza de vida al nacer (años),alto,30,73.45,15,74.3,10,75.35,0.63
+2020,Ingreso mediano alto,Mortalidad materna por 100 000 nacidos vivos,bajo,33,43.96,15,47.61,10,14.32,0.8413
+2020,Ingreso mediano alto,Mortalidad de menores de cinco años por 1 000 nacidos vivos,bajo,33,12.94,15,14.22,10,11.32,0.5935
+2020,Ingreso mediano alto,Mortalidad neonatal por 1 000 nacidos vivos,bajo,33,8.23,15,8.04,10,6.1,0.4363
+2020,Ingreso mediano alto,Personal de enfermería y partería por 10 000 habitantes,alto,33,35.72,15,46.96,10,55.47,0.7219
+2020,Ingreso mediano alto,Gasto corriente en salud por habitante (dólares),alto,33,492.45,15,451.73,10,533.86,0.824
+2020,Ingreso mediano bajo,Índice de cobertura de servicios (0 a 100),alto,28,57.5,16,53.0,2,43.5,0.4205
+2020,Ingreso mediano bajo,Esperanza de vida al nacer (años),alto,28,67.65,16,69.65,2,68.8,0.06367
+2020,Ingreso mediano bajo,Mortalidad materna por 100 000 nacidos vivos,bajo,28,140.43,16,162.63,2,271.46,0.7235
+2020,Ingreso mediano bajo,Mortalidad de menores de cinco años por 1 000 nacidos vivos,bajo,28,36.97,16,33.51,2,42.89,0.4568
+2020,Ingreso mediano bajo,Mortalidad neonatal por 1 000 nacidos vivos,bajo,28,18.86,16,17.22,2,23.95,0.4137
+2020,Ingreso mediano bajo,Personal de enfermería y partería por 10 000 habitantes,alto,28,18.23,16,11.64,2,9.02,0.03483
+2020,Ingreso mediano bajo,Gasto corriente en salud por habitante (dólares),alto,28,85.05,16,94.96,2,84.84,0.4278
+2020,Ingreso bajo,Índice de cobertura de servicios (0 a 100),alto,13,43.0,9,43.0,3,47.0,0.867
+2020,Ingreso bajo,Esperanza de vida al nacer (años),alto,13,64.4,9,64.5,3,64.1,0.5476
+2020,Ingreso bajo,Mortalidad materna por 100 000 nacidos vivos,bajo,13,353.56,9,391.97,3,241.79,0.2853
+2020,Ingreso bajo,Mortalidad de menores de cinco años por 1 000 nacidos vivos,bajo,13,59.42,9,61.6,3,74.89,0.4626
+2020,Ingreso bajo,Mortalidad neonatal por 1 000 nacidos vivos,bajo,13,23.62,9,29.93,3,23.75,0.4626
+2020,Ingreso bajo,Personal de enfermería y partería por 10 000 habitantes,alto,13,7.62,9,7.94,3,8.24,0.8938
+2020,Ingreso bajo,Gasto corriente en salud por habitante (dólares),alto,13,34.8,9,47.44,2,47.05,0.5043
+2025,Todos,Índice de cobertura de servicios (0 a 100),alto,99,76.0,21,75.0,74,67.5,0.825
+2025,Todos,Esperanza de vida al nacer (años),alto,95,75.1,20,76.2,68,71.6,0.5185
+2025,Todos,Mortalidad materna por 100 000 nacidos vivos,bajo,99,34.88,21,18.72,73,75.36,0.3693
+2025,Todos,Mortalidad de menores de cinco años por 1 000 nacidos vivos,bajo,99,12.36,21,6.47,74,22.01,0.3729
+2025,Todos,Mortalidad neonatal por 1 000 nacidos vivos,bajo,99,7.2,21,3.81,74,12.44,0.3511
+2025,Todos,Personal de enfermería y partería por 10 000 habitantes,alto,99,41.72,21,55.78,74,20.66,0.4941
+2025,Todos,Gasto corriente en salud por habitante (dólares),alto,99,547.81,21,1147.7,73,249.15,0.5297
+2025,Ingreso alto,Índice de cobertura de servicios (0 a 100),alto,44,82.5,9,84.0,10,84.0,0.7665
+2025,Ingreso alto,Esperanza de vida al nacer (años),alto,42,81.2,8,79.65,7,81.4,0.3145
+2025,Ingreso alto,Mortalidad materna por 100 000 nacidos vivos,bajo,44,7.78,9,5.56,10,4.85,0.859
+2025,Ingreso alto,Mortalidad de menores de cinco años por 1 000 nacidos vivos,bajo,44,4.71,9,3.87,10,4.09,0.9905
+2025,Ingreso alto,Mortalidad neonatal por 1 000 nacidos vivos,bajo,44,2.65,9,2.58,10,2.58,0.9528
+2025,Ingreso alto,Personal de enfermería y partería por 10 000 habitantes,alto,44,70.93,9,86.07,10,74.65,0.3494
+2025,Ingreso alto,Gasto corriente en salud por habitante (dólares),alto,44,2716.67,9,1804.35,10,2665.07,0.4004
+2025,Ingreso mediano alto,Índice de cobertura de servicios (0 a 100),alto,24,74.0,8,72.5,26,71.0,0.9478
+2025,Ingreso mediano alto,Esperanza de vida al nacer (años),alto,23,73.4,8,76.55,24,74.55,0.008248
+2025,Ingreso mediano alto,Mortalidad materna por 100 000 nacidos vivos,bajo,24,47.93,8,31.3,26,40.28,0.1354
+2025,Ingreso mediano alto,Mortalidad de menores de cinco años por 1 000 nacidos vivos,bajo,24,12.85,8,12.21,26,14.79,0.3345
+2025,Ingreso mediano alto,Mortalidad neonatal por 1 000 nacidos vivos,bajo,24,8.46,8,6.63,26,8.31,0.3797
+2025,Ingreso mediano alto,Personal de enfermería y partería por 10 000 habitantes,alto,24,35.51,8,44.6,26,47.22,0.5355
+2025,Ingreso mediano alto,Gasto corriente en salud por habitante (dólares),alto,24,459.77,8,533.86,26,496.57,0.3345
+2025,Ingreso mediano bajo,Índice de cobertura de servicios (0 a 100),alto,22,60.0,2,56.5,22,48.0,
+2025,Ingreso mediano bajo,Esperanza de vida al nacer (años),alto,22,68.85,2,66.55,22,68.2,
+2025,Ingreso mediano bajo,Mortalidad materna por 100 000 nacidos vivos,bajo,22,138.12,2,236.36,22,185.93,
+2025,Ingreso mediano bajo,Mortalidad de menores de cinco años por 1 000 nacidos vivos,bajo,22,36.4,2,47.58,22,38.01,
+2025,Ingreso mediano bajo,Mortalidad neonatal por 1 000 nacidos vivos,bajo,22,18.84,2,25.8,22,19.09,
+2025,Ingreso mediano bajo,Personal de enfermería y partería por 10 000 habitantes,alto,22,19.85,2,10.64,22,13.62,
+2025,Ingreso mediano bajo,Gasto corriente en salud por habitante (dólares),alto,22,85.05,2,58.2,22,116.76,
+2025,Ingreso bajo,Índice de cobertura de servicios (0 a 100),alto,8,41.5,2,46.5,15,48.0,
+2025,Ingreso bajo,Esperanza de vida al nacer (años),alto,8,64.35,2,63.95,15,64.4,
+2025,Ingreso bajo,Mortalidad materna por 100 000 nacidos vivos,bajo,8,436.35,2,260.29,15,291.36,
+2025,Ingreso bajo,Mortalidad de menores de cinco años por 1 000 nacidos vivos,bajo,8,60.18,2,79.72,15,61.6,
+2025,Ingreso bajo,Mortalidad neonatal por 1 000 nacidos vivos,bajo,8,29.19,2,27.05,15,23.62,
+2025,Ingreso bajo,Personal de enfermería y partería por 10 000 habitantes,alto,8,5.63,2,13.74,15,8.35,
+2025,Ingreso bajo,Gasto corriente en salud por habitante (dólares),alto,8,38.03,2,35.61,14,41.77,

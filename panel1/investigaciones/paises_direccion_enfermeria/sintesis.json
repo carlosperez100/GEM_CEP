@@ -1,0 +1,860 @@
+{
+ "paises": [
+  {
+   "pais": "Perú",
+   "iso3": "PER",
+   "tieneOrgano": "NO",
+   "nombreOficial": "No encontrado: ningún órgano ni cargo con nombre de enfermería en el Ministerio de Salud.",
+   "nivel": "Tipo (clasificación propia): no encontrado. El órgano más cercano que lista el artículo 5 del reglamento es la Dirección General de Personal de la Salud. Antecedente histórico (cita de un artículo de 1953 de la propia jefa, no de la norma de creación): «En septiembre de 1951 se creó una Sección de Enfermería dependiente de la División de Hospitales del Ministerio de Salud Pública y Asistencia Social»; rango de sección, no de dirección. Proyectos de ley del Colegio de Enfermeros del Perú para crear el órgano: 06474/2020-CP («Dirección de Enfermería», al archivo el 17 de agosto de 2021) y 04595/2022-CP («Dirección de Gestión de Enfermería», de un periodo parlamentario ya concluido); la proposición 00159-2026-2031-CD, del 8 de septiembre de 2026, no la incluye. Encuesta regional de 2025 (lectura del color del mapa, derivación; respuesta de una sola persona no identificada, no posición oficial del Ministerio): modelo «Dispersal».",
+   "baseLegal": "DERIVACIÓN (lectura propia de la norma): Reglamento de Organización y Funciones del Ministerio de Salud aprobado por Decreto Supremo número 008-2017-SA, artículo 5: no figura ningún órgano ni unidad orgánica de enfermería; la página institucional del Ministerio lo enlazaba como reglamento vigente el 10 de octubre de 2026. Directorio de funcionarios del Ministerio en la Plataforma del Estado Peruano (https://www.gob.pe/institucion/minsa/funcionarios), consultado el 10 de octubre de 2026: ningún cargo contiene la palabra «Enfermería». CITA: Informe número D001330-2023-OGAJ-MINSA de la Oficina General de Asesoría Jurídica (27 de diciembre de 2023), remitido con el Oficio número D000091-2024-DM-MINSA (11 de enero de 2024): la creación de la «Dirección de Gestión de Enfermería», «con funciones relacionadas a una profesión, no es viable» (https://api.congreso.gob.pe/spley-portal-service/estudio-comision-adjunto/MTQ5NTUx/pdf).",
+   "enlace": "https://cdn.www.gob.pe/uploads/document/file/1199610/reglamento-de-organizacion-y-funciones-del-ministerio-de-salud-rof-minsa-ds-n-008-2017-sa.pdf",
+   "segunOMS": "Perfil 2020 (datos al 10 de marzo de 2020), «Chief Nursing Officer position»: «No»; «Nursing leadership development program»: «No». Perfil 2025, «Chief nursing position»: «NR» (no reportado); «Leadership development program»: «NR». Son respuestas del país, no una evaluación de la Organización Mundial de la Salud; «NR» no equivale a «No». Perfil 2020: https://apps.who.int/nhwaportal/Sown/Files?name=PER ; perfil 2025: https://worldhealthorg.sharepoint.com/:b:/s/nhwaportal/EeOxcocIeZREmXDAw-yvJw8BAeh4j5-g6hsXvbgDpM6YfQ?e=b5abeW",
+   "verificacion": "MATIZAR",
+   "ref": "[evidencia_y_peru#5] [evidencia_y_peru#7] [evidencia_y_peru#2] [oms_por_pais#1] [evidencia_y_peru#4]"
+  },
+  {
+   "pais": "Chile",
+   "iso3": "CHL",
+   "tieneOrgano": "SI",
+   "nombreOficial": "«Dirección Nacional de Enfermería» (Subsecretaría de Redes Asistenciales del Ministerio de Salud)",
+   "nivel": "Tipo (clasificación propia): dirección con ese nombre, componente de un departamento. Según el registro de transparencia activa, el «Departamento de Formación, Capacitación y Educación Continua» está «compuesto por la Dirección Nacional de Enfermería, Dirección Nacional de Matronería y Dirección Nacional de Odontología». No aparece como dirección general dependiente directamente del Ministro; el registro no detalla sus funciones ni su rango, y la función que describe para ese departamento se refiere a «médicos, odontólogos y otros especialistas» y no menciona enfermería. Encuesta regional de 2025 (lectura del mapa, autodeclarado): modelo «Focal point».",
+   "baseLegal": "CITA del registro, no de la norma: «Resol.ex. 1043, V» (Resolución Exenta número 1043, apartado V), con 31/12/2024 en las columnas de fecha de publicación, de última modificación y de promulgación; listado con última actualización del 15 de septiembre de 2026. El texto de la Resolución Exenta 1043 no se pudo abrir (bloqueo con código 403); acto original de creación sin verificar.",
+   "enlace": "https://www.portaltransparencia.cl/PortalPdT/directorio-de-organismos-regulados/?org=AO002",
+   "segunOMS": "Perfil 2020, «Chief Nursing Officer position»: «Yes». Perfil 2025, «Chief nursing position»: «Yes». Programa de liderazgo: «Yes» (2020) y «No» (2025). Respuestas del país leídas del ícono; no nombran el órgano ni su rango. Perfil 2020: https://apps.who.int/nhwaportal/Sown/Files?name=CHL ; perfiles 2025: https://apps.who.int/nhwaportal/",
+   "verificacion": "MATIZAR",
+   "ref": "[america_sur#4] [america_sur#1] [oms_por_pais#2] [oms_por_pais#4] [evidencia_y_peru#4]"
+  },
+  {
+   "pais": "Argentina",
+   "iso3": "ARG",
+   "tieneOrgano": "SI",
+   "nombreOficial": "«Dirección de Enfermería» (Ministerio de Salud)",
+   "nivel": "Tipo (clasificación propia): dirección de segundo nivel operativo, cuatro escalones bajo el Ministro. Depende de la Dirección Nacional de Calidad y Desarrollo del Talento en Salud, bajo la Subsecretaría de Institutos y Fiscalización de la Secretaría de Gestión Sanitaria (organigrama del Anexo IIIc). El Anexo IV le asigna once acciones, de formación, registro y calidad, no de rectoría; la tercera dice: «Administrar y actualizar un registro de estructura, distribución y formación del personal de enfermería». Encuesta regional de 2025 (lectura del mapa, autodeclarado): modelo «Program».",
+   "baseLegal": "Decreto 1138/2024, del 30 de diciembre de 2024 (Boletín Oficial del 31 de diciembre de 2024), artículo 2 y Anexo IV. Última constancia oficial abierta: Resolución 2131/2025 del Ministerio de Salud, del 3 de julio de 2025, que designa con carácter transitorio a su directora. No se verificó si la estructura fue modificada después de esa fecha (el artículo 5 faculta al Ministro a modificar el segundo nivel).",
+   "enlace": "https://www.boletinoficial.gob.ar/detalleAviso/primera/319054/20241231?anexos=1",
+   "segunOMS": "Perfil 2020, «Chief Nursing Officer position»: «No». Perfil 2025, «Chief nursing position»: «Yes». Programa de liderazgo: «No» (2020) y «No» (2025). Respuestas del país leídas del ícono; el perfil no explica si cambió la estructura o solo la respuesta. Perfil 2020: https://apps.who.int/nhwaportal/Sown/Files?name=ARG ; perfiles 2025: https://apps.who.int/nhwaportal/",
+   "verificacion": "MATIZAR",
+   "ref": "[america_sur#5] [america_sur#1] [oms_por_pais#2] [oms_por_pais#4] [evidencia_y_peru#4]"
+  },
+  {
+   "pais": "Paraguay",
+   "iso3": "PRY",
+   "tieneOrgano": "SI",
+   "nombreOficial": "«Dirección de Enfermería» (Ministerio de Salud Pública y Bienestar Social)",
+   "nivel": "Tipo (clasificación propia): dirección de tercer escalón bajo el Ministro (viceministerio, dirección general, dirección). Según su manual, depende de la Dirección General de Desarrollo de Servicios y Redes de Salud; la página ministerial de estructura orgánica la lista hoy bajo «Dirección General de Servicios y Redes de Salud». El manual la define como «el Órgano Rector, que establece y desarrolla políticas a fin de normalizar, asesorar, conducir y supervisar la gestión del cuidado de enfermería en los diferentes niveles de atención». El mismo manual registra que en 2018 fue elevada a Dirección General (Resolución «S.G.» número 026/2018) y que en agosto de 2018 la Resolución «S.G.» número 507/2018 dejó sin efecto esa estructura. Encuesta regional de 2025 (lectura del mapa, autodeclarado): modelo «Focal point».",
+   "baseLegal": "Manual de Organización y Funciones aprobado por la Resolución «S.G.» número 118 del 25 de marzo de 2019 («S.G.» es la sigla que usa el propio Ministerio; su significado no se verificó). Según ese manual (relato del manual; la resolución de 1993 no se abrió), la estructura «fue creada en el año 1993 con el nombre de Departamento de Enfermería» y el 20 de octubre de 1993, por la Resolución «S.G.» número 181/93, «se eleva a “Dirección de Enfermería”». El Decreto 3577/2020 solo llega al nivel de dirección general y no la nombra.",
+   "enlace": "https://www.mspbs.gov.py/dependencias/portal/adjunto/b8c182-MOFDireccindeEnfermera.pdf",
+   "segunOMS": "Perfil 2020, «Chief Nursing Officer position»: «Yes». Perfil 2025, «Chief nursing position»: «NR» (no reportado). Programa de liderazgo: «No» (2020) y «NR» (2025). Respuestas del país leídas del ícono; «NR» no equivale a «No». Perfil 2020: https://apps.who.int/nhwaportal/Sown/Files?name=PRY ; perfiles 2025: https://apps.who.int/nhwaportal/",
+   "verificacion": "MATIZAR",
+   "ref": "[america_sur#3] [america_sur#1] [oms_por_pais#2] [oms_por_pais#4] [evidencia_y_peru#4]"
+  },
+  {
+   "pais": "Uruguay",
+   "iso3": "URY",
+   "tieneOrgano": "SI",
+   "nombreOficial": "«Unidad de Planificación y Desarrollo Estratégico en Enfermería» (Ministerio de Salud Pública)",
+   "nivel": "Tipo (clasificación propia): unidad creada por ordenanza ministerial; no es una dirección nacional. DERIVACIÓN de la lectura completa del acto: la parte resolutiva no indica de qué dirección depende la Unidad ni su nivel jerárquico; la única dependencia que nombra es la Dirección General de la Salud, y solo para que tome nota. El primero de sus once cometidos es «asesorar técnicamente a las autoridades del MSP en temas de enfermería» (MSP: Ministerio de Salud Pública). La nota de prensa de la Organización Panamericana de la Salud del 16 de diciembre de 2025 la llamó «Dirección de Planificación y Desarrollo Estratégico de la Enfermería». Tiene menos de nueve meses. Encuesta regional de 2025: sin respuesta.",
+   "baseLegal": "Ordenanza Ministerial número 115/026, Montevideo, 30 de enero de 2026: «Créase la Unidad de Planificación y Desarrollo Estratégico en Enfermería». No se buscó una ordenanza posterior que la modifique o suprima.",
+   "enlace": "https://www.gub.uy/ministerio-salud-publica/institucional/normativa/ordenanza-n-115026-creacion-unidad-planificacion-desarrollo-estrategico",
+   "segunOMS": "Perfil 2020, «Chief Nursing Officer position»: «No». Perfil 2025, «Chief nursing position»: «NR» (no reportado). Programa de liderazgo: «No» (2020) y «NR» (2025). Respuestas del país leídas del ícono; ambos perfiles son anteriores a la ordenanza de 2026. Perfil 2020: https://apps.who.int/nhwaportal/Sown/Files?name=URY ; perfiles 2025: https://apps.who.int/nhwaportal/",
+   "verificacion": "MATIZAR",
+   "ref": "[america_sur#2] [america_sur#1] [oms_por_pais#2] [oms_por_pais#4]"
+  },
+  {
+   "pais": "Colombia",
+   "iso3": "COL",
+   "tieneOrgano": "NO",
+   "nombreOficial": "No encontrado en la estructura del Ministerio de Salud y Protección Social. Por ley existe, con integrantes externos al Ministerio, el «Consejo Técnico Nacional de Enfermería».",
+   "nivel": "Tipo (clasificación propia): no encontrado (derivación propia, no cita). El decreto de estructura no contiene la palabra «enfermería»; la dependencia afín que lista su artículo 5 (numeral 2.3) es la Dirección de Desarrollo del Talento Humano en Salud. El decreto solo llega hasta direcciones, subdirecciones y oficinas; los grupos internos de trabajo, que el Ministro puede crear, no se revisaron: «no encontrado» no equivale a «no existe». El Consejo es un «organismo de carácter permanente de dirección, consulta y asesoría del Gobierno Nacional, de los entes territoriales y de las organizaciones de enfermería», que integran el Ministro de Salud o su delegado, el Ministro de Educación o su delegado y representantes de asociaciones de enfermería, de facultades y de usuarios; no se verificó si sesiona actualmente. Encuesta regional de 2025 (lectura del mapa, autodeclarado): modelo «Dispersal».",
+   "baseLegal": "Decreto 120 del 30 de enero de 2026, «Por el cual se establece la estructura del Ministerio de Salud y Protección Social, se determinan sus funciones y se dictan otras disposiciones» (deroga el Decreto 4107 de 2011, artículo 63), en el texto del Gestor Normativo del Departamento Administrativo de la Función Pública, no contrastado con el Diario Oficial. Consejo: Ley 266 de 1996, artículos 5 y 7 (https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=66192).",
+   "enlace": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=272396",
+   "segunOMS": "Perfil 2020, «Chief Nursing Officer position»: «Yes». Perfil 2025, «Chief nursing position»: «No». Programa de liderazgo: «No» (2020) y «No» (2025). Respuestas del país leídas del ícono; el perfil no explica el cambio. Perfil 2020: https://apps.who.int/nhwaportal/Sown/Files?name=COL ; perfiles 2025: https://apps.who.int/nhwaportal/",
+   "verificacion": "MATIZAR",
+   "ref": "[america_sur#6] [oms_por_pais#2] [oms_por_pais#4] [evidencia_y_peru#4]"
+  },
+  {
+   "pais": "Brasil",
+   "iso3": "BRA",
+   "tieneOrgano": "NO",
+   "nombreOficial": "No encontrado en la Estrutura Regimental del Ministério da Saúde. Fuera de esa estructura existe el Conselho Federal de Enfermagem (consejo profesional).",
+   "nivel": "Tipo (clasificación propia): no encontrado (derivación propia, no cita). En el decreto no aparece la palabra «enfermagem»: ninguna secretaría ni departamento lleva ese nombre. El decreto solo nombra los órganos hasta el nivel de departamento; no se revisó el reglamento interno, de modo que no se descarta una coordinación o un cargo de enfermería por debajo de ese nivel. El Conselho Federal de Enfermagem no forma parte de esa estructura: la ley de 1973 lo crea, junto con los Conselhos Regionais, «constituindo em seu conjunto uma autarquia, vinculada ao Ministério do Trabalho e Previdência Social» (texto de 1973; vinculación actual no verificada). Encuesta regional de 2025 (lectura del mapa, autodeclarado): modelo «Program».",
+   "baseLegal": "Decreto número 11.798 del 28 de noviembre de 2023, que aprueba la Estrutura Regimental del Ministério da Saúde, con las modificaciones anotadas de los Decretos 12.036 de 2024, 12.489 de 2025 y 12.708 de 2025 (consultado el 11 de octubre de 2026). Lei número 5.905 del 12 de julio de 1973, artículo 1.",
+   "enlace": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/D11798.htm",
+   "segunOMS": "Perfil 2020, «Chief Nursing Officer position»: «No». Perfil 2025, «Chief nursing position»: «NR» (no reportado). Programa de liderazgo: «No» (2020) y «NR» (2025). Respuestas del país leídas del ícono; «NR» no equivale a «No». Perfil 2020: https://apps.who.int/nhwaportal/Sown/Files?name=BRA ; perfiles 2025: https://apps.who.int/nhwaportal/",
+   "verificacion": "MATIZAR",
+   "ref": "[america_sur#7] [oms_por_pais#2] [oms_por_pais#4] [evidencia_y_peru#4]"
+  },
+  {
+   "pais": "Bolivia",
+   "iso3": "BOL",
+   "tieneOrgano": "NO",
+   "nombreOficial": "No encontrado: ninguna unidad lleva la enfermería en su nombre en la estructura del Ministerio de Salud y Deportes.",
+   "nivel": "Tipo (clasificación propia): no encontrado (lectura propia del manual y del organigrama; derivación). El manual (numeral 14.10.1.1) atribuye dos funciones referidas a enfermería, dentro de una lista de veintiuna, a la «Unidad de Redes de Servicios de Salud y Calidad», de nivel operativo y dependiente de la Dirección General de Redes de Servicios de Salud: «r. Elaborar planes, normas, protocolos, reglamentos, guías, manuales y otros documentos para el servicio de enfermería y otros de apoyo en la atención de la Salud» y «s. Promover programas de formación, especialización y actualización del área de enfermería y otros, de acuerdo al perfil epidemiológico actual». Encuesta regional de 2025: sin respuesta.",
+   "baseLegal": "Resolución Ministerial número 0069 del 12 de diciembre de 2025 del Ministerio de Salud y Deportes, que aprueba la «Estructura Organizacional» y el «Manual de Organización y Funciones».",
+   "enlace": "https://www.minsalud.gob.bo/images/Descarga/RM%200069_ESTRUC_MOF_241225-a.pdf",
+   "segunOMS": "Perfil 2020, «Chief Nursing Officer position»: «No». Perfil 2025, «Chief nursing position»: «NR» (no reportado). Programa de liderazgo: «No» (2020) y «NR» (2025). Respuestas del país leídas del ícono. Perfil 2020: https://apps.who.int/nhwaportal/Sown/Files?name=BOL ; perfiles 2025: https://apps.who.int/nhwaportal/",
+   "verificacion": "MATIZAR",
+   "ref": "[america_sur#8] [oms_por_pais#2] [oms_por_pais#4]"
+  },
+  {
+   "pais": "Ecuador",
+   "iso3": "ECU",
+   "tieneOrgano": "NO",
+   "nombreOficial": "No encontrado: ninguna de las 29 menciones de «Dirección Nacional» del organigrama del Ministerio de Salud Pública es de enfermería.",
+   "nivel": "Tipo (clasificación propia): no encontrado (lectura propia del organigrama; derivación). El organigrama muestra 2 viceministerios, 6 subsecretarías y 29 menciones de «Dirección Nacional»; solo llega hasta dirección nacional, de modo que no se descarta una coordinación o un área de enfermería en niveles inferiores. No se abrió el Estatuto Orgánico. Encuesta regional de 2025: sin respuesta.",
+   "baseLegal": "Organigrama del Ministerio de Salud Pública fechado el 19 de julio de 2022, que el sitio ministerial sigue enlazando; su vigencia tras cambios posteriores no se pudo confirmar.",
+   "enlace": "https://www.salud.gob.ec/wp-content/uploads/2022/10/MSP_Estructura-2022.pdf",
+   "segunOMS": "Perfil 2020, «Chief Nursing Officer position»: «NR» (sin respuesta). Perfil 2025, «Chief nursing position»: «No». Programa de liderazgo: «No» (2020) y «No» (2025). Respuestas del país leídas del ícono. Perfil 2020: https://apps.who.int/nhwaportal/Sown/Files?name=ECU ; perfiles 2025: https://apps.who.int/nhwaportal/",
+   "verificacion": "MATIZAR",
+   "ref": "[america_sur#8] [oms_por_pais#2] [oms_por_pais#4]"
+  },
+  {
+   "pais": "Venezuela",
+   "iso3": "VEN",
+   "tieneOrgano": "NO",
+   "nombreOficial": "No encontrado: ninguna de las 19 direcciones generales del organigrama del Ministerio del Poder Popular para la Salud es de enfermería.",
+   "nivel": "Tipo (clasificación propia): no encontrado (lectura propia del organigrama; derivación). El organigrama muestra 5 despachos de viceministro y 19 direcciones generales; solo llega hasta dirección general, de modo que no se descarta una coordinación o un área de enfermería en niveles inferiores. No se abrieron las gacetas que cita. Encuesta regional de 2025: sin respuesta.",
+   "baseLegal": "«Organigrama Estructural MPPS» (MPPS: Ministerio del Poder Popular para la Salud), publicado en el sitio del Ministerio, que remite a gacetas de 2015 no abiertas.",
+   "enlace": "https://mpps.gob.ve/organigrama/",
+   "segunOMS": "Perfil 2020, «Chief Nursing Officer position»: «Yes». Perfil 2025, «Chief nursing position»: «NR» (no reportado). Programa de liderazgo: «Yes» (2020) y «NR» (2025). Respuestas del país leídas del ícono; un cargo «o equivalente» declarado no dice dónde está ni qué rango tiene. Perfil 2020: https://apps.who.int/nhwaportal/Sown/Files?name=VEN ; perfiles 2025: https://apps.who.int/nhwaportal/",
+   "verificacion": "MATIZAR",
+   "ref": "[america_sur#8] [oms_por_pais#2] [oms_por_pais#4]"
+  },
+  {
+   "pais": "Panamá",
+   "iso3": "PAN",
+   "tieneOrgano": "SI",
+   "nombreOficial": "«Dirección Nacional de Enfermería» (Ministerio de Salud)",
+   "nivel": "Tipo (clasificación propia): dirección nacional. El decreto la crea «como una dependencia dentro de la estructura organizacional del Ministerio de Salud», declara que el Ministerio «ha decidido elevar el Departamento Nacional de Enfermería a nivel de dirección» y la define como «instancia técnica y operativa con funciones de asesoría al Despacho Superior» (artículo 2): funciones de asesoría, no autoridad de línea sobre los servicios. Límite: el decreto prueba la creación normativa en 2024, no el funcionamiento ni la vigencia sin cambios en octubre de 2026; la página «Direcciones» del Ministerio, abierta en octubre de 2026, lista 14 direcciones y ninguna de enfermería.",
+   "baseLegal": "Decreto Ejecutivo número 19 de 11 de abril de 2024 (Gaceta Oficial Digital número 30008-B), «Que crea la Dirección Nacional de Enfermería, como una dependencia del Ministerio de Salud». El número y la fecha constan en el sumario impreso de la Gaceta.",
+   "enlace": "https://www.minsa.gob.pa/sites/default/files/normatividad/gacetano_30008b_20240411_decreto_ejecutivo_19_del_11_de_abril_de_2024.pdf",
+   "segunOMS": "Perfil 2020, «Chief Nursing Officer position»: «Yes». Perfil 2025, «Chief nursing position»: «Yes». Programa de liderazgo: «Yes» (2020) y «Yes» (2025). Respuestas del país leídas del ícono. Perfil 2020: https://apps.who.int/nhwaportal/Sown/Files?name=PAN ; perfiles 2025: https://apps.who.int/nhwaportal/",
+   "verificacion": "CONFIRMADA",
+   "ref": "[mesoamerica_caribe#1] [oms_por_pais#2] [oms_por_pais#4]"
+  },
+  {
+   "pais": "El Salvador",
+   "iso3": "SLV",
+   "tieneOrgano": "SI",
+   "nombreOficial": "«Dirección Nacional de Enfermería» (Ministerio de Salud)",
+   "nivel": "Tipo (clasificación propia): dirección nacional dependiente de un viceministerio. Dependencia jerárquica: «Viceministerio de Operaciones en Salud», no el despacho del Ministro. Es el cambio de denominación de un órgano que ya existía (la Unidad Nacional de Enfermería), no una creación. Vigencia a octubre de 2026 no confirmada: el texto se leyó en la copia que Internet Archive guardó el 21 de abril de 2026, porque el sitio oficial respondió error 403 el 11 de octubre de 2026.",
+   "baseLegal": "Acuerdo número 550 del Órgano Ejecutivo en el Ramo de Salud, de 14 de enero de 2026, que emite el «Manual de organización y funciones de la Dirección Nacional de Enfermería». Su considerando IV señala que el Acuerdo número 2427, de 24 de septiembre de 2025 (no abierto), «modificó la estructura organizativa del Ministerio de Salud, denominando a la Unidad Nacional de Enfermería como Dirección Nacional de Enfermería».",
+   "enlace": "https://web.archive.org/web/20260421173615id_/https://asp.salud.gob.sv/regulacion/pdf/manual/manualdeorganizacionyfuncionesdeladireccionnacionaldeenfermeria-AE-550-14012026_v1.pdf",
+   "segunOMS": "Perfil 2020, «Chief Nursing Officer position»: «Yes». Perfil 2025, «Chief nursing position»: «NR» (no reportado). Programa de liderazgo: «No» (2020) y «NR» (2025). Respuestas del país leídas del ícono. Perfil 2020: https://apps.who.int/nhwaportal/Sown/Files?name=SLV ; perfiles 2025: https://apps.who.int/nhwaportal/",
+   "verificacion": "MATIZAR",
+   "ref": "[mesoamerica_caribe#2] [oms_por_pais#2] [oms_por_pais#4]"
+  },
+  {
+   "pais": "República Dominicana",
+   "iso3": "DOM",
+   "tieneOrgano": "SI",
+   "nombreOficial": "«Dirección de Regulación del Servicio de Enfermería» (Ministerio de Salud Pública y Asistencia Social)",
+   "nivel": "Tipo (clasificación propia): dirección de regulación dentro de un viceministerio; no es una dirección nacional que dependa directamente del Ministro. Figura entre las unidades organizativas que integran el Viceministerio de Garantía de la Calidad de los Servicios de Salud (artículo 10, Párrafo II); el mismo artículo dice que «se propone» esa denominación del viceministerio y que este «queda sujeto a la aprobación formal mediante la Ley de Ministerios» (Párrafo I). La resolución suprime el Departamento de Desarrollo de Recursos Humanos en Enfermería y transfiere esas funciones a otro viceministerio (Párrafo III). No se verificó que la estructura siga sin cambios a octubre de 2026: el portal de transparencia no muestra actos de estructura posteriores a 2022.",
+   "baseLegal": "Resolución número 000068 del Ministerio de Salud Pública y Asistencia Social, de 17 de diciembre de 2021, «Que modifica la estructura organizativa del Ministerio de Salud Pública y Asistencia Social», refrendada por el Ministerio de Administración Pública. La misma resolución dice que «se modifica en parte la resolución Núm. 000049 del 22 de diciembre del 2020 que crea la Dirección de Desarrollo y Regulación de Enfermería»; la Resolución número 000049 no se abrió.",
+   "enlace": "https://www.msp.gob.do/web/Transparencia/documentos_oai/36/organigrama/21562/resolucion-no-000068-2021.pdf",
+   "segunOMS": "Perfil 2020, «Chief Nursing Officer position»: «Yes». Perfil 2025, «Chief nursing position»: «NR» (no reportado). Programa de liderazgo: «No» (2020) y «NR» (2025). Respuestas del país leídas del ícono. Perfil 2020: https://apps.who.int/nhwaportal/Sown/Files?name=DOM ; perfiles 2025: https://apps.who.int/nhwaportal/",
+   "verificacion": "MATIZAR",
+   "ref": "[mesoamerica_caribe#3] [oms_por_pais#2] [oms_por_pais#4]"
+  },
+  {
+   "pais": "Nicaragua",
+   "iso3": "NIC",
+   "tieneOrgano": "SI",
+   "nombreOficial": "«Dirección de Enfermería» (prevista en el capítulo del Ministerio de Salud del reglamento del Poder Ejecutivo)",
+   "nivel": "Tipo (clasificación propia): dirección prevista en la norma, de nivel inferior a la «Dirección General» (artículo 3, numeral 2.2.2). El artículo 242 le asigna «ejercer la rectoría de los servicios de enfermería del sector salud». El artículo 233, que enumera la estructura del Ministerio de Salud, no la menciona. La cita acredita lo que la norma prevé; no se verificó el organigrama ni el funcionamiento de esa Dirección en 2026.",
+   "baseLegal": "Reglamento de la Ley número 290, Ley de Organización, Competencia y Procedimientos del Poder Ejecutivo (Decreto Ejecutivo número 71-98), texto consolidado aprobado por la Asamblea Nacional el 10 de junio de 2021 y publicado en La Gaceta, Diario Oficial número 170 del 21 de septiembre de 2023, artículo 242.",
+   "enlace": "http://legislacion.asamblea.gob.ni/__062569d000710dd9.nsf/09cf45d6fc893868062572650059911e/e6b0f53e14da0c04062580f3005bf577",
+   "segunOMS": "Perfil 2020, «Chief Nursing Officer position»: «Yes». Perfil 2025, «Chief nursing position»: «NR» (no reportado). Programa de liderazgo: «Partial» (2020) y «NR» (2025). Respuestas del país leídas del ícono. Perfil 2020: https://apps.who.int/nhwaportal/Sown/Files?name=NIC ; perfiles 2025: https://apps.who.int/nhwaportal/",
+   "verificacion": "MATIZAR",
+   "ref": "[mesoamerica_caribe#4] [oms_por_pais#2] [oms_por_pais#4]"
+  },
+  {
+   "pais": "México",
+   "iso3": "MEX",
+   "tieneOrgano": "POR_DETERMINAR",
+   "nombreOficial": "«Comisión Permanente de Enfermería» (acto de 2007; vigencia y funcionamiento en 2026 no verificados)",
+   "nivel": "Tipo (clasificación propia): órgano colegiado asesor, no una dirección con autoridad de línea. Fue creada «como un cuerpo colegiado asesor de la Secretaría de Salud» (artículo 1); la integra «el Secretario de Salud, quien lo presidirá», y «el Director de Enfermería de la Subsecretaría de Innovación y Calidad de la Secretaría de Salud, quien fungirá como Coordinador General» (artículo 3); sus miembros participan «a título honorario» (transitorio cuarto). Por determinar: el Reglamento Interior de la Secretaría de Salud publicado el 27 de febrero de 2025 no menciona la Comisión, ni una Dirección de Enfermería, ni la Subsecretaría de Innovación y Calidad (derivación; no prueba la supresión).",
+   "baseLegal": "Acuerdo del Secretario de Salud dado el 4 de enero de 2007 y publicado en el Diario Oficial de la Federación el 25 de enero de 2007. Contraste: Reglamento Interior de la Secretaría de Salud, Diario Oficial de la Federación del 27 de febrero de 2025.",
+   "enlace": "https://dof.gob.mx/nota_detalle.php?codigo=4960272&fecha=25/01/2007",
+   "segunOMS": "Perfil 2020, «Chief Nursing Officer position»: «Yes». Perfil 2025, «Chief nursing position»: «Yes». Programa de liderazgo: «Yes» (2020) y «Yes» (2025). Respuestas del país leídas del ícono; no nombran el órgano. Perfil 2020: https://apps.who.int/nhwaportal/Sown/Files?name=MEX ; perfiles 2025: https://apps.who.int/nhwaportal/",
+   "verificacion": "MATIZAR",
+   "ref": "[mesoamerica_caribe#5] [oms_por_pais#2] [oms_por_pais#4]"
+  },
+  {
+   "pais": "Guatemala",
+   "iso3": "GTM",
+   "tieneOrgano": "POR_DETERMINAR",
+   "nombreOficial": "«Unidad de Desarrollo de los Servicios de Enfermería del Ministerio de Salud Pública y Asistencia Social» (nombrada en un plan; no figura en el reglamento orgánico abierto)",
+   "nivel": "Tipo (clasificación propia): por determinar (derivación). El artículo 7 del Reglamento Orgánico Interno enumera dieciséis órganos y ninguno lleva la palabra enfermería; vale para el texto original de 2023, porque no se pudo abrir el texto de posibles reformas. El Plan Nacional de Enfermería de Guatemala 2026-2031, documento de planificación del Consejo Nacional de Enfermería (no una norma de organización del Ministerio), dice que la Unidad, «en la estructura organizativa del sistema de salud guatemalteco», es «la instancia técnica normativa de máxima jerarquía»; «máxima jerarquía» es la descripción del plan, no un rango legal. No se localizó el acto que la creó ni de qué viceministerio depende.",
+   "baseLegal": "Reglamento Orgánico Interno del Ministerio de Salud Pública y Asistencia Social, Acuerdo Gubernativo número 59-2023, de 30 de marzo de 2023, artículo 7 (https://medicamentos.mspas.gob.gt/index.php/legislacion-vigente/acuerdos). Acto de creación de la Unidad: por determinar.",
+   "enlace": "https://www.paho.org/sites/default/files/2026/05/plan-nacional-enfermeria-guatemala-final.pdf",
+   "segunOMS": "Perfil 2020, «Chief Nursing Officer position»: «Yes». Perfil 2025, «Chief nursing position»: «Yes». Programa de liderazgo: «No» (2020) y «No» (2025). Respuestas del país leídas del ícono. Perfil 2020: https://apps.who.int/nhwaportal/Sown/Files?name=GTM ; perfiles 2025: https://apps.who.int/nhwaportal/",
+   "verificacion": "MATIZAR",
+   "ref": "[mesoamerica_caribe#6] [oms_por_pais#2] [oms_por_pais#4]"
+  },
+  {
+   "pais": "Costa Rica",
+   "iso3": "CRI",
+   "tieneOrgano": "NO",
+   "nombreOficial": "No encontrado en la estructura oficial del Ministerio de Salud.",
+   "nivel": "Tipo (clasificación propia): no encontrado (derivación). Premisa 1: el texto del Reglamento Orgánico, en la copia con reformas incorporadas hasta 2019, no contiene la palabra «enfermería». Premisa 2: el organigrama que el Ministerio publica en octubre de 2026 (última aprobación anotada: 15 de enero de 2026), leído hasta el nivel de unidades, tampoco muestra una unidad con ese nombre. Límites: no se abrieron las reformas posteriores a 2019; no se revisaron cargos por debajo del nivel de unidad ni órganos fuera del Ministerio (colegio profesional, Caja Costarricense de Seguro Social); «no encontrado» no equivale a «no existe».",
+   "baseLegal": "Reglamento Orgánico del Ministerio de Salud, Decreto Ejecutivo número 40724-S, de 23 de septiembre de 2017 (Alcance 273 a La Gaceta número 215 de 14 de noviembre de 2017), en la copia con reformas incorporadas hasta el Decreto Ejecutivo número 41999 de 20 de septiembre de 2019; organigrama publicado en la página «Estructura Organizacional».",
+   "enlace": "https://www.ministeriodesalud.go.cr/index.php/ministerio-de-salud/informacion-general/estructura-organizacional",
+   "segunOMS": "Perfil 2020, «Chief Nursing Officer position»: «Yes». Perfil 2025, «Chief nursing position»: «Yes». Programa de liderazgo: «Yes» (2020) y «Yes» (2025). Respuestas del país leídas del ícono; a qué cargo «o equivalente» corresponde ese «Yes» queda por determinar, porque el perfil no lo nombra. Perfil 2020: https://apps.who.int/nhwaportal/Sown/Files?name=CRI ; perfiles 2025: https://apps.who.int/nhwaportal/",
+   "verificacion": "MATIZAR",
+   "ref": "[mesoamerica_caribe#7] [oms_por_pais#2] [oms_por_pais#4]"
+  },
+  {
+   "pais": "Honduras",
+   "iso3": "HND",
+   "tieneOrgano": "NO",
+   "nombreOficial": "No encontrado en el Reglamento Interno de Organización y Funciones de la Secretaría de Estado en el Despacho de Salud (texto de 2014).",
+   "nivel": "Tipo (clasificación propia): no encontrado (derivación). Ni el artículo 13, que enumera los niveles de la estructura, ni el organigrama del artículo 15 incluyen una unidad de enfermería. La palabra enfermería aparece dos veces, ambas en el artículo 90, numeral 3 (integración de la Asamblea General del Consejo Nacional de Salud): «Un representante del Colegio de Profesionales de Enfermería de Honduras» y «La Directora de la Carrera de Enfermería» de la Universidad Nacional Autónoma de Honduras; el reglamento define ese consejo como «órgano de consulta y asesoría» y dice que los consejos consultivos «no forman parte de la estructura formal». El reglamento solo desciende hasta direcciones generales y unidades; no se pudo confirmar que siga sin reformas en octubre de 2026.",
+   "baseLegal": "Acuerdo número 406, de 15 de mayo de 2014, Diario Oficial La Gaceta número 33,495 de 2 de agosto de 2014 (copia alojada en el sitio del Tribunal Superior de Cuentas).",
+   "enlace": "https://www.tsc.gob.hn/web/leyes/Reglamento_Interno_Organizacion_Salud.pdf",
+   "segunOMS": "Perfil 2020, «Chief Nursing Officer position»: «No». Perfil 2025, «Chief nursing position»: «NR» (no reportado). Programa de liderazgo: «No» (2020) y «NR» (2025). Respuestas del país leídas del ícono. Perfil 2020: https://apps.who.int/nhwaportal/Sown/Files?name=HND ; perfiles 2025: https://apps.who.int/nhwaportal/",
+   "verificacion": "MATIZAR",
+   "ref": "[mesoamerica_caribe#8] [oms_por_pais#2] [oms_por_pais#4]"
+  },
+  {
+   "pais": "Cuba",
+   "iso3": "CUB",
+   "tieneOrgano": "POR_DETERMINAR",
+   "nombreOficial": "Por determinar: ninguna afirmación verificada nombra el órgano.",
+   "nivel": "Por determinar: los buscadores no pudieron abrir ninguna norma que fije la estructura vigente del Ministerio de Salud Pública (ver «porDeterminar»).",
+   "baseLegal": "Por determinar: organigrama o resolución de estructura del Ministerio de Salud Pública.",
+   "enlace": "https://apps.who.int/nhwaportal/Sown/Files?name=CUB",
+   "segunOMS": "Perfil 2020, «Chief Nursing Officer position»: «Yes». Perfil 2025, «Chief nursing position»: «NR» (no reportado). Programa de liderazgo: «Yes» (2020) y «NR» (2025). Respuestas del país leídas del ícono; no nombran el órgano ni su rango. Perfil 2020: https://apps.who.int/nhwaportal/Sown/Files?name=CUB ; perfiles 2025: https://apps.who.int/nhwaportal/",
+   "verificacion": "MATIZAR",
+   "ref": "[oms_por_pais#2] [oms_por_pais#4] (solo los valores del perfil; sobre el órgano no hay afirmación verificada)"
+  },
+  {
+   "pais": "Irlanda",
+   "iso3": "IRL",
+   "tieneOrgano": "SI",
+   "nombreOficial": "Chief Nursing Officer (jefatura de enfermería y partería designada por el Gobierno), cargo del Department of Health (ministerio de salud); división «Chief Nursing Officer's (CNO's) and Professional Regulation Division»",
+   "nivel": "Tipo (clasificación propia): cargo de alta dirección con división propia. Situado «at Assistant Secretary level» (nivel de secretario adjunto); en el directorio oficial del 1 de octubre de 2026 figura junto a los Assistant Secretaries, después del Secretary General. Según la estrategia 2024-2026, tiene «a full policy and management brief» que integra, entre otras, la Nursing and Midwifery Policy Unit, la Professional Regulation Unit, la Strategic Workforce Planning Unit y la National Patient Safety Office. DERIVACIÓN: no es una dirección exclusiva de enfermería; incluye seguridad del paciente, regulación de otras profesiones, tamizaje poblacional y planificación de la fuerza laboral. Ninguna fuente abierta dice a quién reporta el cargo ni la fecha de su creación.",
+   "baseLegal": "Sin norma de creación abierta. Fuentes oficiales: ficha del cargo (última actualización 18 de junio de 2026); «Strategy for the Office of the Chief Nursing Officer 2024-2026» (8 de mayo de 2024, página impresa 8); directorio «Department of Health - Who Does What» (1 de octubre de 2026).",
+   "enlace": "https://www.gov.ie/en/department-of-health/roles/chief-nursing-officer/",
+   "segunOMS": "Perfil de país no abierto en este flujo: solo se abrieron los 35 perfiles de la Región de las Américas.",
+   "verificacion": "MATIZAR",
+   "ref": "[altos_ingresos#1]"
+  },
+  {
+   "pais": "Reino Unido",
+   "iso3": "GBR",
+   "tieneOrgano": "SI",
+   "nombreOficial": "Chief Nursing Officer for England (registrado bajo el Department of Health and Social Care, ministerio de salud y asistencia social); Chief Nursing Officer Directorate (Gobierno de Escocia); Chief Nursing Officer for Wales and Nurse Director of NHS Wales (Gobierno de Gales; NHS: National Health Service, servicio nacional de salud); Chief Nursing Officer del Department of Health (Irlanda del Norte)",
+   "nivel": "Tipo (clasificación propia): un cargo de jefatura de enfermería en el Gobierno británico para Inglaterra y en cada una de las tres administraciones autónomas (derivación a partir de cuatro páginas oficiales); solo Escocia tiene formalmente una dirección. Inglaterra: el portal GOV.UK registra el cargo bajo el ministerio con inicio el 3 de noviembre de 2025 e indica que es «a role he was originally appointed to at NHS England» (National Health Service England, organismo ejecutor y no ministerio), que sigue presentando a su titular como «Chief Nursing Officer for England and Executive Director at NHS England». Escocia: la dirección es responsable de «policy advice for ministers» y abarca también partería, profesiones afines a la salud y ciencias de la salud. Ninguna fuente dice desde cuándo existe cada cargo ni su línea de reporte.",
+   "baseLegal": "Sin norma de creación abierta. Fichas oficiales vigentes al 10 de octubre de 2026: GOV.UK (actualizada el 6 de noviembre de 2025), https://www.gov.scot/about/how-government-is-run/directorates/chief-nursing-officer/ , https://www.gov.wales/sue-tranka y https://www.health-ni.gov.uk/articles/doh-chief-nursing-officer",
+   "enlace": "https://www.gov.uk/government/people/duncan-burton",
+   "segunOMS": "Perfil de país no abierto en este flujo: solo se abrieron los 35 perfiles de la Región de las Américas.",
+   "verificacion": "MATIZAR",
+   "ref": "[altos_ingresos#5]"
+  },
+  {
+   "pais": "Canadá",
+   "iso3": "CAN",
+   "tieneOrgano": "SI",
+   "nombreOficial": "Chief Nursing Officer for Canada (jefa de enfermería de Canadá), cargo unipersonal de asesoría en Health Canada (ministerio federal de salud)",
+   "nivel": "Tipo (clasificación propia): cargo unipersonal de asesoría; no es una dirección nacional ni un órgano con mando sobre los servicios, que prestan las provincias y los territorios. Encargo: dar «strategic advice from a nursing perspective to Health Canada» y un papel de convocatoria con los gobiernos provinciales y territoriales y otros actores. El cuaderno informativo de enero de 2026 lo lista en el último renglón de la estructura de la Health Policy Branch (rama de política de salud), después de las direcciones generales; al 10 de octubre de 2026 el directorio oficial lo mantenía en el despacho del viceministro adjunto de esa rama. El cargo «was eliminated in 2012» y se repuso en 2022 como «assignment» de dos años con posibilidad de prórroga. El comunicado no dice a quién reporta.",
+   "baseLegal": "Sin norma de creación: comunicado de Health Canada del 23 de agosto de 2022 (primer Chief Nursing Officer nombrado en 1968; proceso de reposición lanzado el 1 de febrero de 2022). Complemento: «Deputy Ministerial Briefing Book» de enero de 2026, leído mediante una herramienta de lectura web; conviene que una persona lo abra antes de citarlo en un documento firmado.",
+   "enlace": "https://www.canada.ca/en/health-canada/news/2022/08/government-of-canada-announces-chief-nursing-officer-for-canada.html",
+   "segunOMS": "Perfil 2020, «Chief Nursing Officer position»: «Yes». Perfil 2025, «Chief nursing position»: «Yes». Programa de liderazgo: «Yes» (2020) y «Yes» (2025). Respuestas del país leídas del ícono. Perfil 2020: https://apps.who.int/nhwaportal/Sown/Files?name=CAN ; perfiles 2025: https://apps.who.int/nhwaportal/",
+   "verificacion": "MATIZAR",
+   "ref": "[altos_ingresos#4] [oms_por_pais#2] [oms_por_pais#4]"
+  },
+  {
+   "pais": "Australia",
+   "iso3": "AUS",
+   "tieneOrgano": "SI",
+   "nombreOficial": "Chief Nursing and Midwifery Officer del Gobierno de Australia (jefa de enfermería y partería), cargo del Department of Health, Disability and Ageing (ministerio federal de salud); la página oficial leída en vivo el 10 de octubre de 2026 lleva el título «Commonwealth Chief Nurse»",
+   "nivel": "Tipo (clasificación propia): cargo de asesoría de alto nivel; no es una dirección con línea de mando (derivación). Ofrece «strategic policy advice to Ministers, the executive and staff within the Department [...] and other government departments» en enfermería, partería, reforma del sistema de salud, regulación de la fuerza laboral y educación. El directorio oficial (actualizado el 16 de febrero de 2026) ubica el cargo en la «Professional Advisory Unit» del grupo «Systems Strategy», encabezado por una Deputy Secretary (subsecretaria); otra página del ministerio menciona una «Chief Nursing and Midwifery Officer Division». La titular fue nombrada en noviembre de 2019. Estado federal: los estados y territorios tienen sus propias jefaturas de enfermería.",
+   "baseLegal": "Sin norma de creación abierta. Página oficial del cargo (captura de Internet Archive del 21 de mayo de 2026 y lectura en vivo del 10 de octubre de 2026). Por determinar: el acto y el motivo del cambio de denominación.",
+   "enlace": "https://www.health.gov.au/contacts/commonwealth-chief-nurse",
+   "segunOMS": "Perfil de país no abierto en este flujo: solo se abrieron los 35 perfiles de la Región de las Américas.",
+   "verificacion": "MATIZAR",
+   "ref": "[altos_ingresos#6]"
+  },
+  {
+   "pais": "Estados Unidos de América",
+   "iso3": "USA",
+   "tieneOrgano": "SI",
+   "nombreOficial": "«Chief Nurse Officer of the Service» del Public Health Service (Servicio de Salud Pública), con título de Assistant Surgeon General",
+   "nivel": "Tipo (clasificación propia): cargo previsto por ley federal en un cuerpo uniformado; no se presenta como una dirección nacional de enfermería del Department of Health and Human Services (Departamento de Salud y Servicios Humanos, equivalente federal al ministerio de salud; derivación). La ley solo ordena la asignación y da el título; es la página oficial del Commissioned Corps la que indica que asesora a la Office of the Surgeon General y al Departamento sobre reclutamiento, asignación, despliegue, retención y desarrollo de carrera de los profesionales de enfermería. No es el único órgano federal de enfermería creado por ley (por ejemplo, el National Institute of Nursing Research y el Director of Nursing Service del Department of Veterans Affairs). El organigrama del Departamento no se pudo abrir: no se afirma ni se niega una jefatura de enfermería para todo el Departamento. El proyecto de ley de la Cámara de Representantes 1597 (National Nurse Act of 2019) no se convirtió en ley.",
+   "baseLegal": "Título 42 del United States Code, sección 206(b); cargo incorporado por la Public Law 96-76, sección 302(b), del 29 de septiembre de 1979. Función: página oficial https://www.usphs.gov/leadership/chief-nurse-officer",
+   "enlace": "https://www.govinfo.gov/content/pkg/USCODE-2023-title42/html/USCODE-2023-title42-chap6A-subchapI-partA-sec206.htm",
+   "segunOMS": "Perfil 2020, «Chief Nursing Officer position»: «Partial». Perfil 2025, «Chief nursing position»: «Partial». Programa de liderazgo: «Yes» (2020) y «Yes» (2025). Respuestas del país leídas del ícono. Perfil 2020: https://apps.who.int/nhwaportal/Sown/Files?name=USA ; perfiles 2025: https://apps.who.int/nhwaportal/",
+   "verificacion": "MATIZAR",
+   "ref": "[altos_ingresos#7] [oms_por_pais#2] [oms_por_pais#4]"
+  },
+  {
+   "pais": "España",
+   "iso3": "ESP",
+   "tieneOrgano": "SI",
+   "nombreOficial": "«Comité de Cuidados en Salud» (Ministerio de Sanidad), al que corresponde «Designar a la Directora de Cuidados en España (Chief Nursing and Midwifery Officer, en nomenclatura utilizada por la Organización Mundial de la Salud)»",
+   "nivel": "Tipo (clasificación propia, siguiendo a los verificadores): comité asesor más figura designada; no es una dirección general ni nacional de enfermería (derivación: en el Real Decreto 718/2024, texto consolidado, ningún órgano lleva nombre de enfermería o de cuidados). El Comité tiene «naturaleza de grupo de trabajo y órgano colegiado» y «depende de la persona titular de la Secretaría de Estado del Ministerio de Sanidad», que lo preside; sus funciones son de estudio, propuesta, asesoramiento y seguimiento; la orden no reserva ningún puesto a profesionales de enfermería y dispone que su actuación «no supondrá gastos adicionales a los previstos en las dotaciones presupuestarias del mismo ni incremento de gasto público». La figura designada integra la Comisión Permanente y no dirige un órgano del Ministerio.",
+   "baseLegal": "Orden ministerial firmada el 29 de abril de 2024, constituida conforme al artículo 22.3 de la Ley 40/2015 (los acuerdos de estos grupos «no podrán tener efectos directos frente a terceros»); la orden no figura en el Boletín Oficial del Estado. El Real Decreto 216/2026, de 18 de marzo, menciona al Comité (artículo 6.1 b) 1.º). Contraste: Real Decreto 718/2024, texto consolidado (https://www.boe.es/eli/es/rd/2024/07/23/718/con).",
+   "enlace": "https://www.sanidad.gob.es/areas/cuidadosEnSalud/organismos/docs/ORDEN_MINISTERIAL_CREACION_COMITE_CUIDADOS.pdf",
+   "segunOMS": "Perfil de país no abierto en este flujo: solo se abrieron los 35 perfiles de la Región de las Américas.",
+   "verificacion": "MATIZAR",
+   "ref": "[altos_ingresos#2]"
+  },
+  {
+   "pais": "Portugal",
+   "iso3": "PRT",
+   "tieneOrgano": "SI",
+   "nombreOficial": "«função de chief nursing officer, no âmbito da Direção-Geral da Saúde» (función de jefatura de enfermería en el ámbito de la Dirección General de Salud)",
+   "nivel": "Tipo (clasificación propia): función asesora individual, sin cargo directivo; no es una dirección nacional de enfermería (derivación de los números 1 y 5 del despacho). Le compete dar al Director General de Salud y al miembro del Gobierno responsable de salud «aconselhamento e orientação na área de enfermagem»; la función «não confere o direito a qualquer remuneração adicional, ressalvadas as ajudas de custo a que haja lugar nos termos legais, nem implica a criação de cargo dirigente»; el nombramiento es por tres años, renovable, a propuesta del Director General de Salud. La Direção-Geral da Saúde es «um serviço central do Ministério da Saúde» (Decreto Regulamentar número 14/2012, artículo 1.º). El despacho recuerda que no había titular desde julio de 2022. Vigencia posterior al 15 de mayo de 2026 no verificada.",
+   "baseLegal": "Despacho número 13898/2024 del Gabinete de la Secretária de Estado da Saúde (Diário da República, 2.ª série, número 228, 25 de noviembre de 2024; firmado el 17 de noviembre de 2024 y con efectos desde el 1 de noviembre de 2024). Revoca el Despacho número 19816/2007, que previó la función por primera vez y que no se abrió.",
+   "enlace": "https://files.diariodarepublica.pt/2s/2024/11/228000000/0010800110.pdf",
+   "segunOMS": "Perfil de país no abierto en este flujo: solo se abrieron los 35 perfiles de la Región de las Américas.",
+   "verificacion": "MATIZAR",
+   "ref": "[altos_ingresos#3]"
+  },
+  {
+   "pais": "Nueva Zelanda",
+   "iso3": "NZL",
+   "tieneOrgano": "POR_DETERMINAR",
+   "nombreOficial": "Por determinar: ninguna afirmación verificada.",
+   "nivel": "Por determinar: el sitio oficial del Ministry of Health devolvió error 403; los buscadores solo leyeron una captura archivada del 26 de marzo de 2025, sin confirmar el estado en 2026 (ver «porDeterminar»).",
+   "baseLegal": "Por determinar.",
+   "enlace": "http://web.archive.org/web/20250326210429id_/https://www.health.govt.nz/strategies-initiatives/programmes-and-initiatives/nursing/nursing-leadership/office-of-the-chief-nurse",
+   "segunOMS": "Perfil de país no abierto en este flujo: solo se abrieron los 35 perfiles de la Región de las Américas.",
+   "verificacion": "SIN_VERIFICAR",
+   "ref": "Sin afirmación verificada; nota de los buscadores del ángulo [altos_ingresos]"
+  },
+  {
+   "pais": "Guyana",
+   "iso3": "GUY",
+   "tieneOrgano": "POR_DETERMINAR",
+   "nombreOficial": "Por determinar: el perfil de país no nombra el órgano.",
+   "nivel": "Por determinar: no se revisó la norma de organización del ministerio de salud. En la encuesta regional de 2025 (lectura del color del mapa, derivación; autodeclarado) aparece con el color del modelo «Executive».",
+   "baseLegal": "Por determinar.",
+   "enlace": "https://apps.who.int/nhwaportal/Sown/Files?name=GUY",
+   "segunOMS": "Perfil 2020, «Chief Nursing Officer position»: «Yes». Perfil 2025, «Chief nursing position»: «Yes». Programa de liderazgo: «Yes» (2020) y «Yes» (2025). Respuestas del país leídas del ícono; no nombran el órgano ni su rango. Perfiles 2025: https://apps.who.int/nhwaportal/",
+   "verificacion": "MATIZAR",
+   "ref": "[oms_por_pais#2] [oms_por_pais#4] [evidencia_y_peru#4]"
+  },
+  {
+   "pais": "Surinam",
+   "iso3": "SUR",
+   "tieneOrgano": "POR_DETERMINAR",
+   "nombreOficial": "Por determinar: el perfil de país no nombra el órgano.",
+   "nivel": "Por determinar: no se revisó la norma de organización del ministerio de salud. En la encuesta regional de 2025 (lectura del color del mapa, derivación; autodeclarado) aparece con el color del modelo «Executive».",
+   "baseLegal": "Por determinar.",
+   "enlace": "https://apps.who.int/nhwaportal/Sown/Files?name=SUR",
+   "segunOMS": "Perfil 2020, «Chief Nursing Officer position»: «Yes». Perfil 2025, «Chief nursing position»: «NR» (no reportado). Programa de liderazgo: «Yes» (2020) y «NR» (2025). Respuestas del país leídas del ícono. Perfiles 2025: https://apps.who.int/nhwaportal/",
+   "verificacion": "MATIZAR",
+   "ref": "[oms_por_pais#2] [oms_por_pais#4] [evidencia_y_peru#4]"
+  },
+  {
+   "pais": "Belice",
+   "iso3": "BLZ",
+   "tieneOrgano": "POR_DETERMINAR",
+   "nombreOficial": "Por determinar: el perfil de país no nombra el órgano.",
+   "nivel": "Por determinar: no se revisó la norma de organización del ministerio de salud; el perfil no indica rango ni base legal.",
+   "baseLegal": "Por determinar.",
+   "enlace": "https://apps.who.int/nhwaportal/Sown/Files?name=BLZ",
+   "segunOMS": "Perfil 2020, «Chief Nursing Officer position»: «Yes». Perfil 2025, «Chief nursing position»: «Yes». Programa de liderazgo: «Yes» (2020) y «Yes» (2025). Respuestas del país leídas del ícono. Perfiles 2025: https://apps.who.int/nhwaportal/",
+   "verificacion": "MATIZAR",
+   "ref": "[oms_por_pais#2] [oms_por_pais#4]"
+  },
+  {
+   "pais": "Antigua y Barbuda",
+   "iso3": "ATG",
+   "tieneOrgano": "POR_DETERMINAR",
+   "nombreOficial": "Por determinar: el perfil de país no nombra el órgano.",
+   "nivel": "Por determinar: no se revisó la norma de organización del ministerio de salud; el perfil no indica rango ni base legal.",
+   "baseLegal": "Por determinar.",
+   "enlace": "https://apps.who.int/nhwaportal/Sown/Files?name=ATG",
+   "segunOMS": "Perfil 2020, «Chief Nursing Officer position»: «Yes». Perfil 2025, «Chief nursing position»: «Yes». Programa de liderazgo: «No» (2020) y «Yes» (2025). Respuestas del país leídas del ícono. Perfiles 2025: https://apps.who.int/nhwaportal/",
+   "verificacion": "MATIZAR",
+   "ref": "[oms_por_pais#2] [oms_por_pais#4]"
+  },
+  {
+   "pais": "Bahamas",
+   "iso3": "BHS",
+   "tieneOrgano": "POR_DETERMINAR",
+   "nombreOficial": "Por determinar: el perfil de país no nombra el órgano.",
+   "nivel": "Por determinar: no se revisó la norma de organización del ministerio de salud; el perfil no indica rango ni base legal.",
+   "baseLegal": "Por determinar.",
+   "enlace": "https://apps.who.int/nhwaportal/Sown/Files?name=BHS",
+   "segunOMS": "Perfil 2020, «Chief Nursing Officer position»: «Yes». Perfil 2025, «Chief nursing position»: «Yes». Programa de liderazgo: «No» (2020) y «Yes» (2025). Respuestas del país leídas del ícono. Perfiles 2025: https://apps.who.int/nhwaportal/",
+   "verificacion": "MATIZAR",
+   "ref": "[oms_por_pais#2] [oms_por_pais#4]"
+  },
+  {
+   "pais": "Barbados",
+   "iso3": "BRB",
+   "tieneOrgano": "POR_DETERMINAR",
+   "nombreOficial": "Por determinar: el perfil de país no nombra el órgano.",
+   "nivel": "Por determinar: no se revisó la norma de organización del ministerio de salud; el perfil no indica rango ni base legal.",
+   "baseLegal": "Por determinar.",
+   "enlace": "https://apps.who.int/nhwaportal/Sown/Files?name=BRB",
+   "segunOMS": "Perfil 2020, «Chief Nursing Officer position»: «Yes». Perfil 2025, «Chief nursing position»: «Yes». Programa de liderazgo: «Yes» (2020) y «Yes» (2025). Respuestas del país leídas del ícono. Perfiles 2025: https://apps.who.int/nhwaportal/",
+   "verificacion": "MATIZAR",
+   "ref": "[oms_por_pais#2] [oms_por_pais#4]"
+  },
+  {
+   "pais": "Dominica",
+   "iso3": "DMA",
+   "tieneOrgano": "POR_DETERMINAR",
+   "nombreOficial": "Por determinar: el perfil de país no nombra el órgano.",
+   "nivel": "Por determinar: no se revisó la norma de organización del ministerio de salud; el perfil no indica rango ni base legal.",
+   "baseLegal": "Por determinar.",
+   "enlace": "https://apps.who.int/nhwaportal/Sown/Files?name=DMA",
+   "segunOMS": "Perfil 2020, «Chief Nursing Officer position»: «Yes». Perfil 2025, «Chief nursing position»: «NR» (no reportado). Programa de liderazgo: «No» (2020) y «NR» (2025). Respuestas del país leídas del ícono. Perfiles 2025: https://apps.who.int/nhwaportal/",
+   "verificacion": "MATIZAR",
+   "ref": "[oms_por_pais#2] [oms_por_pais#4]"
+  },
+  {
+   "pais": "Granada",
+   "iso3": "GRD",
+   "tieneOrgano": "POR_DETERMINAR",
+   "nombreOficial": "Por determinar: el perfil de país no nombra el órgano.",
+   "nivel": "Por determinar: no se revisó la norma de organización del ministerio de salud; el perfil no indica rango ni base legal.",
+   "baseLegal": "Por determinar.",
+   "enlace": "https://apps.who.int/nhwaportal/Sown/Files?name=GRD",
+   "segunOMS": "Perfil 2020, «Chief Nursing Officer position»: «Yes». Perfil 2025, «Chief nursing position»: «Yes». Programa de liderazgo: «No» (2020) y «Yes» (2025). Respuestas del país leídas del ícono. Perfiles 2025: https://apps.who.int/nhwaportal/",
+   "verificacion": "MATIZAR",
+   "ref": "[oms_por_pais#2] [oms_por_pais#4]"
+  },
+  {
+   "pais": "Haití",
+   "iso3": "HTI",
+   "tieneOrgano": "POR_DETERMINAR",
+   "nombreOficial": "Por determinar: el perfil de país no nombra el órgano.",
+   "nivel": "Por determinar: no se revisó la norma de organización del ministerio de salud; el perfil no indica rango ni base legal.",
+   "baseLegal": "Por determinar.",
+   "enlace": "https://apps.who.int/nhwaportal/Sown/Files?name=HTI",
+   "segunOMS": "Perfil 2020, «Chief Nursing Officer position»: «Yes». Perfil 2025, «Chief nursing position»: «NR» (no reportado). Programa de liderazgo: «No» (2020) y «NR» (2025). Respuestas del país leídas del ícono. Perfiles 2025: https://apps.who.int/nhwaportal/",
+   "verificacion": "MATIZAR",
+   "ref": "[oms_por_pais#2] [oms_por_pais#4]"
+  },
+  {
+   "pais": "Jamaica",
+   "iso3": "JAM",
+   "tieneOrgano": "POR_DETERMINAR",
+   "nombreOficial": "Por determinar: el perfil de país no nombra el órgano.",
+   "nivel": "Por determinar: no se revisó la norma de organización del ministerio de salud; el perfil no indica rango ni base legal.",
+   "baseLegal": "Por determinar.",
+   "enlace": "https://apps.who.int/nhwaportal/Sown/Files?name=JAM",
+   "segunOMS": "Perfil 2020, «Chief Nursing Officer position»: «Yes». Perfil 2025, «Chief nursing position»: «Yes». Programa de liderazgo: «Yes» (2020) y «Yes» (2025). Respuestas del país leídas del ícono. Perfiles 2025: https://apps.who.int/nhwaportal/",
+   "verificacion": "MATIZAR",
+   "ref": "[oms_por_pais#2] [oms_por_pais#4]"
+  },
+  {
+   "pais": "San Cristóbal y Nieves",
+   "iso3": "KNA",
+   "tieneOrgano": "POR_DETERMINAR",
+   "nombreOficial": "Por determinar: el perfil de país no nombra el órgano.",
+   "nivel": "Por determinar: no se revisó la norma de organización del ministerio de salud; el perfil no indica rango ni base legal.",
+   "baseLegal": "Por determinar.",
+   "enlace": "https://apps.who.int/nhwaportal/Sown/Files?name=KNA",
+   "segunOMS": "Perfil 2020, «Chief Nursing Officer position»: «Partial». Perfil 2025, «Chief nursing position»: «Yes». Programa de liderazgo: «Partial» (2020) y «Yes» (2025). Respuestas del país leídas del ícono. Perfiles 2025: https://apps.who.int/nhwaportal/",
+   "verificacion": "MATIZAR",
+   "ref": "[oms_por_pais#2] [oms_por_pais#4]"
+  },
+  {
+   "pais": "Santa Lucía",
+   "iso3": "LCA",
+   "tieneOrgano": "POR_DETERMINAR",
+   "nombreOficial": "Por determinar: el perfil de país no nombra el órgano.",
+   "nivel": "Por determinar: no se revisó la norma de organización del ministerio de salud; el perfil no indica rango ni base legal.",
+   "baseLegal": "Por determinar.",
+   "enlace": "https://apps.who.int/nhwaportal/Sown/Files?name=LCA",
+   "segunOMS": "Perfil 2020, «Chief Nursing Officer position»: «Yes». Perfil 2025, «Chief nursing position»: «Yes». Programa de liderazgo: «Yes» (2020) y «Yes» (2025). Respuestas del país leídas del ícono. Perfiles 2025: https://apps.who.int/nhwaportal/",
+   "verificacion": "MATIZAR",
+   "ref": "[oms_por_pais#2] [oms_por_pais#4]"
+  },
+  {
+   "pais": "San Vicente y las Granadinas",
+   "iso3": "VCT",
+   "tieneOrgano": "POR_DETERMINAR",
+   "nombreOficial": "Por determinar: el perfil de país no nombra el órgano.",
+   "nivel": "Por determinar: no se revisó la norma de organización del ministerio de salud; el perfil no indica rango ni base legal.",
+   "baseLegal": "Por determinar.",
+   "enlace": "https://apps.who.int/nhwaportal/Sown/Files?name=VCT",
+   "segunOMS": "Perfil 2020, «Chief Nursing Officer position»: «Yes». Perfil 2025, «Chief nursing position»: «Yes». Programa de liderazgo: «Yes» (2020) y «Yes» (2025). Respuestas del país leídas del ícono. Perfiles 2025: https://apps.who.int/nhwaportal/",
+   "verificacion": "MATIZAR",
+   "ref": "[oms_por_pais#2] [oms_por_pais#4]"
+  },
+  {
+   "pais": "Trinidad y Tobago",
+   "iso3": "TTO",
+   "tieneOrgano": "POR_DETERMINAR",
+   "nombreOficial": "Por determinar: el perfil de país no nombra el órgano.",
+   "nivel": "Por determinar: no se revisó la norma de organización del ministerio de salud; el perfil no indica rango ni base legal.",
+   "baseLegal": "Por determinar.",
+   "enlace": "https://apps.who.int/nhwaportal/Sown/Files?name=TTO",
+   "segunOMS": "Perfil 2020, «Chief Nursing Officer position»: «Yes». Perfil 2025, «Chief nursing position»: «Yes». Programa de liderazgo: «Yes» (2020) y «Partial» (2025). Respuestas del país leídas del ícono. Perfiles 2025: https://apps.who.int/nhwaportal/",
+   "verificacion": "MATIZAR",
+   "ref": "[oms_por_pais#2] [oms_por_pais#4]"
+  }
+ ],
+ "indicadores": [
+  {
+   "iso3": "PER",
+   "coberturaUniversal": "68 (2023)",
+   "enfermeriaPor10000": "27.38 (2023; enfermería y partería). Solo enfermería: 21.00 (2023; valor derivado, no publicado por la fuente)",
+   "esperanzaVida": "78.4 (2023)",
+   "gastoPerCapita": "445.53 (2023; dólares corrientes)",
+   "mortalidadMaterna": "51 (2023)",
+   "mortalidadMenores5": "12.9 (2024)"
+  },
+  {
+   "iso3": "CHL",
+   "coberturaUniversal": "84 (2023)",
+   "enfermeriaPor10000": "47.16 (2024; enfermería y partería)",
+   "esperanzaVida": "81.1 (2023)",
+   "gastoPerCapita": "1736.52 (2023; dólares corrientes)",
+   "mortalidadMaterna": "10 (2023)",
+   "mortalidadMenores5": "6.8 (2024)"
+  },
+  {
+   "iso3": "ARG",
+   "coberturaUniversal": "80 (2023)",
+   "enfermeriaPor10000": "64.87 (2023; enfermería y partería)",
+   "esperanzaVida": "77.2 (2023)",
+   "gastoPerCapita": "1456.99 (2023; dólares corrientes)",
+   "mortalidadMaterna": "33 (2023)",
+   "mortalidadMenores5": "9.5 (2024)"
+  },
+  {
+   "iso3": "PRY",
+   "coberturaUniversal": "79 (2023)",
+   "enfermeriaPor10000": "94.09 (2022; enfermería y partería; serie con quiebre: 17.97 en 2018, no usar como referencia)",
+   "esperanzaVida": "73.3 (2023)",
+   "gastoPerCapita": "526.51 (2023; dólares corrientes)",
+   "mortalidadMaterna": "58 (2023)",
+   "mortalidadMenores5": "16.3 (2024)"
+  },
+  {
+   "iso3": "URY",
+   "coberturaUniversal": "85 (2023)",
+   "enfermeriaPor10000": "76.25 (2023; enfermería y partería)",
+   "esperanzaVida": "77.1 (2023)",
+   "gastoPerCapita": "2076.09 (2023; dólares corrientes)",
+   "mortalidadMaterna": "15 (2023)",
+   "mortalidadMenores5": "7.4 (2024)"
+  },
+  {
+   "iso3": "COL",
+   "coberturaUniversal": "82 (2023)",
+   "enfermeriaPor10000": "15.73 (2024; enfermería y partería)",
+   "esperanzaVida": "78.2 (2023)",
+   "gastoPerCapita": "571.15 (2023; dólares corrientes)",
+   "mortalidadMaterna": "59 (2023)",
+   "mortalidadMenores5": "11.5 (2024)"
+  },
+  {
+   "iso3": "BRA",
+   "coberturaUniversal": "84 (2023)",
+   "enfermeriaPor10000": "58.32 (2024; enfermería y partería)",
+   "esperanzaVida": "75.9 (2023)",
+   "gastoPerCapita": "1009.84 (2023; dólares corrientes)",
+   "mortalidadMaterna": "67 (2023)",
+   "mortalidadMenores5": "14.2 (2024)"
+  },
+  {
+   "iso3": "BOL",
+   "coberturaUniversal": "67 (2023)",
+   "enfermeriaPor10000": "16.24 (2021; enfermería y partería)",
+   "esperanzaVida": "73.1 (2023)",
+   "gastoPerCapita": "255.04 (2023; dólares corrientes)",
+   "mortalidadMaterna": "146 (2023)",
+   "mortalidadMenores5": "15.7 (2024)"
+  },
+  {
+   "iso3": "ECU",
+   "coberturaUniversal": "78 (2023)",
+   "enfermeriaPor10000": "26.3 (2020; enfermería y partería)",
+   "esperanzaVida": "77.6 (2023)",
+   "gastoPerCapita": "509.49 (2023; dólares corrientes)",
+   "mortalidadMaterna": "55 (2023)",
+   "mortalidadMenores5": "12.9 (2024)"
+  },
+  {
+   "iso3": "VEN",
+   "coberturaUniversal": "75 (2021; valor impreso en el perfil 2025, no comparable con la serie de 2023)",
+   "enfermeriaPor10000": "20.0 (último dato disponible entre 2018 y 2023; solo enfermería, perfil 2025)"
+  },
+  {
+   "iso3": "PAN",
+   "coberturaUniversal": "82 (2023)",
+   "enfermeriaPor10000": "33.45 (2022; enfermería y partería)",
+   "esperanzaVida": "79.3 (2023)",
+   "gastoPerCapita": "1557.81 (2023; dólares corrientes)",
+   "mortalidadMaterna": "37 (2023)",
+   "mortalidadMenores5": "15.3 (2024)"
+  },
+  {
+   "iso3": "SLV",
+   "coberturaUniversal": "79 (2023)",
+   "enfermeriaPor10000": "21.79 (2022; enfermería y partería)",
+   "esperanzaVida": "73.3 (2023)",
+   "gastoPerCapita": "500.69 (2023; dólares corrientes)",
+   "mortalidadMaterna": "39 (2023)",
+   "mortalidadMenores5": "10.0 (2024)"
+  },
+  {
+   "iso3": "DOM",
+   "coberturaUniversal": "73 (2023)",
+   "enfermeriaPor10000": "17.58 (2024; enfermería y partería)",
+   "esperanzaVida": "75.4 (2023)",
+   "gastoPerCapita": "488.87 (2023; dólares corrientes)",
+   "mortalidadMaterna": "124 (2023)",
+   "mortalidadMenores5": "30.6 (2024)"
+  },
+  {
+   "iso3": "NIC",
+   "coberturaUniversal": "70 (2021; valor impreso en el perfil 2025, no comparable con la serie de 2023)",
+   "enfermeriaPor10000": "15.7 (último dato disponible entre 2018 y 2023; solo enfermería, perfil 2025)"
+  },
+  {
+   "iso3": "MEX",
+   "coberturaUniversal": "79 (2023)",
+   "enfermeriaPor10000": "30.48 (2023; enfermería y partería)",
+   "esperanzaVida": "75.3 (2023)",
+   "gastoPerCapita": "760.99 (2023; dólares corrientes)",
+   "mortalidadMaterna": "42 (2023)",
+   "mortalidadMenores5": "13.1 (2024)"
+  },
+  {
+   "iso3": "GTM",
+   "coberturaUniversal": "58 (2023)",
+   "enfermeriaPor10000": "22.73 (2023; enfermería y partería)",
+   "esperanzaVida": "71.6 (2023)",
+   "gastoPerCapita": "392.01 (2023; dólares corrientes)",
+   "mortalidadMaterna": "94 (2023)",
+   "mortalidadMenores5": "20.5 (2024)"
+  },
+  {
+   "iso3": "CRI",
+   "coberturaUniversal": "84 (2023)",
+   "enfermeriaPor10000": "30.71 (2022; enfermería y partería)",
+   "esperanzaVida": "79.8 (2023)",
+   "gastoPerCapita": "1163.30 (2023; dólares corrientes)",
+   "mortalidadMaterna": "24 (2023)",
+   "mortalidadMenores5": "10.4 (2024)"
+  },
+  {
+   "iso3": "HND",
+   "coberturaUniversal": "64 (2023)",
+   "enfermeriaPor10000": "7.35 (2023; enfermería y partería)",
+   "esperanzaVida": "72.3 (2023)",
+   "gastoPerCapita": "249.15 (2023; dólares corrientes)",
+   "mortalidadMaterna": "47 (2023)",
+   "mortalidadMenores5": "15.0 (2024)"
+  },
+  {
+   "iso3": "CUB",
+   "coberturaUniversal": "86 (2023)",
+   "enfermeriaPor10000": "71.94 (2022; enfermería y partería)",
+   "esperanzaVida": "77.2 (2023)",
+   "gastoPerCapita": "1199.35 (2020; dólares corrientes)",
+   "mortalidadMaterna": "35 (2023)",
+   "mortalidadMenores5": "8.6 (2024)"
+  },
+  {
+   "iso3": "IRL",
+   "coberturaUniversal": "82 (2023)",
+   "enfermeriaPor10000": "154.04 (2024; enfermería y partería)",
+   "esperanzaVida": "82.4 (2023)",
+   "gastoPerCapita": "6877.94 (2023; dólares corrientes)",
+   "mortalidadMaterna": "4 (2023)",
+   "mortalidadMenores5": "3.9 (2024)"
+  },
+  {
+   "iso3": "GBR",
+   "coberturaUniversal": "88 (2023)",
+   "enfermeriaPor10000": "95.59 (2023; enfermería y partería)",
+   "esperanzaVida": "80.7 (2023)",
+   "gastoPerCapita": "5407.17 (2023; dólares corrientes)",
+   "mortalidadMaterna": "8 (2023)",
+   "mortalidadMenores5": "4.7 (2024)"
+  },
+  {
+   "iso3": "CAN",
+   "coberturaUniversal": "92 (2023)",
+   "enfermeriaPor10000": "116.18 (2024; enfermería y partería)",
+   "esperanzaVida": "81.4 (2023)",
+   "gastoPerCapita": "6186.65 (2023; dólares corrientes)",
+   "mortalidadMaterna": "12 (2023)",
+   "mortalidadMenores5": "5.4 (2024)"
+  },
+  {
+   "iso3": "AUS",
+   "coberturaUniversal": "89 (2023)",
+   "enfermeriaPor10000": "144.31 (2024; enfermería y partería)",
+   "esperanzaVida": "83 (2023)",
+   "gastoPerCapita": "6980.39 (2023; dólares corrientes)",
+   "mortalidadMaterna": "2 (2023)",
+   "mortalidadMenores5": "3.6 (2024)"
+  },
+  {
+   "iso3": "USA",
+   "coberturaUniversal": "88 (2023)",
+   "enfermeriaPor10000": "123.92 (2024; enfermería y partería)",
+   "esperanzaVida": "78.5 (2023)",
+   "gastoPerCapita": "13473.19 (2023; dólares corrientes)",
+   "mortalidadMaterna": "17 (2023)",
+   "mortalidadMenores5": "6.5 (2024)"
+  },
+  {
+   "iso3": "ESP",
+   "coberturaUniversal": "84 (2023)",
+   "enfermeriaPor10000": "62.21 (2023; enfermería y partería)",
+   "esperanzaVida": "83.3 (2023)",
+   "gastoPerCapita": "3106.62 (2023; dólares corrientes)",
+   "mortalidadMaterna": "3 (2023)",
+   "mortalidadMenores5": "3.2 (2024)"
+  },
+  {
+   "iso3": "PRT",
+   "coberturaUniversal": "83 (2023)",
+   "enfermeriaPor10000": "80.09 (2023; enfermería y partería)",
+   "esperanzaVida": "81.9 (2023)",
+   "gastoPerCapita": "2762.26 (2023; dólares corrientes)",
+   "mortalidadMaterna": "15 (2023)",
+   "mortalidadMenores5": "3.2 (2024)"
+  },
+  {
+   "iso3": "NZL",
+   "coberturaUniversal": "89 (2023)",
+   "enfermeriaPor10000": "131.24 (2024; enfermería y partería)",
+   "esperanzaVida": "80.7 (2023)",
+   "gastoPerCapita": "4997.24 (2023; dólares corrientes)",
+   "mortalidadMaterna": "7 (2023)",
+   "mortalidadMenores5": "4.7 (2024)"
+  },
+  {
+   "iso3": "GUY",
+   "coberturaUniversal": "76 (2021; valor impreso en el perfil 2025, no comparable con la serie de 2023)",
+   "enfermeriaPor10000": "35.0 (último dato disponible entre 2018 y 2023; solo enfermería, perfil 2025)"
+  },
+  {
+   "iso3": "SUR",
+   "coberturaUniversal": "63 (2021; valor impreso en el perfil 2025, no comparable con la serie de 2023)",
+   "enfermeriaPor10000": "15.9 (último dato disponible entre 2018 y 2023; solo enfermería, perfil 2025)"
+  },
+  {
+   "iso3": "BLZ",
+   "coberturaUniversal": "68 (2021; valor impreso en el perfil 2025, no comparable con la serie de 2023)",
+   "enfermeriaPor10000": "20.6 (último dato disponible entre 2018 y 2023; solo enfermería, perfil 2025)"
+  },
+  {
+   "iso3": "ATG",
+   "coberturaUniversal": "76 (2021; valor impreso en el perfil 2025, no comparable con la serie de 2023)",
+   "enfermeriaPor10000": "66.8 (último dato disponible entre 2018 y 2023; solo enfermería, perfil 2025)"
+  },
+  {
+   "iso3": "BHS",
+   "coberturaUniversal": "77 (2021; valor impreso en el perfil 2025, no comparable con la serie de 2023)",
+   "enfermeriaPor10000": "42.2 (último dato disponible entre 2018 y 2023; solo enfermería, perfil 2025)"
+  },
+  {
+   "iso3": "BRB",
+   "coberturaUniversal": "77 (2021; valor impreso en el perfil 2025, no comparable con la serie de 2023)",
+   "enfermeriaPor10000": "36.7 (último dato disponible entre 2018 y 2023; solo enfermería, perfil 2025)"
+  },
+  {
+   "iso3": "DMA",
+   "coberturaUniversal": "49 (2021; valor impreso en el perfil 2025, no comparable con la serie de 2023)",
+   "enfermeriaPor10000": "67.6 (último dato disponible entre 2018 y 2023; solo enfermería, perfil 2025)"
+  },
+  {
+   "iso3": "GRD",
+   "coberturaUniversal": "70 (2021; valor impreso en el perfil 2025, no comparable con la serie de 2023)",
+   "enfermeriaPor10000": "45.8 (último dato disponible entre 2018 y 2023; solo enfermería, perfil 2025)"
+  },
+  {
+   "iso3": "HTI",
+   "coberturaUniversal": "54 (2021; valor impreso en el perfil 2025, no comparable con la serie de 2023)",
+   "enfermeriaPor10000": "7.1 (último dato disponible entre 2018 y 2023; solo enfermería, perfil 2025)"
+  },
+  {
+   "iso3": "JAM",
+   "coberturaUniversal": "74 (2021; valor impreso en el perfil 2025, no comparable con la serie de 2023)",
+   "enfermeriaPor10000": "16.2 (último dato disponible entre 2018 y 2023; solo enfermería, perfil 2025)"
+  },
+  {
+   "iso3": "KNA",
+   "coberturaUniversal": "79 (2021; valor impreso en el perfil 2025, no comparable con la serie de 2023)",
+   "enfermeriaPor10000": "65.9 (último dato disponible entre 2018 y 2023; solo enfermería, perfil 2025)"
+  },
+  {
+   "iso3": "LCA",
+   "coberturaUniversal": "77 (2021; valor impreso en el perfil 2025, no comparable con la serie de 2023)",
+   "enfermeriaPor10000": "45.3 (último dato disponible entre 2018 y 2023; solo enfermería, perfil 2025)"
+  },
+  {
+   "iso3": "VCT",
+   "coberturaUniversal": "69 (2021; valor impreso en el perfil 2025, no comparable con la serie de 2023)",
+   "enfermeriaPor10000": "47.4 (último dato disponible entre 2018 y 2023; solo enfermería, perfil 2025)"
+  },
+  {
+   "iso3": "TTO",
+   "coberturaUniversal": "75 (2021; valor impreso en el perfil 2025, no comparable con la serie de 2023)",
+   "enfermeriaPor10000": "41.1 (último dato disponible entre 2018 y 2023; solo enfermería, perfil 2025)"
+  }
+ ],
+ "lecturaHonesta": "Lectura descriptiva propia (derivación). En normas y registros oficiales abiertos se halló un órgano con nombre de enfermería en el ministerio de salud de ocho países latinoamericanos (Panamá, El Salvador, República Dominicana, Nicaragua, Paraguay, Argentina, Chile y Uruguay), con rangos distintos; en el Perú, ninguno. En cobertura de servicios, el Perú (68) queda debajo de los siete con dato (73 a 85), pero también de Colombia, Brasil, Costa Rica y Ecuador, sin órgano hallado; en esperanza de vida su valor central supera a cinco de esos siete. Es asociación, nunca causa: ingreso y gasto difieren, y la Organización Mundial de la Salud no halló correlación estadísticamente significativa entre tener el cargo y mejores regulaciones educativas o protecciones laborales. El argumento defendible es de gobernanza: mandato, autoridad y recursos.",
+ "paraElMinistro": [
+  "Señor Ministro: la Asamblea Mundial de la Salud, en su resolución WHA74.15 del 31 de mayo de 2021, exhorta a los Estados Miembros a «establecer y fortalecer funciones de liderazgo superior nacionales y subnacionales para profesionales de enfermería y partería con autoridad y responsabilidad para la gestión del personal de enfermería y partería» y a «considerar la posibilidad de designar a funcionarios jefes de los servicios públicos de enfermería y partería»; es una exhortación, no una obligación, y habla de funciones y de un cargo, no de una dirección [evidencia_y_peru#1]",
+  "Según el informe «Situación de la enfermería en el mundo 2025» de la Organización Mundial de la Salud, 98 de los 120 países que respondieron (82 %) y 18 de 21 en la Región de las Américas (86 %) declararon tener un jefe de los servicios públicos de enfermería o un cargo equivalente, cifra que cuenta cargos de cualquier modelo y no solo direcciones; en el Perú, al 10 de octubre de 2026, el directorio de funcionarios del Ministerio de Salud en la Plataforma del Estado Peruano no registra ningún órgano ni cargo con la palabra «Enfermería» [evidencia_y_peru#3] [evidencia_y_peru#5]",
+  "En nuestra región, Panamá creó la «Dirección Nacional de Enfermería» como dependencia dentro de la estructura organizacional de su Ministerio de Salud mediante el Decreto Ejecutivo número 19 de 11 de abril de 2024, y la Organización Panamericana de la Salud escribió el 16 de diciembre de 2025 que «Uruguay se convierte en el cuarto país de América del Sur en implementar una dirección nacional de enfermería, junto con Chile, Argentina y Paraguay», con rangos que difieren entre esos países y en una nota que no menciona al Perú [mesoamerica_caribe#1] [america_sur#1]",
+  "No le afirmo que una dirección mejore por sí sola los indicadores de salud: ese mismo informe de la Organización Mundial de la Salud no halló correlación estadísticamente significativa entre contar con el cargo y una mejor reglamentación de la educación o mejores protecciones en el lugar de trabajo, y las fuentes condicionan su utilidad a que tenga mandato, autoridad con poder de decisión y recursos; por eso el argumento que traigo es de gobernanza y no de causalidad [evidencia_y_peru#3]"
+ ],
+ "queNoDecir": [
+  "No leer la columna «tieneOrgano» como «tiene dirección nacional de enfermería». SI significa que una norma o un registro oficial abierto nombra un órgano o un cargo de enfermería dentro del ministerio, de cualquier rango (ver «nivel»); NO significa «no encontrado en la norma de organización o el organigrama oficial abiertos, hasta el nivel que publican», no «no existe»; POR_DETERMINAR significa sin fuente suficiente o fuentes que no coinciden.",
+  "No decir «la Organización Mundial de la Salud exige (o recomienda) una Dirección Nacional de Enfermería en el ministerio»: la resolución WHA74.15 «exhorta» a «considerar la posibilidad de designar» un cargo y a fortalecer funciones de liderazgo de enfermería y partería; no menciona una dirección ni su ubicación en el ministerio. Tampoco citar la resolución WHA54.12 para el cargo [evidencia_y_peru#1].",
+  "No decir «el 82 % (o el 86 % de las Américas) de los países tiene una dirección de enfermería»: la cifra cuenta un cargo «o equivalente» de cualquier modelo, solo entre los países que respondieron; el 62 % es la tasa de respuesta al indicador, no la proporción de países con el cargo [evidencia_y_peru#3] [oms_por_pais#6].",
+  "No decir «la Organización Mundial de la Salud dice que el Perú no tiene dirección de enfermería»: el «No» del perfil de 2020 es una respuesta del país recogida en 2019 y el perfil de 2025 marca «NR» (no reportado), que no equivale a «No» [oms_por_pais#1] [oms_por_pais#2].",
+  "No decir «casi la mitad de las Américas no tiene el cargo»: 18 de 35 (51.4 %) es un mínimo documentado, porque de 14 países no hay dato; y que el Perú no integra el denominador de 21 es una deducción, no un dato publicado [oms_por_pais#3].",
+  "No decir que los países con dirección o con jefatura de enfermería tienen mejores indicadores por tenerla. La diferencia de medianas (76.5 frente a 71.5 puntos de cobertura) compara países que marcan «Yes» con países que no reportaron, no países con y sin el puesto; con la clasificación de 2020 casi desaparece (75.5 frente a 75.0), y Colombia y Ecuador, que marcan «No», superan al Perú en cobertura [oms_por_pais#5] [evidencia_y_peru#3].",
+  "No llamar «dirección nacional de enfermería» a lo que no lo es: España (comité asesor más figura designada), Portugal (función asesora individual sin cargo directivo), Canadá y Australia (cargos de asesoría), Estados Unidos de América (cargo de un cuerpo uniformado), México (comisión asesora de 2007, vigencia no verificada), Uruguay (el acto oficial la llama «Unidad»), Colombia (Consejo Técnico Nacional de Enfermería) y Brasil (Conselho Federal de Enfermagem) [altos_ingresos#2] [altos_ingresos#3] [altos_ingresos#4] [altos_ingresos#6] [altos_ingresos#7] [mesoamerica_caribe#5] [america_sur#2] [america_sur#6] [america_sur#7].",
+  "No decir que Chile, Argentina o Paraguay tienen una dirección de enfermería que depende del Ministro: en Chile es componente de un departamento de una subsecretaría, en Argentina está cuatro escalones bajo el Ministro y en Paraguay en el tercer escalón; ni citar la Resolución Exenta 1043 de Chile como si se hubiera leído (solo se leyó el registro de transparencia) [america_sur#3] [america_sur#4] [america_sur#5].",
+  "No decir «Colombia, Brasil, Bolivia, Ecuador, Venezuela, Costa Rica u Honduras no tienen jefatura de enfermería»: lo sustentado es «no se encontró en la norma de organización o el organigrama oficial abiertos», y esas normas solo llegan hasta cierto nivel [america_sur#6] [america_sur#7] [america_sur#8] [mesoamerica_caribe#7] [mesoamerica_caribe#8].",
+  "No usar el presente sin fecha para Panamá (creación normativa de 2024; funcionamiento en 2026 no verificado), El Salvador (copia archivada de abril de 2026; cambio de denominación, no creación), República Dominicana (acto de 2021) y Nicaragua (la norma la prevé; organigrama no verificado); ni decir que la unidad de Guatemala tiene «máxima jerarquía» legal: lo dice un plan, no una norma [mesoamerica_caribe#1] [mesoamerica_caribe#2] [mesoamerica_caribe#3] [mesoamerica_caribe#4] [mesoamerica_caribe#6].",
+  "No decir «ningún país de América del Sur tiene el modelo ejecutivo» sin precisar que respondieron seis de diez y que el mapa pinta a Guyana y Surinam con el color ejecutivo; y no atribuir al Ministerio de Salud la clasificación «Dispersal» del Perú: sale del color de un mapa y de la respuesta de una persona no identificada [evidencia_y_peru#4].",
+  "No decir que la Organización Panamericana de la Salud (2019) o el Consejo Internacional de Enfermeras piden una «dirección»: la primera pide representación de enfermería en las unidades de recursos humanos y el segundo, que es una federación profesional, pide un cargo; no citar la fecha «1993» del documento del Consejo, que es inconsistente en la propia fuente [evidencia_y_peru#6].",
+  "No comparar las 21.00 enfermeras por 10 000 habitantes del Perú con el indicador conjunto de enfermería y partería de otros países (para el Perú ese indicador es 27.38); no usar el 94.09 de Paraguay como referencia (serie con quiebre); y no mezclar ediciones del índice de cobertura: el perfil imprime 71 para el Perú en 2021 y la serie vigente da 68 [indicadores#2] [indicadores#3] [oms_por_pais#5].",
+  "No decir «gastan 30 veces más» sin aclarar que son dólares corrientes: en paridad de poder adquisitivo la razón va de 4.89 a 14.09 veces; el Perú sigue en el puesto 14 de 17 con cualquiera de las dos medidas [indicadores#4].",
+  "No presentar como firmes los puestos del Perú en mortalidad ni en esperanza de vida: son estimaciones modeladas, no cifras oficiales nacionales, y los intervalos se superponen (el de mortalidad materna es de 80 %); ni presentar el rango de 10 a 146 de mortalidad materna como el de toda América Latina, porque la lista no incluye a Venezuela, Nicaragua ni Haití [indicadores#1] [indicadores#5] [indicadores#6] [indicadores#7] [indicadores#8].",
+  "No atribuir a los cargos de los países de ingreso alto sus indicadores: Canadá ya registraba entre 108.5 y 111.15 de personal de enfermería y partería por 10 000 habitantes entre 2018 y 2021, años sin el cargo, y ninguna fuente abierta mide efecto alguno [altos_ingresos#4] [altos_ingresos#1] [altos_ingresos#5].",
+  "No decir que hay un proyecto de ley en trámite que crea la dirección: el 06474/2020-CP pasó al archivo, el 04595/2022-CP quedó «EN COMISIÓN» en un periodo parlamentario concluido y la proposición 00159-2026-2031-CD no la incluye. Tampoco callar que el Ministerio de Salud ya opinó, en enero de 2024, que crear una dirección «con funciones relacionadas a una profesión, no es viable» y que «duplicaría funciones» de la Dirección General de Personal de la Salud [evidencia_y_peru#2].",
+  "No repetir del informe técnico legal de 2020 que la presencia de estos puestos «ha permitido contribuir a la mejora en la calidad de los servicios de salud» (no está en la fuente), ni su 71 % (82 de 115), ya superado por el 82 % (98 de 120), ni su ahorro estimado; y declarar que el expositor es coautor de ese informe si se cita [evidencia_y_peru#5].",
+  "No presentar la Sección de Enfermería de 1951 como precedente de una dirección nacional: era una sección dependiente de una división, atestiguada por su propia jefa y sin norma de creación abierta [evidencia_y_peru#7]."
+ ],
+ "porDeterminar": [
+  "Perú, vigencia de la estructura: confirmar contra el Reglamento de Organización y Funciones vigente y el buscador de normas de El Peruano si entre 2020 y 2026 alguna norma creó un órgano o una unidad funcional de enfermería en el Ministerio de Salud. El material menciona reglamentos de 2017 y de 2025 y el Decreto Supremo 014-2026-SA, que este flujo no reabrió. Quién: el expositor, con consulta directa a El Peruano y a la Oficina General de Planeamiento, Presupuesto y Modernización del Ministerio.",
+  "Perú, perfiles de la Organización Mundial de la Salud: quién respondió «No» en 2019 y por qué no hay respuesta registrada en 2025; la definición operativa del indicador NN4 («Existence of GCNO or equivalent at national level») solo se entrega a pedido en hrhstatistics@who.int y no se obtuvo.",
+  "Perú, encuesta regional de 2025: pedir por escrito a los autores o a la Organización Panamericana de la Salud la clasificación por país, porque la del Perú se leyó del color de un mapa.",
+  "Perú, propuesta técnico legal de 2020: si fue aprobada formalmente por el Colegio de Enfermeros del Perú y presentada al Ministerio de Salud, con qué número de expediente.",
+  "Perú, historia: norma de creación de la Sección de Enfermería de 1951 y qué ocurrió con ella después de 1953; debe sustentarse con los reglamentos de organización anteriores a 2017.",
+  "Chile: abrir la Resolución Exenta 1043 (el sitio del Ministerio responde con bloqueo, código 403), el acto original de creación de la Dirección Nacional de Enfermería y su rango real.",
+  "Argentina: si la estructura del Decreto 1138/2024 fue modificada después de julio de 2025 y el año de origen de la Dirección de Enfermería (anexos de la Decisión Administrativa 891/2022, no abiertos).",
+  "Paraguay: abrir la Resolución número 181/93 y el Decreto 3577/2020, y verificar si existe un manual posterior al de 2019.",
+  "Uruguay: dependencia jerárquica, presupuesto y cargos de la Unidad, y si existe una ordenanza posterior que la modifique.",
+  "Colombia y Brasil: grupos internos de trabajo y reglamento interno por debajo del nivel que publican los decretos; si el Consejo Técnico Nacional de Enfermería de Colombia sesiona actualmente.",
+  "Ecuador y Venezuela: Estatuto Orgánico ecuatoriano y gacetas venezolanas de 2015, no abiertos; vigencia del organigrama ecuatoriano de 2022.",
+  "Panamá: funcionamiento y vigencia de la Dirección Nacional de Enfermería en 2026; la página «Direcciones» del Ministerio no la lista y la Resolución número 280 de 20 de mayo de 2024 no se abrió.",
+  "El Salvador: Acuerdo número 2427 de 24 de septiembre de 2025 (no abierto) y vigencia a octubre de 2026 (el sitio oficial respondió error 403).",
+  "República Dominicana: Resolución número 000049 de 22 de diciembre de 2020 (no abierta), aprobación del viceministerio mediante la Ley de Ministerios y vigencia de la estructura después de 2022.",
+  "Nicaragua: organigrama y funcionamiento de la Dirección de Enfermería en 2026 y de qué dirección general depende.",
+  "México: vigencia y funcionamiento en 2026 de la Comisión Permanente de Enfermería y de la Dirección de Enfermería que nombra el Acuerdo de 2007.",
+  "Guatemala: acto de creación y dependencia de la Unidad de Desarrollo de los Servicios de Enfermería, y posibles reformas de 2025 al Acuerdo Gubernativo número 59-2023.",
+  "Costa Rica y Honduras: reformas posteriores a 2019 (Costa Rica) y a 2014 (Honduras); en Costa Rica, a qué cargo corresponde el «Yes» que el país declara en los perfiles.",
+  "Cuba: estructura vigente del Ministerio de Salud Pública. Los buscadores hallaron, sin verificación, dos denominaciones que no coinciden: «Dirección de Enfermería del Ministerio de Salud Pública» en la Resolución Ministerial número 396 de 28 de diciembre de 2007 y «Jefa del Departamento de Enfermería» en notas oficiales de 2020 y 2021; la página oficial «Organigrama» abre sin contenido.",
+  "Nueva Zelanda: solo se leyó una captura archivada del 26 de marzo de 2025 de la página «Office of the Chief Nurse» del Ministry of Health; una persona debe abrir la página en un navegador y confirmar el estado en 2026 antes de usarlo.",
+  "Países de ingreso alto: a quién reporta y desde cuándo existe cada cargo (Irlanda, Reino Unido, Australia); publicación de la orden española en el Boletín Oficial del Estado; vigencia de la función portuguesa después de mayo de 2026; acto del cambio de adscripción del cargo de Inglaterra y del cambio de denominación australiano; organigrama del Department of Health and Human Services de los Estados Unidos de América.",
+  "Catorce países con solo el dato del perfil (Antigua y Barbuda, Bahamas, Barbados, Belice, Dominica, Granada, Guyana, Haití, Jamaica, San Cristóbal y Nieves, Santa Lucía, San Vicente y las Granadinas, Surinam, y Trinidad y Tobago): su norma de organización no se revisó; tampoco se abrieron los perfiles de país de fuera de las Américas.",
+  "Conciliación pendiente: la tabla 5.10 del informe de 2020 da para las Américas 26 de 35 países que respondieron y 79 % de «yes», cifra que no concilia con el conteo de los perfiles de 2020 (26 «Yes», 2 «Partial», 6 «No» y 1 sin respuesta).",
+  "Cifras oficiales nacionales del Perú de mortalidad materna y neonatal (Ministerio de Salud; Encuesta Demográfica y de Salud Familiar 2024 del Instituto Nacional de Estadística e Informática): no se abrieron; las de la tabla son estimaciones internacionales modeladas.",
+  "Evidencia de efecto: no se halló ninguna evaluación con grupo de comparación de lo que logra una jefatura o dirección nacional de enfermería; de la revisión de alcance de 2026 solo se leyó el resumen.",
+  "Carga de datos: los valores de los 35 perfiles de las Américas, con el enlace directo de cada perfil de 2020 y de 2025, están en C:/Users/infor/AppData/Local/Temp/claude/C--Users-infor-OneDrive-CARLOS-PEREZ-UNIVERSIDADES-CEP-FORO/a76ee289-0d5f-426a-becc-af42c47fbeaf/scratchpad/paises_tmp/oms_por_pais/tabla_americas.csv ; los enlaces de 2025 son de uso compartido y podrían cambiar."
+ ],
+ "rutaTabla": "C:/Users/infor/AppData/Local/Temp/claude/C--Users-infor-OneDrive-CARLOS-PEREZ-UNIVERSIDADES-CEP-FORO/a76ee289-0d5f-426a-becc-af42c47fbeaf/scratchpad/paises_tmp/indicadores/tabla_indicadores.csv"
+}

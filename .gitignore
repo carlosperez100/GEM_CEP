@@ -3,3 +3,7 @@ salida/
 __pycache__/
 *.pyc
 .venv/
+
+# Material del Panel I que no se publica (datos de contacto, documentos de terceros)
+privado/
+panel1/deck_fuentes/slides/portada.html

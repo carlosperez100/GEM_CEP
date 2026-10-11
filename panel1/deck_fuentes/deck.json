@@ -1,0 +1,48 @@
+{
+ "v": 4,
+ "createdOnFiles": {
+  "v": 1,
+  "at": "2026-10-09T00:00:00Z"
+ },
+ "title": "Panel I: autonomía, datos y decisión",
+ "cover": "portada",
+ "order": [
+  "portada",
+  "apertura",
+  "presencia",
+  "resultados",
+  "eficiencia",
+  "mapa3",
+  "paises",
+  "ventana",
+  "remate",
+  "fuentes",
+  "gracias"
+ ],
+ "sections": {
+  "s1": {
+   "description": "Apertura: datos, inteligencia artificial y control del cuidado",
+   "start": "portada"
+  },
+  "s2": {
+   "description": "Parte 1: lo que enfermería ya aporta",
+   "start": "presencia"
+  },
+  "s3": {
+   "description": "Parte 2: qué pasaría con respaldo en la alta dirección",
+   "start": "mapa3"
+  },
+  "s4": {
+   "description": "Remate y respaldo",
+   "start": "remate"
+  }
+ },
+ "faces": {
+  "fraunces": {
+   "family": "Fraunces",
+   "href": "https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,300..900;1,300..900&display=swap"
+  }
+ },
+ "designSystems": [],
+ "lists": "css"
+}
