@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@2.47.0/tabler-icons.min.css">
+<style>
+  html, body { margin: 0; background: #FFFFFF; }
+  body { width: 1920px; height: 1080px; overflow: hidden; font-family: Arial, Helvetica, sans-serif; color: #0B1D36; }
+  .lienzo { box-sizing: border-box; width: 1920px; height: 1080px; padding: 64px 90px 48px; display: flex; flex-direction: column; }
+  h1 { margin: 0; font-size: 60px; line-height: 1.1; font-weight: 700; color: #0B1D36; }
+  .sub { margin: 10px 0 0; font-size: 30px; color: #55657D; }
+  .falta { margin-top: 40px; display: flex; align-items: center; justify-content: center; gap: 20px; padding: 24px 30px; border-radius: 22px; background: #FBEFF5; border: 5px dashed #9A2A63; color: #7A1F4E; font-size: 36px; font-weight: 700; }
+  .falta i { font-size: 52px; }
+  .falta .chip { font-size: 28px; font-weight: 700; background: #9A2A63; color: #FFFFFF; border-radius: 999px; padding: 8px 22px; white-space: nowrap; }
+  .baja { display: flex; justify-content: center; color: #9A2A63; font-size: 48px; margin: 6px 0 2px; }
+  .linea { display: flex; align-items: flex-start; justify-content: space-between; margin-top: 6px; }
+  .est { flex: 1; min-width: 0; display: flex; flex-direction: column; align-items: center; gap: 16px; }
+  .circ { width: 150px; height: 150px; border-radius: 50%; display: flex; align-items: center; justify-content: center; background: #E6F1FB; border: 5px solid #0070C0; color: #005A9C; }
+  .circ i { font-size: 82px; }
+  .circ.hogar { background: #F3F6FA; border-color: #8A99AE; color: #55657D; }
+  .nom { font-size: 28px; font-weight: 700; line-height: 1.15; text-align: center; color: #0B1D36; }
+  .fl { flex: none; width: 40px; height: 150px; display: flex; align-items: center; justify-content: center; color: #8A99AE; font-size: 44px; }
+  .enf { margin-top: 40px; display: flex; align-items: center; justify-content: center; gap: 20px; padding: 24px 30px; border-radius: 22px; background: #0B6E55; color: #FFFFFF; font-size: 38px; font-weight: 700; }
+  .enf i { font-size: 56px; }
+  .sop { margin-top: 16px; display: flex; align-items: center; justify-content: center; gap: 18px; padding: 18px 30px; border-radius: 22px; border: 4px dashed #B9C8D8; color: #2A3B55; font-size: 28px; }
+  .sop i { font-size: 44px; color: #55657D; }
+  .pie { margin-top: auto; font-size: 21px; line-height: 1.35; color: #55657D; }
+</style>
+</head>
+<body>
+<div class="lienzo">
+  <h1>El recorrido del paciente</h1>
+  <p class="sub">Ocho estaciones, un cuidado continuo y un proceso que falta</p>
+
+  <div class="falta"><i class="ti ti-route"></i><span>Gestión del cuidado: el proceso que debería conducir todo el recorrido</span><span class="chip">no está escrito</span></div>
+  <div class="baja"><i class="ti ti-arrow-down"></i></div>
+
+  <div class="linea">
+    <div class="est"><div class="circ hogar"><i class="ti ti-home"></i></div><div class="nom">Hogar</div></div>
+    <div class="fl"><i class="ti ti-arrow-right"></i></div>
+    <div class="est"><div class="circ"><i class="ti ti-ambulance"></i></div><div class="nom">Atención<br>prehospitalaria</div></div>
+    <div class="fl"><i class="ti ti-arrow-right"></i></div>
+    <div class="est"><div class="circ"><i class="ti ti-urgent"></i></div><div class="nom">Emergencia</div></div>
+    <div class="fl"><i class="ti ti-arrow-right"></i></div>
+    <div class="est"><div class="circ"><i class="ti ti-cut"></i></div><div class="nom">Centro<br>quirúrgico</div></div>
+    <div class="fl"><i class="ti ti-arrow-right"></i></div>
+    <div class="est"><div class="circ"><i class="ti ti-heart-rate-monitor"></i></div><div class="nom">Cuidados<br>intensivos</div></div>
+    <div class="fl"><i class="ti ti-arrow-right"></i></div>
+    <div class="est"><div class="circ"><i class="ti ti-bed"></i></div><div class="nom">Hospitalización</div></div>
+    <div class="fl"><i class="ti ti-arrow-right"></i></div>
+    <div class="est"><div class="circ"><i class="ti ti-stethoscope"></i></div><div class="nom">Consulta<br>externa</div></div>
+    <div class="fl"><i class="ti ti-arrow-right"></i></div>
+    <div class="est"><div class="circ hogar"><i class="ti ti-home"></i></div><div class="nom">Hogar</div></div>
+  </div>
+
+  <div class="enf"><i class="ti ti-nurse"></i><span>Enfermería: cuidado las 24 horas, en todo el recorrido</span></div>
+  <div class="sop"><i class="ti ti-microscope"></i><span>36 unidades de soporte: laboratorio, imágenes, farmacia, banco de sangre y otras</span></div>
+
+  <p class="pie">Fuentes: Norma Técnica de Salud 249 (Resolución Ministerial 625-2026/MINSA), Anexo 04: unidades de atención directa y de soporte. La expresión «gestión del cuidado» no aparece en la Ley 27669 ni en su reglamento (Decreto Supremo 004-2002-SA). El orden del recorrido y el proceso propuesto son elaboración del autor.</p>
+</div>
+</body>
+</html>

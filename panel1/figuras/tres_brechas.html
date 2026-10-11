@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@2.47.0/tabler-icons.min.css">
+<style>
+  html, body { margin: 0; background: #FFFFFF; }
+  body { width: 1920px; height: 1080px; overflow: hidden; font-family: Arial, Helvetica, sans-serif; color: #0B1D36; }
+  .lienzo { box-sizing: border-box; width: 1920px; height: 1080px; padding: 60px 80px 44px; display: flex; flex-direction: column; }
+  h1 { margin: 0; font-size: 60px; line-height: 1.1; font-weight: 700; }
+  .sub { margin: 10px 0 0; font-size: 30px; color: #55657D; }
+  .fila { margin-top: 26px; display: flex; gap: 28px; align-items: stretch; }
+  .tarj { flex: 1; min-width: 0; box-sizing: border-box; background: #F3F6FA; border: 2px solid #D5DEE9; border-top: 12px solid var(--c); border-radius: 24px; padding: 28px 30px 24px; display: flex; flex-direction: column; gap: 14px; }
+  .cab { display: flex; align-items: center; gap: 18px; }
+  .ico { flex: none; width: 92px; height: 92px; border-radius: 50%; background: var(--c); color: #FFFFFF; display: flex; align-items: center; justify-content: center; }
+  .ico i { font-size: 54px; }
+  .tit { font-size: 38px; font-weight: 700; line-height: 1.1; }
+  .num { font-size: 118px; font-weight: 700; line-height: 1; color: var(--c); letter-spacing: -2px; white-space: nowrap; }
+  .txt { font-size: 27px; line-height: 1.3; color: #0B1D36; }
+  .barra { display: flex; height: 54px; border-radius: 14px; overflow: hidden; margin-top: 4px; }
+  .hay { background: #0070C0; color: #FFFFFF; display: flex; align-items: center; justify-content: center; font-size: 22px; font-weight: 700; white-space: nowrap; }
+  .falta { box-sizing: border-box; background: #FFFFFF; border: 4px dashed var(--c); border-radius: 0 14px 14px 0; color: var(--c); display: flex; align-items: center; justify-content: center; font-size: 22px; font-weight: 700; white-space: nowrap; }
+  .fu { margin-top: auto; font-size: 20px; line-height: 1.3; color: #55657D; border-top: 2px solid #D5DEE9; padding-top: 12px; }
+  .cierre { margin-top: 20px; display: flex; align-items: center; justify-content: center; gap: 18px; padding: 22px 30px; border-radius: 22px; background: #0B6E55; color: #FFFFFF; font-size: 34px; font-weight: 700; }
+  .cierre i { font-size: 50px; }
+  .cierre span.n { font-weight: 400; }
+  .pie { margin-top: 14px; font-size: 20px; color: #55657D; }
+</style>
+</head>
+<body>
+<div class="lienzo">
+  <h1>Tres brechas que frenan la autonomía de enfermería</h1>
+  <p class="sub">Digital, de toma de decisiones y de información · marco del autor, con un dato por brecha</p>
+
+  <div class="fila">
+    <div class="tarj" style="--c:#B07A10">
+      <div class="cab"><div class="ico"><i class="ti ti-wifi-off"></i></div><div class="tit">Brecha digital</div></div>
+      <div class="num">42 a 43 %</div>
+      <div class="txt">de los establecimientos de salud del país no tiene conexión a internet, según declaró el Ministro de Salud. Donde la hay, suele ser de tipo doméstico.</div>
+      <div class="barra"><div class="hay" style="flex:57">con conexión</div><div class="falta" style="flex:43">sin conexión</div></div>
+      <div class="fu">Declaración oral ante la Comisión de Salud de la Cámara de Diputados, 8 de setiembre de 2026 (Agencia Peruana de Noticias Andina). No es una estadística publicada.</div>
+    </div>
+
+    <div class="tarj" style="--c:#9A2A63">
+      <div class="cab"><div class="ico"><i class="ti ti-sitemap"></i></div><div class="tit">Brecha en la toma de decisiones</div></div>
+      <div class="num">82 %</div>
+      <div class="txt">de los países que respondieron declara una jefatura nacional de enfermería: 98 de 120. El Perú figuró con «No» en 2020 y no respondió en 2025. Su Ministerio de Salud no tiene órgano de enfermería.</div>
+      <div class="barra"><div class="hay" style="flex:82">82 % con jefatura</div><div class="falta" style="flex:18">18 %</div></div>
+      <div class="fu">Organización Mundial de la Salud, State of the world's nursing 2025, página 88, y perfiles del Perú de 2020 y 2025; Decreto Supremo 008-2017-SA.</div>
+    </div>
+
+    <div class="tarj" style="--c:#005A9C">
+      <div class="cab"><div class="ico"><i class="ti ti-database-off"></i></div><div class="tit">Brecha de información</div></div>
+      <div class="num">46 %</div>
+      <div class="txt">de los puestos de salud públicos de categoría I-1 no reportó sus recursos en doce meses: 1 948 de 4 250. No se halló un registro nacional de quién dirige, por profesión.</div>
+      <div class="barra"><div class="hay" style="flex:54">reporta</div><div class="falta" style="flex:46">no reporta</div></div>
+      <div class="fu">Superintendencia Nacional de Salud, recursos por establecimiento, junio de 2025 a junio de 2026, y Registro Nacional de Instituciones Prestadoras de Servicios de Salud; cálculo del autor.</div>
+    </div>
+  </div>
+
+  <div class="cierre"><i class="ti ti-route"></i><span>Propuesta del autor:</span><span class="n">la gestión del cuidado, escrita y medida, para cerrar las tres.</span></div>
+  <p class="pie">La barra azul es lo que existe; el tramo punteado es la brecha. Las tres cifras miden cosas distintas y no se suman.</p>
+</div>
+</body>
+</html>
