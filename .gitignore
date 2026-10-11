@@ -1,0 +1,5 @@
+# Salida de trabajo del script (lo publicado vive en docs/)
+salida/
+__pycache__/
+*.pyc
+.venv/

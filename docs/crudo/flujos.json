@@ -1,0 +1,518 @@
+[
+ {
+  "id": "DSD_GHGHC@DF_GHGHC",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.0",
+  "nombre": "Greenhouse gas emissions in the healthcare sector"
+ },
+ {
+  "id": "DSD_HCQO@DF_AC",
+  "agencia": "OECD.ELS.HD",
+  "version": "2.1",
+  "nombre": "Acute care"
+ },
+ {
+  "id": "DSD_HCQO@DF_CC",
+  "agencia": "OECD.ELS.HD",
+  "version": "2.1",
+  "nombre": "Cancer care"
+ },
+ {
+  "id": "DSD_HCQO@DF_EOLC",
+  "agencia": "OECD.ELS.HD",
+  "version": "2.1",
+  "nombre": "End-of-life care"
+ },
+ {
+  "id": "DSD_HCQO@DF_HCQO",
+  "agencia": "OECD.ELS.HD",
+  "version": "2.1",
+  "nombre": "Healthcare quality and outcomes"
+ },
+ {
+  "id": "DSD_HCQO@DF_HKP",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.1",
+  "nombre": "Hip and Knee Patient-Reported Outcome Measures"
+ },
+ {
+  "id": "DSD_HCQO@DF_IC",
+  "agencia": "OECD.ELS.HD",
+  "version": "2.1",
+  "nombre": "Integrated care"
+ },
+ {
+  "id": "DSD_HCQO@DF_MH",
+  "agencia": "OECD.ELS.HD",
+  "version": "2.1",
+  "nombre": "Mental healthcare"
+ },
+ {
+  "id": "DSD_HCQO@DF_MHPREM",
+  "agencia": "OECD.ELS.HD",
+  "version": "2.1",
+  "nombre": "Mental health - patient reported experience measures"
+ },
+ {
+  "id": "DSD_HCQO@DF_PC",
+  "agencia": "OECD.ELS.HD",
+  "version": "2.1",
+  "nombre": "Primary care"
+ },
+ {
+  "id": "DSD_HCQO@DF_PE",
+  "agencia": "OECD.ELS.HD",
+  "version": "2.1",
+  "nombre": "Patient experiences"
+ },
+ {
+  "id": "DSD_HCQO@DF_PIPC",
+  "agencia": "OECD.ELS.HD",
+  "version": "2.1",
+  "nombre": "Prescribing in primary care"
+ },
+ {
+  "id": "DSD_HCQO@DF_PS",
+  "agencia": "OECD.ELS.HD",
+  "version": "2.1",
+  "nombre": "Patient safety"
+ },
+ {
+  "id": "DSD_HCQO@DF_PSC",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.1",
+  "nombre": "Patient Safety Culture"
+ },
+ {
+  "id": "DSD_HEALTH_EMP_REAC@DF_PHYS",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.1",
+  "nombre": "Physicians"
+ },
+ {
+  "id": "DSD_HEALTH_EMP_REAC@DF_PHYS_AGE_SEX",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.1",
+  "nombre": "Physicians by age and sex"
+ },
+ {
+  "id": "DSD_HEALTH_EMP_REAC@DF_PHYS_CAT",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.1",
+  "nombre": "Physicians by categories"
+ },
+ {
+  "id": "DSD_HEALTH_EMP_REAC@DF_REAC",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.1",
+  "nombre": "Healthcare human resources"
+ },
+ {
+  "id": "DSD_HEALTH_EMP_REAC@DF_SOC_EMPLOY",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.1",
+  "nombre": "Health and social employment"
+ },
+ {
+  "id": "DSD_HEALTH_LTCR@DF_HEALTH_LTCR",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.0",
+  "nombre": "Long-term care resources and utilisation"
+ },
+ {
+  "id": "DSD_HEALTH_LTCR@DF_HEALTH_LTCR_BED",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.0",
+  "nombre": "Long-term care resources and utilisation - beds"
+ },
+ {
+  "id": "DSD_HEALTH_LTCR@DF_HEALTH_LTCR_RECIPIENT",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.0",
+  "nombre": "Long-term care resources and utilisation - recipients"
+ },
+ {
+  "id": "DSD_HEALTH_LTCR@DF_HEALTH_LTCR_WORKER",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.0",
+  "nombre": "Long-term care resources and utilisation - workers"
+ },
+ {
+  "id": "DSD_HEALTH_LTCR_FAC_OWNER@DF_HEALTH_LTCR_FAC_OWNER",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.0",
+  "nombre": "Long-term care resources and recipients by facility ownership"
+ },
+ {
+  "id": "DSD_HEALTH_LVNG@DF_HEALTH_LVNG",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.0",
+  "nombre": "Risk factors for health"
+ },
+ {
+  "id": "DSD_HEALTH_LVNG@DF_HEALTH_LVNG_AC",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.0",
+  "nombre": "Alcohol consumption"
+ },
+ {
+  "id": "DSD_HEALTH_LVNG@DF_HEALTH_LVNG_BW",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.0",
+  "nombre": "Body weight"
+ },
+ {
+  "id": "DSD_HEALTH_LVNG@DF_HEALTH_LVNG_FSC",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.0",
+  "nombre": "Food supply and consumption"
+ },
+ {
+  "id": "DSD_HEALTH_LVNG@DF_HEALTH_LVNG_TC",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.0",
+  "nombre": "Tobacco consumption"
+ },
+ {
+  "id": "DSD_HEALTH_LVNG@DF_HEALTH_LVNG_VP",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.0",
+  "nombre": "Use of vaping products"
+ },
+ {
+  "id": "DSD_HEALTH_MORTALITY@DF_MORTALITY",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.0",
+  "nombre": "Mortality by week"
+ },
+ {
+  "id": "DSD_HEALTH_MORTALITY@DF_MORTALITY_COVID",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.0",
+  "nombre": "COVID-19 mortality by week"
+ },
+ {
+  "id": "DSD_HEALTH_MORTALITY@DF_MORTALITY_EXCESS",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.0",
+  "nombre": "Excess mortality by week"
+ },
+ {
+  "id": "DSD_HEALTH_PROC@DF_AGGR",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.2",
+  "nombre": "Hospital aggregates"
+ },
+ {
+  "id": "DSD_HEALTH_PROC@DF_CONSULT",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.2",
+  "nombre": "Consultations"
+ },
+ {
+  "id": "DSD_HEALTH_PROC@DF_DIAG_EXAM",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.2",
+  "nombre": "Diagnostic exams"
+ },
+ {
+  "id": "DSD_HEALTH_PROC@DF_HOSP_AV_LENGTH",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.2",
+  "nombre": "Hospital average length of stay by diagnostic categories"
+ },
+ {
+  "id": "DSD_HEALTH_PROC@DF_HOSP_DISCHARGE",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.2",
+  "nombre": "Hospital discharges by diagnostic categories"
+ },
+ {
+  "id": "DSD_HEALTH_PROC@DF_IMMUN",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.2",
+  "nombre": "Immunisations"
+ },
+ {
+  "id": "DSD_HEALTH_PROC@DF_KEY_INDIC",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.2",
+  "nombre": "Healthcare utilisation"
+ },
+ {
+  "id": "DSD_HEALTH_PROC@DF_SCREEN",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.2",
+  "nombre": "Screening"
+ },
+ {
+  "id": "DSD_HEALTH_PROC@DF_SURG_PROC",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.2",
+  "nombre": "Surgical procedures"
+ },
+ {
+  "id": "DSD_HEALTH_PROC@DF_WAITING",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.2",
+  "nombre": "Waiting times"
+ },
+ {
+  "id": "DSD_HEALTH_PROT@DF_HEALTH_PROT",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.1",
+  "nombre": "Healthcare coverage"
+ },
+ {
+  "id": "DSD_HEALTH_REAC_EMP@DF_CARE",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.1",
+  "nombre": "Caring personnel (personal care workers)"
+ },
+ {
+  "id": "DSD_HEALTH_REAC_EMP@DF_DNST",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.1",
+  "nombre": "Dentists"
+ },
+ {
+  "id": "DSD_HEALTH_REAC_EMP@DF_GRAD",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.1",
+  "nombre": "Graduates"
+ },
+ {
+  "id": "DSD_HEALTH_REAC_EMP@DF_HOSP_EMP",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.1",
+  "nombre": "Hospital employment"
+ },
+ {
+  "id": "DSD_HEALTH_REAC_EMP@DF_MIDWIFE",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.1",
+  "nombre": "Midwives"
+ },
+ {
+  "id": "DSD_HEALTH_REAC_EMP@DF_NURSE",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.1",
+  "nombre": "Nurses"
+ },
+ {
+  "id": "DSD_HEALTH_REAC_EMP@DF_NURS_AGE_SEX",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.1",
+  "nombre": "Nurses by age and sex"
+ },
+ {
+  "id": "DSD_HEALTH_REAC_EMP@DF_PHST",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.1",
+  "nombre": "Pharmacists"
+ },
+ {
+  "id": "DSD_HEALTH_REAC_EMP@DF_PSIO",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.1",
+  "nombre": "Physiotherapists"
+ },
+ {
+  "id": "DSD_HEALTH_REAC_EMP@DF_REMUN",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.1",
+  "nombre": "Remuneration of health professionals"
+ },
+ {
+  "id": "DSD_HEALTH_REAC_HOSP@DF_BEDS_FUNC",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.1",
+  "nombre": "Hospital beds by function of healthcare"
+ },
+ {
+  "id": "DSD_HEALTH_REAC_HOSP@DF_BEDS_ICU",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.1",
+  "nombre": "Intensive care unit (ICU) beds and use"
+ },
+ {
+  "id": "DSD_HEALTH_REAC_HOSP@DF_BEDS_SECT",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.1",
+  "nombre": "Hospital beds by sector"
+ },
+ {
+  "id": "DSD_HEALTH_REAC_HOSP@DF_HOSP",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.1",
+  "nombre": "Hospitals"
+ },
+ {
+  "id": "DSD_HEALTH_REAC_HOSP@DF_HOSP_REAC",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.1",
+  "nombre": "Healthcare provider resources"
+ },
+ {
+  "id": "DSD_HEALTH_REAC_HOSP@DF_MED_TECH",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.1",
+  "nombre": "Medical technology availability"
+ },
+ {
+  "id": "DSD_HEALTH_STAT@DF_AM",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.1",
+  "nombre": "Avoidable mortality"
+ },
+ {
+  "id": "DSD_HEALTH_STAT@DF_AWDI",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.1",
+  "nombre": "Sick leave from work"
+ },
+ {
+  "id": "DSD_HEALTH_STAT@DF_C",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.1",
+  "nombre": "Cancer"
+ },
+ {
+  "id": "DSD_HEALTH_STAT@DF_CD",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.1",
+  "nombre": "Communicable diseases"
+ },
+ {
+  "id": "DSD_HEALTH_STAT@DF_COM",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.1",
+  "nombre": "Causes of mortality"
+ },
+ {
+  "id": "DSD_HEALTH_STAT@DF_HEALTH_STATUS",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.1",
+  "nombre": "Health status"
+ },
+ {
+  "id": "DSD_HEALTH_STAT@DF_I",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.1",
+  "nombre": "Injuries"
+ },
+ {
+  "id": "DSD_HEALTH_STAT@DF_IH_LB",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.1",
+  "nombre": "Infant health: low birthweight"
+ },
+ {
+  "id": "DSD_HEALTH_STAT@DF_LE",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.1",
+  "nombre": "Life expectancy"
+ },
+ {
+  "id": "DSD_HEALTH_STAT@DF_MIM",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.1",
+  "nombre": "Maternal and infant mortality"
+ },
+ {
+  "id": "DSD_HEALTH_STAT@DF_PHS",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.1",
+  "nombre": "Perceived health status"
+ },
+ {
+  "id": "DSD_HEALTH_STAT@DF_PHS_SES",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.1",
+  "nombre": "Perceived health status by socio-economic status"
+ },
+ {
+  "id": "DSD_HEALTH_STAT@DF_PYLL",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.1",
+  "nombre": "Potential years of life lost"
+ },
+ {
+  "id": "DSD_HEALTH_WFMI@DF_HEALTH_WFMI",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.0",
+  "nombre": "Health workforce migration"
+ },
+ {
+  "id": "DSD_HSCS2023@DF_HSCS2023",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.0",
+  "nombre": "Health System Characteristics Survey - 2023 Round"
+ },
+ {
+  "id": "DSD_HSCS@DF_HSCS",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.0",
+  "nombre": "Health System Characteristics Survey 2012, 2016 and 2018(LAC) Rounds"
+ },
+ {
+  "id": "DSD_PARIS@DF_PARIS",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.0",
+  "nombre": "Patient-Reported Indicator Surveys (PaRIS)"
+ },
+ {
+  "id": "DSD_SHA@DF_SHA",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.1",
+  "nombre": "Health expenditure and financing"
+ },
+ {
+  "id": "DSD_SHA@DF_SHA_COV",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.0",
+  "nombre": "COVID-19 expenditure"
+ },
+ {
+  "id": "DSD_SHA@DF_SHA_FP",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.1",
+  "nombre": "Input costs for healthcare providers"
+ },
+ {
+  "id": "DSD_SHA@DF_SHA_FS",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.1",
+  "nombre": "Revenues of healthcare financing schemes"
+ },
+ {
+  "id": "DSD_SHA@DF_SHA_HK",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.1",
+  "nombre": "Gross fixed capital formation in the healthcare system"
+ },
+ {
+  "id": "HEALTH_PHMC@DF_GEN_MRKT",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.1",
+  "nombre": "Generic market"
+ },
+ {
+  "id": "HEALTH_PHMC@DF_KEY_INDIC",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.1",
+  "nombre": "Pharmaceutical market"
+ },
+ {
+  "id": "HEALTH_PHMC@DF_PHMC_CONSUM",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.1",
+  "nombre": "Pharmaceutical consumption"
+ },
+ {
+  "id": "HEALTH_PHMC@DF_PHMC_SALES",
+  "agencia": "OECD.ELS.HD",
+  "version": "1.1",
+  "nombre": "Pharmaceutical sales"
+ }
+]

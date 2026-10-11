@@ -1,0 +1,101 @@
+name: Actualizar Base OCDE·Salud
+
+# Baja la base desde la API SDMX de la OCDE, regenera la página y publica
+# en GitHub Pages. Corre a mano o el día 1 de cada mes.
+
+on:
+  workflow_dispatch:
+    inputs:
+      paises:
+        description: "Países (ISO-3 / agregados) separados por espacio"
+        default: "PER CHL COL MEX CRI BRA ARG OECD"
+        required: true
+      argumentos:
+        description: "Argumentos extra para ocde_salud_base.py (p. ej. --desde 2000)"
+        default: ""
+        required: false
+  schedule:
+    - cron: "17 6 1 * *"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: ocde-salud
+  cancel-in-progress: false
+
+jobs:
+  descargar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    env:
+      PAISES: ${{ inputs.paises || 'PER CHL COL MEX CRI BRA ARG OECD' }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Dependencias
+        run: pip install --quiet -r requirements.txt
+
+      - name: Comprobar que la API de la OCDE responde
+        run: |
+          codigo=$(curl -sS -m 60 -o /dev/null -w "%{http_code}" \
+            https://sdmx.oecd.org/public/rest/dataflow/OECD.ELS.HD)
+          echo "OCDE dataflow → HTTP $codigo"
+          test "$codigo" = "200"
+
+      - name: Descargar y consolidar
+        run: |
+          mkdir -p salida/ocde_salud
+          python -I ocde_salud_base.py --paises $PAISES ${{ inputs.argumentos }} \
+            2>&1 | tee salida/ocde_salud/registro.txt
+
+      - name: Generar la página y copiar los archivos a docs/
+        run: |
+          python -I publicar_ocde_salud.py --paises $PAISES --html docs/index.html
+          mkdir -p docs/crudo
+          cp salida/ocde_salud/base_ocde_salud.xlsx \
+             salida/ocde_salud/catalogo_indicadores.csv \
+             salida/ocde_salud/registro.txt docs/
+          cp salida/ocde_salud/crudo/flujos.json docs/crudo/
+          # GitHub rechaza archivos de más de 100 MB: comprimir si hace falta.
+          rm -f docs/base_larga.csv docs/base_larga.csv.gz
+          if [ $(stat -c %s salida/ocde_salud/base_larga.csv) -gt 99614720 ]; then
+            gzip -9 -c salida/ocde_salud/base_larga.csv > docs/base_larga.csv.gz
+          else
+            cp salida/ocde_salud/base_larga.csv docs/
+          fi
+          ls -la docs
+
+      - name: Guardar en la rama principal
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs
+          git diff --cached --quiet && echo "Sin cambios" && exit 0
+          git commit -m "Base OCDE·Salud actualizada $(date -u +%Y-%m-%d)" \
+                     -m "Países: $PAISES. Generado por GitHub Actions."
+          git push
+
+      - uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+  publicar:
+    needs: descargar
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - id: deploy
+        uses: actions/deploy-pages@v4
