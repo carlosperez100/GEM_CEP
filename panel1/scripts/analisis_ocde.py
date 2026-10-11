@@ -28,7 +28,7 @@ if MODO == "pg":
     import _entorno  # noqa
     import psycopg
     cfg = {}
-    for l in open(r"T:\BASES SISOL\pais\.env", encoding="utf-8"):
+    for l in open(r"(archivo de credenciales local, no versionado)", encoding="utf-8"):
         l = l.strip()
         if l and not l.startswith("#") and "=" in l:
             k, v = l.split("=", 1)

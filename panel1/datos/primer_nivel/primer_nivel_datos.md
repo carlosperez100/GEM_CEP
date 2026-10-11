@@ -15,3 +15,7 @@ Método: se toma el último reporte vigente de cada establecimiento de categorí
 Frase segura: «De los 2 302 puestos de salud públicos de categoría I-1 que reportaron sus recursos a la Superintendencia Nacional de Salud en los últimos doce meses, 2 021 (88 %) no reportan médico; en 1 195 (52 %) hay enfermera y no hay médico».
 
 Límites que deben decirse: (1) es lo que cada establecimiento reporta, no una verificación en campo; (2) el padrón registra 4 250 establecimientos públicos de categoría I-1 y solo 2 302 (54 %) reportaron recursos en los últimos doce meses: el resultado describe a los que reportan; (3) «sin enfermera ni médico» incluye puestos a cargo de obstetra o de técnico de enfermería; (4) el plan de conectividad del Ministerio habla de «postas» sin precisar categoría: la correspondencia con I-1 e I-2 es lectura del autor.
+
+## Denominador del padrón (consulta `q2_padron.sql`, 11 de octubre de 2026)
+
+El padrón registra 4 250 establecimientos de categoría I-1 del Ministerio de Salud y los gobiernos regionales: 4 233 de gobiernos regionales (2 de ellos en condición «inoperativo») y 17 del Ministerio de Salud. Son las mismas dos instituciones del cálculo anterior. De esos 4 250, reportaron recursos en los últimos doce meses 2 302; no tienen reporte 1 948 (45.8 %). Mide falta de reporte, no falta de recursos.

@@ -12,3 +12,12 @@ panel1/deck_fuentes/slides/portada.html
 FORO/
 # Exportaciones del deck: la portada lleva datos de contacto
 Panel I*.pptx
+
+# Material que no se publica: exportados, comprimidos, borradores y documentos de terceros en la raíz
+/*.zip
+/*.pptx
+/*.pdf
+/BASE_GCNO_MUNDIAL.*
+/piramide_hegemonia_medica_peru.png
+/recorrido_del_paciente_con_*
+/FORO/

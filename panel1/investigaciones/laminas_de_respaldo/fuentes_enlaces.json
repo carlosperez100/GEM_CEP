@@ -1,0 +1,236 @@
+[
+  {
+    "n": 1,
+    "fuente": "Congreso de la República del Perú. Ley 27669, Ley del Trabajo de la Enfermera(o). Diario Oficial El Peruano, 16 de febrero de 2002.",
+    "url": "https://leyes.congreso.gob.pe/Documentos/Leyes/27669.pdf",
+    "origen": "registros",
+    "http": "200 (PDF, 137 470 bytes)",
+    "registro": "T:/CEP/panel1/investigaciones/autonomia/afirmaciones.json; id aut:norma_propia#1 (también aut:frontera_legal#1 y T:/CEP/panel1/documentos/DOSSIER_EVIDENCIA_PANEL1.md, línea 54)",
+    "nota": "Facsímil del diario oficial en el Archivo Digital de la Legislación del Perú; 3 páginas, desde la 217410. Imagen escaneada, texto original de 2002."
+  },
+  {
+    "n": 2,
+    "fuente": "Presidencia de la República del Perú. Decreto Supremo 004-2002-SA, que aprueba el Reglamento de la Ley del Trabajo de la Enfermera(o), 22 de junio de 2002.",
+    "url": "https://cdn.www.gob.pe/uploads/document/file/283049/254821_DS004-2002.pdf20190110-18386-1ktrq99.pdf",
+    "origen": "registros",
+    "http": "200 (PDF, 14 445 bytes)",
+    "registro": "T:/CEP/panel1/investigaciones/autonomia/afirmaciones.json; id aut:frontera_legal#1 (también aut:norma_propia#1 e ia:lenguajes_estandarizados#1 en T:/CEP/panel1/investigaciones/primera_lamina_datos_ia/afirmaciones.json)",
+    "nota": "PDF de 9 páginas publicado por el Ministerio de Salud en gob.pe. Ficha oficial: https://www.gob.pe/institucion/minsa/normas-legales/254821-004-2002-sa (lo modifica el Decreto Supremo 001-2026-SA)."
+  },
+  {
+    "n": 3,
+    "fuente": "Congreso de la República del Perú. Ley 26842, Ley General de Salud. Diario Oficial El Peruano, 20 de julio de 1997.",
+    "url": "https://leyes.congreso.gob.pe/Documentos/Leyes/26842.pdf",
+    "origen": "registros",
+    "http": "200 (PDF, 367 473 bytes)",
+    "registro": "T:/CEP/panel1/investigaciones/autonomia/afirmaciones.json; id aut:frontera_legal#2 (también aut:frontera_legal#7)",
+    "nota": "Facsímil del diario oficial en el Archivo Digital de la Legislación del Perú; 8 páginas, desde la 151245. Texto original de 1997, sin modificatorias."
+  },
+  {
+    "n": 4,
+    "fuente": "Presidencia de la República del Perú. Decreto Supremo 024-2001-SA, que aprueba el Reglamento de la Ley de Trabajo Médico. Diario Oficial El Peruano, 23 de julio de 2001.",
+    "url": "https://cdn.www.gob.pe/uploads/document/file/283856/255644_DS024-2001-SA.pdf20190110-18386-bugogy.pdf",
+    "origen": "registros",
+    "http": "200 (PDF, 227 624 bytes)",
+    "registro": "T:/CEP/panel1/investigaciones/autonomia/afirmaciones.json; id aut:frontera_legal#2",
+    "nota": "PDF de 12 páginas con las páginas del diario oficial (desde la 207319), publicado en gob.pe. Ficha oficial: https://www.gob.pe/institucion/minsa/normas-legales/255644-024-2001-sa"
+  },
+  {
+    "n": 5,
+    "fuente": "Colegio de Enfermeros del Perú. Código de Ética y Deontología, aprobado por la Resolución 322-09/CN-CEP del Consejo Nacional, 14 de enero de 2009.",
+    "url": "https://www.cep.org.pe/wp-content/uploads/2021/10/codigo_etica_deontologia.pdf",
+    "origen": "registros",
+    "http": "200 (PDF, 349 739 bytes)",
+    "registro": "T:/CEP/panel1/investigaciones/autonomia/afirmaciones.json; id aut:norma_propia#2 (también aut:norma_propia#3, aut:norma_propia#6, aut:norma_propia#7 y T:/CEP/panel1/documentos/DOSSIER_EVIDENCIA_PANEL1.md, línea 158)",
+    "nota": "PDF de 33 páginas en el sitio del Colegio de Enfermeros del Perú; la resolución aprobatoria está en la página 9 del archivo."
+  },
+  {
+    "n": 6,
+    "fuente": "Colegio de Enfermeros del Perú. Proposición Legislativa 00159-2026-2031-CD, que modifica la Ley 27669, Ley del Trabajo de la Enfermera(o), para fortalecer el ejercicio profesional y la calidad del cuidado de enfermería. Cámara de Diputados del Congreso de la República, 8 de setiembre de 2026.",
+    "url": "https://api.congreso.gob.pe/spley-portal-service/archivo/NDEzNzM5/pdf",
+    "origen": "registros",
+    "http": "200 (PDF, 11 074 055 bytes)",
+    "registro": "T:/CEP/panel1/investigaciones/autonomia/afirmaciones.json; id aut:frontera_legal#3 (también aut:frontera_legal#7; ficha en aut:frontera_legal#5)",
+    "nota": "PDF escaneado de 28 páginas con sello de recepción de la Cámara de Diputados. Ficha del expediente: https://wb2server.congreso.gob.pe/spley-portal/#/diputados/expediente/2026/159"
+  },
+  {
+    "n": 7,
+    "fuente": "Diputada Paola Isabel Martínez Paitán y otros, Grupo Parlamentario Renovación Popular. Proposición Legislativa 00091-2026-2031-CD, que modifica la Ley 27669, Ley del Trabajo de la Enfermera(o), para fortalecer la autonomía profesional de enfermería. Cámara de Diputados del Congreso de la República, 24 de agosto de 2026.",
+    "url": "https://api.congreso.gob.pe/spley-portal-service/archivo/NDEyOTAy/pdf",
+    "origen": "registros",
+    "http": "200 (PDF, 804 604 bytes)",
+    "registro": "T:/CEP/panel1/investigaciones/autonomia/afirmaciones.json; id aut:frontera_legal#3 (ficha en aut:frontera_legal#5)",
+    "nota": "PDF de 29 páginas con sello de recepción de la Cámara de Diputados. Ficha del expediente: https://wb2server.congreso.gob.pe/spley-portal/#/diputados/expediente/2026/91"
+  },
+  {
+    "n": 8,
+    "fuente": "Butler M, Kirwan M, Mc Carthy VJ, Cole JA, Schultz TJ. Substitution of nurses for physicians in the hospital setting for patient, process of care, and economic outcomes. Cochrane Database of Systematic Reviews. 12 de febrero de 2026; volumen 2, número 2: CD013616.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41672426/",
+    "origen": "registros",
+    "http": "203 a curl (PubMed exige cookies: responde con bloqueo a robots); abre en navegador hoy; ficha confirmada hoy por la interfaz oficial E-utilities (200)",
+    "registro": "T:/CEP/panel1/investigaciones/autonomia/afirmaciones.json; id aut:decision_propia#1",
+    "nota": "Ficha en PubMed con resumen: 82 ensayos, 28 041 participantes, razón de riesgos 1.03. Identificador digital: https://doi.org/10.1002/14651858.CD013616.pub2 (403 a robots)."
+  },
+  {
+    "n": 9,
+    "fuente": "Koontalay A, Samai T, Samutalai C, Onthuam W, Fonghiranrat D. Effectiveness of nurse-led heart failure transitional care services in improving clinical outcomes and applicability to low-resource settings: a meta-analysis. WHO South-East Asia Journal of Public Health. 1 de julio de 2024; volumen 13, número 2, páginas 60-68 (publicación electrónica: 21 de febrero de 2025).",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39995003/",
+    "origen": "registros",
+    "http": "203 a curl (PubMed exige cookies: responde con bloqueo a robots); abre en navegador hoy; ficha confirmada hoy por la interfaz oficial E-utilities (200)",
+    "registro": "T:/CEP/panel1/documentos/DOSSIER_EVIDENCIA_PANEL1.md; líneas 2595 a 2600 (afirmación «Koontalay», sin id en afirmaciones.json)",
+    "nota": "Ficha en PubMed. Salvedad: el número es de julio de 2024, con publicación electrónica en febrero de 2025; 0.69 es reingreso por cualquier causa."
+  },
+  {
+    "n": 10,
+    "fuente": "Kumar A, Kumar M, Verma P y colaboradores (11 autores). Effects of stroke nurse-led acute stroke management on treatment time benchmarks, intravenous thrombolysis rates, and patient outcomes: a systematic review and meta-analysis. Journal of Stroke and Cerebrovascular Diseases. Febrero de 2025; volumen 34, número 2: 108216.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39740694/",
+    "origen": "registros",
+    "http": "203 a curl (PubMed exige cookies: responde con bloqueo a robots); abre en navegador hoy; ficha confirmada hoy por la interfaz oficial E-utilities (200)",
+    "registro": "T:/CEP/panel1/documentos/DOSSIER_EVIDENCIA_PANEL1.md; líneas 2686 a 2691 (sin id en afirmaciones.json)",
+    "nota": "Ficha en PubMed con resumen: 8 estudios; razón de momios 0.56 de mortalidad a tres meses. Identificador digital: https://doi.org/10.1016/j.jstrokecerebrovasdis.2024.108216"
+  },
+  {
+    "n": 11,
+    "fuente": "Zhang J, Zheng X, Ma D, Liu C, Ding Y. Nurse-led care versus usual care on cardiovascular risk factors for patients with type 2 diabetes: a systematic review and meta-analysis. BMJ Open. 28 de marzo de 2022; volumen 12, número 3: e058533.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/35351730/",
+    "origen": "registros",
+    "http": "203 a curl (PubMed exige cookies: responde con bloqueo a robots); abre en navegador hoy; ficha confirmada hoy por la interfaz oficial E-utilities (200); el identificador digital https://doi.org/10.1136/bmjopen-2021-058533 da 403 a curl (bloqueo a robots)",
+    "registro": "T:/CEP/panel1/documentos/DOSSIER_EVIDENCIA_PANEL1.md; líneas 1782 a 1787 (sin id en afirmaciones.json)",
+    "nota": "Ficha en PubMed: 13 artículos, 3 757 participantes; diferencia de medias ponderada −0.68. El resumen escribe «mmol/L» (errata aparente de la fuente)."
+  },
+  {
+    "n": 12,
+    "fuente": "Rossetti SC, Dykes PC, Knaplund C y colaboradores (21 autores). Real-time surveillance system for patient deterioration: a pragmatic cluster-randomized controlled trial. Nature Medicine. Junio de 2025; volumen 31, número 6, páginas 1895-1902.",
+    "url": "https://www.nature.com/articles/s41591-025-03609-7",
+    "origen": "registros",
+    "http": "200",
+    "registro": "T:/CEP/panel1/investigaciones/primera_lamina_datos_ia/afirmaciones.json; id ia:ia_enfermeria_evidencia#1 e ia:ia_enfermeria_evidencia#2 (también sintesis.json, evidenciaIA)",
+    "nota": "Página del artículo en Nature Medicine, con la corrección del 13 de abril de 2026 incorporada; la razón de riesgos instantáneos 0.64 se mantiene."
+  },
+  {
+    "n": 13,
+    "fuente": "Ministerio de Salud del Perú, Dirección General de Personal de la Salud, Observatorio de Recursos Humanos en Salud del Perú. Información de Recursos Humanos en el Sector Salud, Perú 2023. Lima, 2024. Serie Bibliográfica Recursos Humanos en Salud, número 37.",
+    "url": "https://bvs.minsa.gob.pe/local/MINSA/7355.pdf",
+    "origen": "registros",
+    "http": "200 con agente de navegador (PDF, 17 609 402 bytes); los registros anotan 403 sin encabezados de navegador",
+    "registro": "T:/CEP/panel1/investigaciones/agenda_ministro/afirmaciones.json; id ag:primer_nivel_norma#3 (también pais:indicadores#2 en T:/CEP/panel1/investigaciones/paises_direccion_enfermeria/afirmaciones.json y T:/CEP/panel1/documentos/DOSSIER_EVIDENCIA_PANEL1.md, líneas 1244 a 1253)",
+    "nota": "PDF en la Biblioteca Virtual en Salud del Ministerio; Cuadro 01 en la página 13 del archivo. Un verificador anotó que existe edición posterior."
+  },
+  {
+    "n": 14,
+    "fuente": "Seguro Social de Salud. Manual de Perfiles de Puestos del Seguro Social de Salud, formatos modificados por la Resolución de Presidencia Ejecutiva 925-PE-ESSALUD-2024, del 27 de noviembre de 2024.",
+    "url": "https://cdn.www.gob.pe/uploads/document/file/7295066/6233879-anexo-1-3.pdf?v=1732802812",
+    "origen": "registros",
+    "http": "200 (PDF, 1 692 797 bytes)",
+    "registro": "T:/CEP/panel1/investigaciones/tres_niveles/afirmaciones.json; id niv:estructura_real#1 (ficha también en niv:estructura_real#8)",
+    "nota": "PDF del Anexo 1 (247 páginas, formatos de perfiles). La resolución modifica el Manual aprobado por la 881-PE-ESSALUD-2024. Ficha: https://www.gob.pe/institucion/essalud/normas-legales/6233879-925-2024-pe-essalud"
+  },
+  {
+    "n": 15,
+    "fuente": "Presidencia de la República del Perú. Decreto Supremo 008-2017-SA, que aprueba el Reglamento de Organización y Funciones del Ministerio de Salud. Diario Oficial El Peruano, 5 de marzo de 2017.",
+    "url": "https://cdn.www.gob.pe/uploads/document/file/1199610/reglamento-de-organizacion-y-funciones-del-ministerio-de-salud-rof-minsa-ds-n-008-2017-sa.pdf",
+    "origen": "registros",
+    "http": "200 (PDF, 1 295 311 bytes)",
+    "registro": "T:/CEP/panel1/investigaciones/paises_direccion_enfermeria/afirmaciones.json; id pais:evidencia_y_peru#7 (también sintesis.json y T:/CEP/panel1/documentos/DOSSIER_EVIDENCIA_PANEL1.md, líneas 2961 a 2964)",
+    "nota": "PDF de 93 páginas con el texto del reglamento, publicado en gob.pe; no trae el decreto aprobatorio. Ficha oficial: https://www.gob.pe/institucion/minsa/normas-legales/190095-008-2017-sa (modificado por Decreto Supremo 011-2017-SA)."
+  },
+  {
+    "n": 16,
+    "fuente": "Presidencia de la República del Perú. Decreto Supremo 014-2026-SA, que declara en reorganización el Ministerio de Salud. Diario Oficial El Peruano, 9 de setiembre de 2026.",
+    "url": "https://busquedas.elperuano.pe/dispositivo/NL/2552411-1",
+    "origen": "registros",
+    "http": "200",
+    "registro": "T:/CEP/panel1/documentos/DOSSIER_EVIDENCIA_PANEL1.md; líneas 2976 y 2977 (verificadores de la afirmación 33, liderazgo_peru) y línea 3498; no figura en afirmaciones.json",
+    "nota": "Texto de la norma en el buscador de Normas Legales del diario oficial. Original firmado escaneado: https://cdn.www.gob.pe/uploads/document/file/10599431/8582202-decreto-supremo-n-014-2026-sa%282%29.pdf"
+  },
+  {
+    "n": 17,
+    "fuente": "Organización para la Cooperación y el Desarrollo Económicos. Explorador de datos («OECD Data Explorer»), tema Salud, e interfaz de intercambio de datos y metadatos estadísticos de la agencia «OECD.ELS.HD». Consulta del 11 de octubre de 2026.",
+    "url": "https://data-explorer.oecd.org/?fs[0]=Topic%2C0%7CHealth%23HEA%23&pg=0&fc=Topic&bp=true",
+    "origen": "abierto hoy",
+    "http": "200 (aplicación que carga en navegador; abierta hoy, muestra «86 datasets found for: Topic: Health»)",
+    "registro": "El explorador no figura en los registros; la interfaz de datos sí: T:/CEP/panel1/investigaciones/primera_lamina_datos_ia/afirmaciones.json; id ia:ocde_peru#2, ia:ocde_peru#5, ia:ocde_peru#6 e ia:sensibles_enfermeria#6",
+    "nota": "Explorador filtrado por tema Salud (86 conjuntos de datos). Interfaz de la agencia, abierta hoy (200, 86 flujos): https://sdmx.oecd.org/public/rest/dataflow/OECD.ELS.HD"
+  },
+  {
+    "n": 18,
+    "fuente": "Organización Mundial de la Salud. State of the world's nursing 2025: investing in education, jobs, leadership and service delivery. Ginebra, 2025.",
+    "url": "https://iris.who.int/handle/10665/381329",
+    "origen": "registros",
+    "http": "200 (la página carga con JavaScript; registro confirmado hoy por la interfaz del repositorio: título, 8 de mayo de 2025, ISBN 9789240110236)",
+    "registro": "T:/CEP/panel1/investigaciones/paises_direccion_enfermeria/afirmaciones.json; id pais:evidencia_y_peru#3 y pais:evidencia_y_peru#5 (Cuadro 8.1, página impresa 88: 98 de 120); también pais:oms_por_pais#6 y T:/CEP/panel1/documentos/DOSSIER_EVIDENCIA_PANEL1.md, línea 1600",
+    "nota": "Registro permanente en el repositorio institucional, con el PDF completo. Descarga directa (200, 4 542 738 bytes): https://iris.who.int/server/api/core/bitstreams/a4173924-a18f-49b6-8bd1-9c2a4a098980/content"
+  },
+  {
+    "n": 19,
+    "fuente": "Organización Mundial de la Salud. Perfiles de país del informe State of the world's nursing, ediciones 2020 y 2025. Portal de datos de las Cuentas Nacionales del Personal de Salud.",
+    "url": "https://apps.who.int/nhwaportal/Sown/Index",
+    "origen": "registros",
+    "http": "200 con cookies habilitadas (sin cookies, redirección 302 en bucle: responde con bloqueo a robots)",
+    "registro": "T:/CEP/panel1/investigaciones/paises_direccion_enfermeria/afirmaciones.json; id pais:oms_por_pais#4 (índice 2020), pais:oms_por_pais#1 y pais:oms_por_pais#2 (perfiles 2025). Perfil 2025 del Perú, 200 hoy: https://worldhealthorg.sharepoint.com/:b:/s/nhwaportal/EeOxcocIeZREmXDAw-yvJw8BAeh4j5-g6hsXvbgDpM6YfQ?e=b5abeW",
+    "nota": "Índice de los perfiles 2020. Los de 2025 se descargan desde el portal https://apps.who.int/nhwaportal/ (panel interactivo); los enlaces por país están en los registros."
+  },
+  {
+    "n": 20,
+    "fuente": "Panamericana Televisión, programa «Esta Noche». Nota «Luis Dyer: “Va a llegar el día en que uno pueda sacar su cita desde su teléfono”», 9 de setiembre de 2026.",
+    "url": "https://panamericana.pe/EstaNoche/salud/474045-luis-dyer-llegar-dia-pueda-sacar-cita-telefono",
+    "origen": "registros",
+    "http": "200",
+    "registro": "T:/CEP/panel1/investigaciones/primera_lamina_datos_ia/afirmaciones.json; id ia:ministro_dicho#1 (también ia:ministro_dicho#3 y sintesis.json, ministro.dichos)",
+    "nota": "Nota web del canal con su transcripción; contiene «controlar todo el sistema» y «con esa data». La fecha de la entrevista no consta."
+  },
+  {
+    "n": 21,
+    "fuente": "Agencia Peruana de Noticias Andina. Nota sobre el convenio del Ministerio de Salud con la Embajada de Estados Unidos para llevar internet a centros de salud, 8 de setiembre de 2026.",
+    "url": "https://andina.pe/agencia/noticia-minsa-anuncia-convenio-eeuu-para-llevar-internet-a-centros-salud-1090913.aspx",
+    "origen": "registros",
+    "http": "200",
+    "registro": "T:/CEP/panel1/investigaciones/agenda_ministro/verificacion_del_resumen_pegado.json; claves pegado:sin_internet_43:exactitud y pegado:sin_internet_43:atribucion (también sintesis.json, agenda y puente)",
+    "nota": "Nota de la agencia estatal (14:16 horas). La cifra «entre el 42 % y 43 %» va en estilo indirecto; es declaración oral, no estadística."
+  },
+  {
+    "n": 22,
+    "fuente": "Superintendencia Nacional de Salud. Portal de Datos Abiertos, conjunto de datos «Consulta A - Recursos de Salud por IPRESS» (Instituciones Prestadoras de Servicios de Salud). Consulta del 11 de octubre de 2026.",
+    "url": "http://datos.susalud.gob.pe/dataset/consulta-recursos-de-salud-por-ipress",
+    "origen": "registros",
+    "http": "200 por http; por https no conecta",
+    "registro": "T:/CEP/panel1/investigaciones/agenda_ministro/sintesis.json; lista puente (ref primer_nivel_datos.md); no figura en afirmaciones.json",
+    "nota": "Página del conjunto de datos, con archivos anuales de 2015 a 2026 y diccionario de datos. Solo responde sin cifrado (http)."
+  },
+  {
+    "n": 23,
+    "fuente": "Ministerio de Salud del Perú. Norma Técnica de Salud 249-MINSA/DGAIN-2026, «Cartera de servicios de salud de establecimientos de salud, servicios médicos de apoyo y Redes Integradas de Salud o Redes de Salud, del Sector Salud», aprobada por la Resolución Ministerial 625-2026/MINSA, del 15 de julio de 2026 (Anexo 04).",
+    "url": "https://cdn.www.gob.pe/uploads/document/file/10343889/8389687-resolucion-ministerial-n-625-2026-minsa-parte-4.pdf",
+    "origen": "registros",
+    "http": "200 (PDF, 14 187 792 bytes)",
+    "registro": "T:/CEP/panel1/documentos/DOSSIER_EVIDENCIA_PANEL1.md; líneas 3272 a 3281 (Anexo 04) y 3250 a 3268 (resolución); no figura en afirmaciones.json",
+    "nota": "PDF de la parte 4 de la norma en gob.pe; Anexo 04 en páginas 39 y 40 (impresas 229 y 230). Resolución: https://busquedas.elperuano.pe/dispositivo/NL/2535379-1"
+  },
+  {
+    "n": 24,
+    "fuente": "Chappel SE, Verswijveren SJJM, Aisbett B, Considine J, Ridgers ND. Nurses' occupational physical activity levels: a systematic review. International Journal of Nursing Studies. Agosto de 2017; volumen 73, páginas 52-62.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/28535398/",
+    "origen": "registros",
+    "http": "203 a curl (PubMed exige cookies: responde con bloqueo a robots); abre en navegador hoy; ficha confirmada hoy por la interfaz oficial E-utilities (200)",
+    "registro": "T:/CEP/panel1/documentos/DOSSIER_EVIDENCIA_PANEL1.md; líneas 1808 a 1813 (sin id en afirmaciones.json)",
+    "nota": "Ficha en PubMed; la frase «present 24-hours a day» está en los antecedentes del resumen, no es un hallazgo. Identificador digital: https://doi.org/10.1016/j.ijnurstu.2017.05.006"
+  },
+  {
+    "n": 25,
+    "fuente": "Ministerio de Salud de Chile, Subsecretaría de Redes Asistenciales. Resolución Exenta 1127, del 14 de diciembre de 2007, que aprueba la Norma General Administrativa número 19, «Gestión del Cuidado de Enfermería para la Atención Cerrada».",
+    "url": "http://web.archive.org/web/20220303043452/http://juridico1.minsal.cl/RESOLUCION_1127_07.doc",
+    "origen": "registros",
+    "http": "429 a curl (Internet Archive responde con bloqueo a robots); la captura figura disponible con estado 200 en archive.org/wayback/available y el calendario de capturas abre en navegador",
+    "registro": "T:/CEP/panel1/investigaciones/tres_niveles/afirmaciones.json; id niv:disciplina#3 (captura de 2009 del mismo archivo en ia:control_gestion_cuidado#2, T:/CEP/panel1/investigaciones/primera_lamina_datos_ia/afirmaciones.json)",
+    "nota": "Copia archivada (3 de marzo de 2022) del archivo Word oficial; el original https://juridico1.minsal.cl/RESOLUCION_1127_07.doc responde 403 (bloqueo). Vigencia actual no verificada."
+  },
+  {
+    "n": 26,
+    "fuente": "Instituto Nacional Cardiovascular «Carlos Alberto Peschiera Carrillo» del Seguro Social de Salud. Postulación al «Reconocimiento a la Gestión de Proyectos de Mejora 2016», categoría Sector Público, 12 de abril de 2016.",
+    "url": "",
+    "origen": "sin enlace",
+    "http": "no aplica",
+    "registro": "T:/CEP/panel1/investigaciones/primera_lamina_datos_ia/afirmaciones.json; id ia:lenguajes_estandarizados#3 (también niv:estructura_real#4); los registros solo citan una copia local, sin dirección web",
+    "nota": "Documento interno; los registros solo citan una copia local. La búsqueda web de hoy no halló publicación oficial. Queda por sustentar."
+  }
+]

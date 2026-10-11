@@ -1,0 +1,289 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Autonomía profesional de enfermería</title>
+<meta name="description" content="Presentación de Carlos Pérez Pérez en el Panel I del Foro Nacional «Enfermería con voz y autonomía» (Congreso de la República del Perú, 12 de octubre de 2026): láminas, guion, fuentes con enlace y datos.">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Autonomía profesional de enfermería">
+<meta property="og:description" content="Qué dice la norma, qué muestran los datos y qué falta decidir. Láminas, guion, fuentes con enlace y datos del Panel I.">
+<meta property="og:url" content="{{SITIO}}">
+<meta property="og:image" content="{{SITIO}}figuras/tres_brechas_enfermeria.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..900;1,9..144,300..900&display=swap">
+<style>
+:root{
+  color-scheme:light;
+  --bg:#F4F7FA; --sup:#FFFFFF; --sup2:#EBF0F6; --ink:#0B1D36; --ink2:#34465F; --mut:#586981; --line:#D3DCE8;
+  --azul:#005FA3; --oro:#8A5F07; --verde:#0B6E55; --mag:#9A2A63;
+  --hero:#0B1D36; --hero-ink:#FFFFFF; --hero-2:#C9D7EA; --hero-ac:#7FB6E6;
+  --sombra:0 1px 2px rgba(11,29,54,.06), 0 8px 24px rgba(11,29,54,.08);
+  --serif:'Fraunces', Georgia, 'Times New Roman', serif;
+  --sans:'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+}
+@media (prefers-color-scheme: dark){
+  :root{
+    color-scheme:dark;
+    --bg:#09121F; --sup:#101D31; --sup2:#16263F; --ink:#E9EEF6; --ink2:#C2CEDF; --mut:#93A4BC; --line:#25374F;
+    --azul:#6DB8F2; --oro:#E2B250; --verde:#55C7A6; --mag:#E588B8;
+    --hero:#060D18; --hero-ink:#FFFFFF; --hero-2:#B9C8DC; --hero-ac:#7FB6E6;
+    --sombra:0 1px 2px rgba(0,0,0,.4), 0 8px 24px rgba(0,0,0,.35);
+  }
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);font-size:17px;line-height:1.55}
+a{color:var(--azul)}
+.ancho{max-width:1180px;margin-inline:auto;padding-inline:20px}
+
+/* cabecera */
+.hero{background:var(--hero);color:var(--hero-ink);padding-block:56px 44px}
+.hero .sobre{margin:0 0 14px;font-size:14px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--hero-ac)}
+.hero h1{margin:0;font-family:var(--serif);font-weight:600;font-size:clamp(34px,6vw,64px);line-height:1.05;letter-spacing:-.01em;text-wrap:balance}
+.hero .sub{margin:14px 0 0;font-family:var(--serif);font-style:italic;font-size:clamp(19px,2.6vw,27px);line-height:1.3;color:var(--hero-2);text-wrap:balance}
+.hero .quien{margin:26px 0 0;font-size:17px;font-weight:600}
+.hero .nota{margin:8px 0 0;max-width:70ch;font-size:14.5px;line-height:1.5;color:var(--hero-2)}
+
+/* navegacion */
+.nav{position:sticky;top:0;z-index:5;background:var(--sup);border-bottom:1px solid var(--line)}
+.nav .ancho{display:flex;gap:6px 22px;flex-wrap:wrap;padding-block:10px}
+.nav a{font-size:15px;font-weight:600;text-decoration:none;color:var(--ink2)}
+.nav a:hover{color:var(--azul)}
+
+/* secciones */
+.sec{padding-block:44px 8px;scroll-margin-top:52px}
+.sec > h2{margin:0 0 6px;font-family:var(--serif);font-weight:600;font-size:clamp(26px,3.6vw,36px);line-height:1.15;text-wrap:balance}
+.sec > .ent{margin:0 0 22px;max-width:72ch;color:var(--ink2)}
+.rot{margin:0 0 10px;font-size:13px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--mut)}
+
+/* resumen */
+.duo{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,1fr);gap:22px}
+.tarj{background:var(--sup);border:1px solid var(--line);border-radius:14px;padding:22px 24px;box-shadow:var(--sombra);min-width:0}
+.pregunta{margin:0 0 6px;font-family:var(--serif);font-size:clamp(21px,2.6vw,27px);font-weight:500;line-height:1.25;text-wrap:balance}
+.metodo{margin:0 0 20px;color:var(--ink2);font-size:15.5px}
+.tarj .lista-res{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:10px}
+.res{display:grid;grid-template-columns:auto minmax(0,1fr);column-gap:14px;row-gap:2px;padding:12px 14px;border:1px solid var(--line);border-radius:10px;text-decoration:none;color:inherit;background:var(--sup)}
+.res:hover{border-color:var(--azul)}
+.res-n{grid-row:1 / span 2;align-self:start;font-family:var(--serif);font-weight:600;font-size:15px;color:var(--azul);white-space:nowrap;padding-top:2px}
+.res-t{font-weight:600;line-height:1.35}
+.res-k{font-size:13.5px;color:var(--mut);line-height:1.4}
+.pila{display:flex;flex-direction:column;gap:22px;min-width:0}
+.tarj h3{margin:0 0 10px;font-size:13px;font-weight:700;letter-spacing:.12em;text-transform:uppercase}
+.tarj.no h3{color:var(--mag)} .tarj.si h3{color:var(--verde)}
+.tarj ul, .tarj ol{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:7px}
+.tarj.si ol li{font-weight:600}
+.pedidos{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:22px;margin-top:22px}
+.ped{background:var(--sup);border:1px solid var(--line);border-top:5px solid var(--azul);border-radius:14px;padding:18px 22px;min-width:0}
+.ped:nth-child(2){border-top-color:var(--mag)} .ped:nth-child(3){border-top-color:var(--verde)}
+.ped h4{margin:0 0 8px;font-size:13px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--ink2)}
+.ped ul{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:6px}
+.capas{margin-top:22px;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:0;border:1px solid var(--line);border-radius:14px;overflow:hidden;background:var(--sup)}
+.capa{padding:16px 20px;border-left:1px solid var(--line);min-width:0}
+.capa:first-child{border-left:0}
+.capa b{display:block;font-family:var(--serif);font-size:19px;font-weight:600;margin-bottom:2px}
+.capa span{font-size:15px;color:var(--ink2)}
+.verif{margin:14px 0 0;max-width:86ch;font-size:15px;color:var(--ink2)}
+
+/* laminas */
+.indice{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 22px}
+.indice a{display:inline-flex;align-items:center;justify-content:center;min-width:38px;height:38px;padding:0 10px;border:1px solid var(--line);border-radius:999px;background:var(--sup);font-weight:700;font-size:15px;text-decoration:none;color:var(--ink2);font-variant-numeric:tabular-nums}
+.indice a:hover{border-color:var(--azul);color:var(--azul)}
+.lam{margin:0 0 34px;scroll-margin-top:60px;min-width:0}
+.lam figcaption{display:flex;align-items:baseline;gap:12px;margin:0 0 8px}
+.lam-n{flex:none;font-family:var(--serif);font-weight:600;font-size:22px;color:var(--azul);font-variant-numeric:tabular-nums}
+.lam-t{flex:1;min-width:0;font-weight:600;line-height:1.3}
+.lam-z{flex:none;font:inherit;font-size:13.5px;font-weight:600;color:var(--ink2);background:var(--sup);border:1px solid var(--line);border-radius:999px;padding:4px 12px;cursor:pointer}
+@media (min-width:1100px){.lam-z{display:none}}
+.visor{overflow:hidden;border-radius:12px;border:1px solid var(--line);box-shadow:var(--sombra);background:#FFFFFF}
+.lam.zoom .visor{overflow-x:auto}
+.marco{position:relative;width:100%;aspect-ratio:16 / 9;overflow:hidden;container-type:inline-size;background:#FFFFFF}
+.lam.zoom .marco{width:max(100%,1000px)}
+.guion{margin-top:8px;border:1px solid var(--line);border-radius:10px;background:var(--sup)}
+.guion summary{cursor:pointer;padding:10px 16px;font-size:14.5px;font-weight:600;color:var(--ink2)}
+.guion p{margin:0;padding:2px 16px 16px;max-width:86ch;color:var(--ink2)}
+
+/* el lienzo reproduce las reglas del visor de laminas (1920 x 1080) */
+.lienzo{position:absolute;left:0;top:0;width:1920px;height:1080px;transform-origin:0 0;transform:scale(.5);transform:scale(tan(atan2(100cqw, 1920px)));font-family:Arial, Helvetica, sans-serif;line-height:normal;text-align:left;color:#0B1D36}
+.lienzo section{position:absolute;left:0;top:0;width:1920px;height:1080px;display:flex;flex-direction:column;overflow:hidden;background-size:1920px 1080px !important;background-repeat:no-repeat !important;background-position:0 0 !important}
+.lienzo section *{box-sizing:border-box;margin:0}
+.lienzo section > *{flex-shrink:0}
+.lienzo section div > *{flex-shrink:0}
+.lienzo section div:not([style*="display:"]){display:flex;flex-direction:column}
+.lienzo section > :not([style*="position:absolute"]){position:relative}
+.lienzo h1{font-size:96px;font-weight:600;line-height:1.1}
+.lienzo h2{font-size:64px;font-weight:600;line-height:1.15}
+.lienzo h3{font-size:44px;font-weight:600;line-height:1.2}
+.lienzo p{font-size:32px;font-weight:400;line-height:1.4}
+{{CSS_FONDOS}}
+
+/* fuentes */
+.tabla-wrap{overflow-x:auto;border:1px solid var(--line);border-radius:14px;background:var(--sup);box-shadow:var(--sombra)}
+table.fu{width:100%;border-collapse:collapse;font-size:15.5px}
+.fu th{text-align:left;font-size:12.5px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--mut);padding:12px 14px;border-bottom:1px solid var(--line);white-space:nowrap}
+.fu td{padding:11px 14px;border-bottom:1px solid var(--line);vertical-align:top}
+.fu tr:last-child td{border-bottom:0}
+.c-n{width:44px;color:var(--mut);font-variant-numeric:tabular-nums}
+.f-nom{display:block;font-weight:600;line-height:1.35}
+.f-nota{display:block;margin-top:2px;font-size:14px;color:var(--mut);line-height:1.4}
+.c-uso{width:26%;color:var(--ink2);font-size:14.5px}
+.c-enl{width:20%;font-size:14.5px;overflow-wrap:anywhere}
+.sin{color:var(--mut);font-style:italic}
+
+/* datos */
+.rej{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px}
+.dato{background:var(--sup);border:1px solid var(--line);border-radius:14px;padding:18px 20px;min-width:0;display:flex;flex-direction:column;gap:6px}
+.dato h3{margin:0;font-family:var(--serif);font-size:20px;font-weight:600;line-height:1.2}
+.dato p{margin:0;font-size:15px;color:var(--ink2)}
+.dato .enl{margin-top:auto;padding-top:8px;display:flex;flex-direction:column;gap:4px;font-size:15px;font-weight:600}
+
+.pie{margin-top:44px;padding-block:28px 40px;border-top:1px solid var(--line);font-size:14.5px;color:var(--mut)}
+.pie p{margin:0 0 6px;max-width:90ch}
+
+@media (max-width:860px){
+  .duo, .pedidos, .rej{grid-template-columns:minmax(0,1fr)}
+  .capas{grid-template-columns:minmax(0,1fr)}
+  .capa{border-left:0;border-top:1px solid var(--line)} .capa:first-child{border-top:0}
+}
+@media (max-width:700px){
+  .ancho{padding-inline:16px}
+  .hero{padding-block:36px 30px}
+  table.fu, .fu tbody, .fu tr, .fu td{display:block;width:auto}
+  .fu thead{display:none}
+  .fu tr{padding:12px 14px;border-bottom:1px solid var(--line)}
+  .fu tr:last-child{border-bottom:0}
+  .fu td{padding:0;border:0}
+  .fu td.c-n{display:none}
+  .fu td.c-uso{margin-top:4px}
+  .fu td.c-enl{margin-top:4px}
+}
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <div class="ancho">
+    <p class="sobre">Panel I · Foro Nacional «Enfermería con voz y autonomía»</p>
+    <h1>Autonomía profesional de enfermería</h1>
+    <p class="sub">Qué dice la norma, qué muestran los datos y qué falta decidir</p>
+    <p class="quien">Carlos Pérez Pérez · Exposición en el Congreso de la República del Perú · 12 de octubre de 2026</p>
+    <p class="nota">Versión del {{VERSION}}. Página personal del autor: no es una publicación oficial del Colegio de Enfermeros del Perú, del Congreso de la República ni del Ministerio de Salud, y no expresa la posición de ninguno de ellos. Las láminas usan la plantilla institucional del Colegio de Enfermeros del Perú, con la que se expone en el foro: su sello y su lema pertenecen al Colegio y su presencia no significa aval. Las lecturas, las propuestas y los pedidos son del autor.</p>
+  </div>
+</header>
+
+<nav class="nav" aria-label="Secciones">
+  <div class="ancho">
+    <a href="#resumen">Resumen</a>
+    <a href="#presentacion">Presentación</a>
+    {{NAV_FUENTES}}
+    <a href="#datos">Datos y descargas</a>
+  </div>
+</nav>
+
+<main class="ancho">
+
+<section class="sec" id="resumen">
+  <h2>Resumen</h2>
+  <p class="ent">La pregunta, los resultados, los límites, la conclusión y los pedidos están tomados literalmente de las láminas. Cada resultado enlaza con la suya.</p>
+  <div class="duo">
+    <div class="tarj">
+      <p class="rot">La pregunta</p>
+      <p class="pregunta">{{PREGUNTA}}</p>
+      <p class="metodo">{{METODO}}</p>
+      <p class="rot">Cuatro resultados</p>
+      <ol class="lista-res">{{RESULTADOS}}</ol>
+    </div>
+    <div class="pila">
+      <div class="tarj no"><h3>Lo que estos datos no prueban</h3><ul>{{NO_PRUEBAN}}</ul></div>
+      <div class="tarj si"><h3>Conclusión</h3><ol>{{CONCLUSION}}</ol></div>
+    </div>
+  </div>
+  <p class="rot" style="margin-top:26px">Tres pedidos del autor</p>
+  <div class="pedidos" style="margin-top:0">{{PEDIDOS}}</div>
+
+  <p class="rot" style="margin-top:26px">Cómo leer cada afirmación</p>
+  <div class="capas" style="margin-top:0">
+    <div class="capa"><b>Cita</b><span>La fuente lo dice. Va con su documento y, si lo tiene, su artículo o página; los estudios, con autor y año.</span></div>
+    <div class="capa"><b>Derivación</b><span>Cálculo, conteo o lectura propia de un texto. Va rotulada «cálculo propio», «lectura propia» o «búsqueda propia».</span></div>
+    <div class="capa"><b>Juicio del autor</b><span>Lectura, marco, síntesis o propuesta. Va rotulado con las palabras «del autor».</span></div>
+  </div>
+  <p class="verif">Las cifras y las citas se contrastaron con el documento original de cada fuente mediante verificadores automáticos: agentes de inteligencia artificial que debían abrir cada documento antes de dar un veredicto. Los veredictos por afirmación están en el repositorio; la responsabilidad del contenido es del autor.</p>
+</section>
+
+<section class="sec" id="presentacion">
+  <h2>La presentación</h2>
+  <p class="ent">{{N_LAMINAS}} láminas: diez minutos de exposición, tres minutos de remate con los pedidos y las láminas de respaldo. Debajo de cada una está el guion del expositor; el número con que empieza es su duración prevista, en minutos y segundos. Las láminas llevan el sello del Colegio de Enfermeros del Perú porque usan su plantilla: no significa aval.</p>
+  <div class="indice" aria-label="Ir a la lámina">{{INDICE}}</div>
+  {{LAMINAS}}
+</section>
+
+{{SECCION_FUENTES}}
+
+<section class="sec" id="datos">
+  <h2>Datos y descargas</h2>
+  <p class="ent">Los datos, las consultas a las bases de datos y los veredictos están en un repositorio abierto, para que cualquiera pueda rehacer las cuentas.</p>
+  <div class="rej">
+    <div class="dato">
+      <h3>Comparación con otros países</h3>
+      <p>Tema Salud del explorador de datos de la Organización para la Cooperación y el Desarrollo Económicos: 86 conjuntos de datos y 20&nbsp;020&nbsp;959 observaciones, descargados el 10 de octubre de 2026. Por su tamaño, la base completa no está en el repositorio: se guarda en el equipo del autor. Aquí están los archivos de comparación, de donde salen los promedios y los puestos de la lámina 6.</p>
+      <div class="enl"><a href="{{REPO}}/datos/ocde">Archivos de comparación</a><a href="https://carlosperez100.github.io/GEM_CEP/">Base pública: el Perú y seis países de la región</a></div>
+    </div>
+    <div class="dato">
+      <h3>Jefatura de enfermería por país</h3>
+      <p>Organización Mundial de la Salud, State of the world's nursing: 388 perfiles de país de 2020 y 2025, leídos por programa: el valor se toma del ícono de cada perfil. Incluye la tabla por país.</p>
+      <div class="enl"><a href="{{REPO}}/datos/oms">Tablas por país</a></div>
+    </div>
+    <div class="dato">
+      <h3>Primer nivel de atención</h3>
+      <p>Superintendencia Nacional de Salud, recursos por establecimiento, junio de 2025 a junio de 2026: 2&nbsp;302 puestos de salud de categoría I-1 del Ministerio de Salud y los gobiernos regionales que reportaron, de 4&nbsp;250 del padrón.</p>
+      <div class="enl"><a href="{{REPO}}/datos/primer_nivel">Consulta y tabla</a></div>
+    </div>
+    <div class="dato">
+      <h3>Veredictos por afirmación</h3>
+      <p>Qué documento se abrió, qué dice la fuente y cómo quedó redactada cada afirmación, por tema de investigación. Incluye la verificación de las dos láminas de respaldo.</p>
+      <div class="enl"><a href="{{REPO}}/investigaciones">Investigaciones</a></div>
+    </div>
+    <div class="dato">
+      <h3>Figuras en alta definición</h3>
+      <p>Las dos figuras de respaldo, en 3&nbsp;840 por 2&nbsp;160 píxeles.</p>
+      <div class="enl"><a href="figuras/recorrido_paciente_gestion_del_cuidado.png">El recorrido del paciente</a><a href="figuras/tres_brechas_enfermeria.png">Tres brechas</a></div>
+    </div>
+    <div class="dato">
+      <h3>Programas</h3>
+      <p>Los programas con que se cargaron los datos y se construyeron las láminas, las figuras y esta página.</p>
+      <div class="enl"><a href="{{REPO}}/scripts">Carpeta de programas</a></div>
+    </div>
+  </div>
+</section>
+
+<footer class="pie">
+  <p>Carlos Pérez Pérez. Panel I, «Autonomía profesional de enfermería: Proceso de Atención de Enfermería, diagnóstico y delimitación de competencias profesionales». Foro Nacional «Enfermería con voz y autonomía», Congreso de la República del Perú, 12 de octubre de 2026.</p>
+  <p>Página personal del autor; no es una publicación oficial del Colegio de Enfermeros del Perú, del Congreso de la República ni del Ministerio de Salud, y no expresa la posición de ninguno de ellos. Los íconos de las figuras provienen de Tabler Icons (licencia MIT). Versión del {{VERSION}}.</p>
+</footer>
+
+</main>
+
+<script>
+(function () {
+  var marcos = document.querySelectorAll('.marco');
+  function escala(m) { m.firstElementChild.style.transform = 'scale(' + (m.clientWidth / 1920) + ')'; }
+  if ('ResizeObserver' in window) {
+    var ro = new ResizeObserver(function (es) { es.forEach(function (x) { escala(x.target); }); });
+    marcos.forEach(function (m) { ro.observe(m); });
+  } else {
+    var todas = function () { marcos.forEach(escala); };
+    window.addEventListener('resize', todas);
+    todas();
+  }
+  document.querySelectorAll('.lam-z').forEach(function (b) {
+    b.addEventListener('click', function () {
+      var on = b.closest('.lam').classList.toggle('zoom');
+      b.setAttribute('aria-pressed', on ? 'true' : 'false');
+      b.textContent = on ? 'Ajustar' : 'Ampliar';
+    });
+  });
+})();
+</script>
+</body>
+</html>

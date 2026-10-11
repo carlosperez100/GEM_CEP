@@ -39,7 +39,7 @@ import ast, colorsys, csv, datetime, hashlib, io, json, re, subprocess, time, ur
 sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 RAIZ = Path(r"T:\BASES SISOL\pais")
 D = RAIZ / "descargas" / "oms_sown"
-PDFTOPPM = r"C:\Users\infor\AppData\Local\Programs\MiKTeX\miktex\bin\x64\pdftoppm.exe"
+PDFTOPPM = r"equipo del autor/AppData\Local\Programs\MiKTeX\miktex\bin\x64\pdftoppm.exe"
 PDFTOTEXT = r"C:\Program Files\Git\mingw64\bin\pdftotext.exe"
 CURL = r"C:\Windows\System32\curl.exe"
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"
