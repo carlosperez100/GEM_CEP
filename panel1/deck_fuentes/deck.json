@@ -4,37 +4,37 @@
   "v": 1,
   "at": "2026-10-09T00:00:00Z"
  },
- "title": "Panel I: autonomía, datos y decisión",
+ "title": "Panel I: autonomía profesional de enfermería",
  "cover": "portada",
  "order": [
   "portada",
-  "apertura",
-  "presencia",
+  "pregunta",
+  "clinica",
   "resultados",
-  "eficiencia",
-  "mapa3",
-  "paises",
-  "ventana",
+  "piramide",
+  "mundo",
+  "datos",
+  "limites",
   "remate",
   "fuentes",
   "gracias"
  ],
  "sections": {
   "s1": {
-   "description": "Apertura: datos, inteligencia artificial y control del cuidado",
+   "description": "La pregunta y la autonomía clínica",
    "start": "portada"
   },
   "s2": {
-   "description": "Parte 1: lo que enfermería ya aporta",
-   "start": "presencia"
+   "description": "Cuatro resultados",
+   "start": "resultados"
   },
   "s3": {
-   "description": "Parte 2: qué pasaría con respaldo en la alta dirección",
-   "start": "mapa3"
+   "description": "Límites, conclusión y remate",
+   "start": "limites"
   },
   "s4": {
-   "description": "Remate y respaldo",
-   "start": "remate"
+   "description": "Respaldo",
+   "start": "fuentes"
   }
  },
  "faces": {

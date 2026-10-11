@@ -1,0 +1,299 @@
+[
+ [
+  "auditar:alcance",
+  {
+   "lamina": "remate",
+   "texto": "Nombrar la autonomía en la Ley 27669, con su frontera escrita: aprobar el texto sustitutorio. (notas: «aprobando el texto sustitutorio de las proposiciones 91 y 159»)",
+   "problema": "Se pide al Congreso aprobar un texto que nadie del equipo ha leído y se afirma su contenido («nombra la autonomía», «con su frontera escrita»). La síntesis verificada lo registra como vacío: el dictamen no está publicado y las dos descripciones disponibles se contradicen (nota de prensa: «autónoma e independiente»; cuadro comparativo sin firma: otro título, ya sin «autonomía profesional», «autónoma, científica e interdependiente», y sin Proceso de Atención de Enfermería ni diagnóstico de enfermería en el artículo 2). Es afirmar más allá de la fuente abierta, justo ante los congresistas que sí conocen el texto.",
+   "correccion": "Lámina: «Nombrar la autonomía en la Ley 27669, con su frontera escrita, como propone la Proposición Legislativa 159.» Notas: «Al Congreso: nombrar la autonomía en la Ley 27669 con su frontera escrita, como propone la Proposición 159. La Comisión de Trabajo aprobó un texto sustitutorio el 30 de setiembre; su dictamen no estaba publicado cuando preparé esta presentación, así que no afirmo su contenido: pido que conserve el nombre y la frontera.»",
+   "severidad": "ALTA",
+   "evidencia": "T:/CEP/panel1/investigaciones/autonomia/sintesis.md, línea 31 (gap: «nadie lo ha leído y las dos descripciones disponibles se contradicen»), línea 33 («Hasta entonces: por determinar») y línea 104 (redacción segura: «un texto sustitutorio cuyo dictamen no está publicado»)."
+  }
+ ],
+ [
+  "auditar:alcance",
+  {
+   "lamina": "limites",
+   "texto": "La autonomía clínica ya está en la norma y, ejercida, no perjudica al paciente y mejora resultados.",
+   "problema": "Lenguaje causal y de alcance nacional sobre evidencia que la misma lámina declara insuficiente dos líneas antes («no hay estudio peruano», «asociación no es causa»). Los ensayos de Cochrane miden sustitución de tareas con protocolo y médico disponible, no autonomía; Kumar 2025 informa asociación; todo es extranjero. Además «ya está en la norma» choca con la lámina clínica (la Ley no usa la palabra). La conclusión contradice los límites que el propio expositor acaba de leer: es el flanco más fácil para un metodólogo. El mismo defecto está en el título de la lámina «resultados»: «cuando la enfermera decide, el paciente no pierde y gana».",
+   "correccion": "Conclusión 1: «El reglamento ya dice que la enfermera decide y responde. En ensayos de otros países, cuando enfermeras asumieron tareas definidas no hubo diferencia en mortalidad, y el cuidado dirigido por enfermeras se asoció con mejores resultados. En el Perú falta medirlo.» Título de «resultados»: «Resultado 1: en ensayos de otros países, cuando la enfermera asume más, el paciente no pierde; en su campo, hay indicios de que gana».",
+   "severidad": "ALTA",
+   "evidencia": "autonomia/sintesis.md línea 7 (la necesidad 2 «solo queda sustentada de modo indirecto... No hay ningún dato peruano de resultados... si promete demostrar más, pierde ante la primera pregunta de un médico»), línea 25 («sirve si se presenta como evidencia de sustitución con protocolo, no como prueba de autonomía»), línea 88-89 (redacciones atacable y segura). ARTICULOS_REVISION_PANEL1.md línea 92: Kumar «was significantly associated with»."
+  }
+ ],
+ [
+  "auditar:alcance",
+  {
+   "lamina": "piramide",
+   "texto": "Resultado 2: a mayor nivel de gestión, menos enfermería  /  Táctico · «Presente» · Unidad Orgánica de Enfermería  /  Estratégico · «El perfil del puesto pide médico»  (y en «limites»: «Se detiene en el nivel táctico: arriba no hay órgano ni registro.»)",
+   "problema": "(1) El título afirma un gradiente cuantitativo («menos enfermería») que la propia lámina declara no medido («No existe un registro nacional de cargos directivos por profesión»). (2) «Presente» en el nivel táctico es presencia por mandato de ley, no constatada: la misma tarjeta dice «sin dato nacional». (3) El rótulo «El perfil del puesto pide médico» cubre toda la banda estratégica, pero solo vale para ciertos puestos del Seguro Social de Salud; en el Ministerio el clasificador admite a la enfermera como directora, y en el Seguro Social los perfiles de Presidente Ejecutivo, Gerente General y la mayoría de Gerencias Centrales no exigen carrera. Esa precisión está solo en las notas; proyectado, se lee como «arriba solo médicos», que es justo lo que el expositor dice no afirmar. (4) «Se detiene» es una afirmación de hecho sin registro.",
+   "correccion": "Título: «Resultado 2: enfermería tiene órgano propio donde se cuida y se conduce; donde se decide, no lo tiene y nadie la cuenta (derivación del autor)». Táctico: cambiar «Presente» por «Presente por ley». Estratégico: cambiar «El perfil del puesto pide médico» por «Seguro Social: perfiles que piden médico» y añadir al texto: «Ministerio: ningún órgano con nombre de enfermería; su clasificador de cargos sí admite a la enfermera como directora». En «limites», conclusión 2: «En la norma llega hasta el nivel táctico: arriba no hay órgano de enfermería, hay perfiles que la excluyen y no hay registro».",
+   "severidad": "ALTA",
+   "evidencia": "tres_niveles/sintesis.md línea 206 (clasificador del Ministerio: «El requisito de profesión no excluye a la enfermera... Cuántas... está por determinar»), línea 226 («Es una derivación, y las tres bandas son lectura del autor»), línea 271 («Casi todo eso es cierto y hay que concederlo... una enfermera cumple formalmente los perfiles de Presidente Ejecutivo, Gerente General y de las Gerencias Centrales sin requisito de carrera»), líneas 126 y 166 (Gerente de Red Prestacional y Director III del instituto: «Médico Cirujano»; el perfil del nuevo cargo de Gerente del instituto, de julio de 2026, no hallado). Cifras de la base verificadas en 7355_layout.txt líneas 341-344, 365 y 609 (279 712; 133 048; 35 494; 48 990; 82 748; 36.8 % y 138 por 100 recalculados: correctos)."
+  }
+ ],
+ [
+  "auditar:alcance",
+  {
+   "lamina": "datos",
+   "texto": "Resultado 4: el registro de enfermería es el dato que el sistema pide",
+   "problema": "El título, colocado encima de las tres citas del Ministro, hace decir al sistema —y por contigüidad al Ministro— que pide el registro de enfermería. El Ministro habló en condicional de interconectar hospitales y centros de salud y no mencionó a enfermería ni inteligencia artificial. La aclaración («no habló de enfermería») solo está en las notas: quien vea la lámina o una foto de ella no la tiene. Además no es un «resultado» sino la propuesta del autor (capa 3) presentada con rótulo de hallazgo.",
+   "correccion": "Título: «Propuesta: el registro de enfermería puede ser parte de la data que la gestión necesita». Bajo las citas, en la lámina: «Lo dijo, en condicional, de hospitales y centros de salud; no mencionó a enfermería. El vínculo con el registro de enfermería es del autor.»",
+   "severidad": "ALTA",
+   "evidencia": "primera_lamina_datos_ia/sintesis.md línea 13 («dijo en condicional... hospitales y centros de salud... fragmentos literales de una sola oración») y línea 208 («Habla de gestión de hospitales y centros de salud; no menciona a enfermería»)."
+  }
+ ],
+ [
+  "auditar:alcance",
+  {
+   "lamina": "datos",
+   "texto": "Autonomía de hecho · 52 % de los puestos de salud I-1 que reportan tiene enfermera y no tiene médico.  (notas: «ahí la autonomía ya se ejerce de hecho»)",
+   "problema": "El dato prueba presencia reportada de enfermera sin médico reportado; no prueba que la enfermera ejerza autonomía (puede trabajar con protocolo, a distancia o fuera de su campo: un médico gestor lo leerá como déficit de médicos, no como autonomía). Es inferencia del autor rotulada como hecho. Faltan dos límites que la fuente verificada declara obligatorios: es autorreporte y solo reportó el 54 % del padrón (2 302 de 4 250). «Tiene / no tiene» debe ser «reporta / no reporta».",
+   "correccion": "Rótulo: «Sola en el primer nivel (lectura del autor)». Texto: «En el 52 % de los 2 302 puestos de salud públicos I-1 que reportaron (54 % del padrón) se reporta enfermera y no se reporta médico.» Notas: «... ahí la enfermera decide sin médico presente; si eso es autonomía ejercida o solo ausencia de médico, nadie lo ha medido: es mi lectura.»",
+   "severidad": "MEDIA",
+   "evidencia": "T:/CEP/panel1/datos/primer_nivel/primer_nivel_datos.md: tabla I-1 (2 302; 1 195 = 51.9 %; 2 021 = 87.8 %), «Frase segura» y «Límites que deben decirse: (1) es lo que cada establecimiento reporta... (2) el padrón registra 4 250... solo 2 302 (54 %) reportaron»."
+  }
+ ],
+ [
+  "auditar:alcance",
+  {
+   "lamina": "mundo",
+   "texto": "Notas: «tener esa jefatura no se asocia con mejores indicadores, ni en el análisis de la propia Organización Mundial de la Salud ni en el mío.»  /  Título: «pocos, mal pagados y sin voz en el gobierno»",
+   "problema": "(1) Se atribuye a la Organización Mundial de la Salud más de lo que dice: su informe no halló correlación estadísticamente significativa entre tener el cargo y mejor reglamentación de la educación o mejores protecciones laborales; no analizó «indicadores» de salud en general. (2) «Sin voz en el gobierno» excede el dato: el «No» es una respuesta del propio país de 2019-2020 y en 2025 figura «no reportado», que no equivale a «No»; lo verificado es que el reglamento del Ministerio no tiene órgano con nombre de enfermería. (3) «Mal pagados» es juicio; el dato es una comparación en paridad de poder adquisitivo contra países de ingreso alto.",
+   "correccion": "Notas: «Honestidad: el informe de la Organización Mundial de la Salud no halló correlación significativa entre tener ese cargo y mejor regulación educativa o mejores protecciones laborales; y en mi comparación descriptiva de países tampoco vi mejores indicadores. No es un resultado: es gobernanza.» Título: «Resultado 3: menos enfermeras, menor ingreso y sin órgano de enfermería en el Ministerio». En la lámina: «Tenerla no se asoció con mejor regulación ni protección laboral (Organización Mundial de la Salud): es voz, no resultado.»",
+   "severidad": "MEDIA",
+   "evidencia": "paises_direccion_enfermeria/sintesis.md línea 733 («no halló correlación estadísticamente significativa entre contar con el cargo y una mejor reglamentación de la educación o mejores protecciones en el lugar de trabajo») y línea 740 («el perfil de 2025 marca NR, que no equivale a No»). ocde_titulares.csv filas 1 y 5 (2.09 frente a 8.8519, lugar 32 de 33; 31 252.81 frente a 67 427.78, lugar 37 de 37): cifras correctas."
+  }
+ ],
+ [
+  "auditar:alcance",
+  {
+   "lamina": "resultados",
+   "texto": "«Reingresos por insuficiencia cardiaca con transición dirigida por enfermeras» · notas: «44 por ciento menos probabilidad de morir a tres meses» · «0.68 puntos menos de hemoglobina glicosilada»",
+   "problema": "(1) Koontalay mide reingreso por cualquier causa en pacientes con insuficiencia cardiaca, no reingresos por insuficiencia cardiaca. (2) 0.56 es una razón de momios: no equivale a «44 % menos probabilidad», y el estudio informa asociación en 8 estudios (el resumen no dice que sean ensayos aleatorizados); decirlo como efecto es lenguaje causal. (3) El resumen de Zhang expresa la diferencia como «WMD = −0.68 mmol/L»; «puntos» es interpretación del expositor. (4) «Sin diferencia» en Cochrane omite el «probablemente» y las condiciones (protocolo, médico disponible).",
+   "correccion": "Lámina: «Reingresos por cualquier causa en insuficiencia cardiaca con transición dirigida por enfermeras»; «Mortalidad...: probablemente poca o ninguna diferencia»; «−0.68 · diferencia de medias en hemoglobina glicosilada (13 ensayos)». Notas: «enfermera de ictus en el equipo se asoció con menos muertes a tres meses, razón de momios 0.56, en ocho estudios; es asociación» y «0.68 menos en la diferencia de medias de hemoglobina glicosilada».",
+   "severidad": "MEDIA",
+   "evidencia": "C:/Users/infor/OneDrive/CARLOS PEREZ/UNIVERSIDADES/CEP/FORO/ARTICULOS_REVISION_PANEL1.md línea 62 («RR of 0.69 (0.54-0.89) for all-cause readmission»), línea 92 («significantly associated with... reduced three-month mortality rates (OR = 0.56; 0.37, 0.85)»; «included eight»), línea 32 («WMD=-0.68 mmol/L»). autonomia/sintesis.md línea 11 («probablemente hubo poca o ninguna diferencia»; «con protocolo y médico disponible» en línea 89)."
+  }
+ ],
+ [
+  "auditar:alcance",
+  {
+   "lamina": "datos",
+   "texto": "«0.64 riesgo de muerte hospitalaria con una alerta que lee el registro de enfermería» · «18 → 1 formatos de registro: 97.7 minutos menos por paciente al día y S/ 2 009 550 en un año.»",
+   "problema": "(1) El ensayo CONCERN mostró el puntaje a todo el equipo (enfermeras y prescriptores): respalda el valor del dato de enfermería como señal, no que el control esté en enfermería; bajo el rótulo «Autonomía con datos e inteligencia artificial» la lámina sugiere lo segundo. Falta también el efecto no deseado (más traslados no previstos a cuidados intensivos, 1.25) y que 0.64 es una razón de riesgos instantáneos ajustada. (2) S/ 2 009 550 es una valorización del tiempo de enfermería hecha por la propia institución en su postulación de 2016, no dinero ahorrado; en la lámina se lee como ahorro. El caso es antes y después sin grupo de control: «liberó» en las notas es causal.",
+   "correccion": "«0.64 · razón de riesgos de muerte hospitalaria con una alerta que lee el registro de enfermería y se muestra a todo el equipo. Ensayo aleatorizado por conglomerados en Estados Unidos; intervalo 0.53 a 0.78; aumentaron los traslados a cuidados intensivos. No es evidencia sobre el Perú.» y «18 → 1 formatos de registro: 97.7 minutos menos de registro por paciente al día; tiempo que la institución valorizó en S/ 2 009 550 al año. Antes y después, sin grupo de control.» Notas: «el tiempo de registro bajó 97.7 minutos» en lugar de «liberó».",
+   "severidad": "MEDIA",
+   "evidencia": "primera_lamina_datos_ia/sintesis.md línea 181 («el puntaje se mostró a todo el equipo... no puso a prueba que el control esté en manos de enfermería»; traslado 1.25, 1.09 a 1.43), línea 327 («es valorización del tiempo de enfermería en doce meses, no dinero efectivamente liberado»; «antes y después y sin grupo de control») y línea 435. doc4.txt líneas 1148, 2238-2240 y 2605 (223.5 → 125.8; 97.7; S/. 2.009.550): cifras correctas."
+  }
+ ],
+ [
+  "auditar:alcance",
+  {
+   "lamina": "limites",
+   "texto": "Cada afirmación de esta presentación pasó por verificadores independientes: ninguna fue refutada; las que pidieron matiz se usan con la redacción corregida.",
+   "problema": "Es una afirmación universal que no se sostiene tal como está: varias frases de la versión final no usan la redacción corregida (texto sustitutorio, «mejora resultados», «Autonomía de hecho», «44 por ciento menos probabilidad», atribución a la Organización Mundial de la Salud); los títulos y los rótulos de las láminas no son afirmaciones que hayan pasado por verificación; y la regla de los expedientes solo dice que las refutadas no pasan, no que no hubo ninguna. Si un asistente halla un solo desajuste, esta frase convierte un matiz en pérdida de credibilidad.",
+   "correccion": "«Las cifras y las citas de esta presentación fueron contrastadas con su fuente por verificadores independientes; los títulos y las propuestas son lectura del autor.»",
+   "severidad": "MEDIA",
+   "evidencia": "Cabecera de cada afirmaciones.md (línea 7: «solo las CONFIRMADA y las MATIZAR (con su redacción corregida) pueden pasar a un documento»); desajustes documentados en los hallazgos anteriores de esta auditoría."
+  }
+ ],
+ [
+  "auditar:alcance",
+  {
+   "lamina": "clinica",
+   "texto": "Notas: «Nadie propone moverla: la iniciativa del Colegio dice que el diagnóstico enfermero no comprende los actos reservados por ley a otros profesionales.»  /  Lámina: «La proposición en el Congreso la nombra y mantiene la frontera.»",
+   "problema": "«Nadie» es un universal sin sustento: solo se abrió la Proposición 159; el texto sustitutorio no se leyó, la Proposición 91 usa «independencia», la autógrafa de 2025 volvió como Proposición 383 y su texto no se revisó, y no hay documento con la posición del Colegio Médico del Perú. En la lámina, «la proposición» en singular oculta que hay dos y un texto sustitutorio no leído. También en «mundo»: la lista de seis países va en presente sin fecha, cuando el funcionamiento actual de Panamá y El Salvador no se verificó y los rangos difieren (en Chile es parte de un departamento de una subsecretaría).",
+   "correccion": "Notas: «La iniciativa del Colegio no propone moverla: la Proposición 159 dice que el diagnóstico de enfermería no comprende los diagnósticos ni los demás actos reservados por ley a otros profesionales.» Lámina: «La Proposición Legislativa 159 la nombra y mantiene la frontera (es propuesta, no norma).» En «mundo»: «Con un órgano de enfermería creado por norma en su ministerio, de rangos distintos: Chile, Panamá, El Salvador, Argentina, Paraguay y Uruguay.»",
+   "severidad": "BAJA",
+   "evidencia": "autonomia/sintesis.md línea 15 (cita literal de la Proposición 159: «es propuesta, no norma»), líneas 31, 63 y 68 (vacíos: texto sustitutorio, Colegio Médico, Proposición 383). paises_direccion_enfermeria/sintesis.md líneas 744 y 746 («No usar el presente sin fecha para Panamá... El Salvador»; rangos de Chile, Argentina y Paraguay) y línea 726 (ocho países, «con rangos distintos»)."
+  }
+ ],
+ [
+  "auditar:cifras",
+  {
+   "lamina": "resultados",
+   "texto": "enfermera de ictus en el equipo, 44 por ciento menos probabilidad de morir a tres meses",
+   "problema": "El 0.56 de Kumar 2025 es una razón de momios (odds ratio), no una razón de riesgos. 1 − 0.56 = 0.44 es 44 % menos momios, no 44 % menos probabilidad: la reducción de probabilidad es menor y depende de la mortalidad basal, que no está en el material. Además la fuente dice que la intervención 'se asoció', y la nota lo dice como efecto.",
+   "correccion": "enfermera de ictus en el equipo, asociada a 44 por ciento menos momios (odds) de morir a tres meses; razón de momios 0.56",
+   "severidad": "MEDIA",
+   "evidencia": "ARTICULOS_REVISION_PANEL1.md, sección 1.7 Kumar 2025, cita literal del resumen: 'The stroke nurse intervention was significantly associated with ... reduced three-month mortality rates (Odds Ratio [OR] = 0.56; 95 % CI = [0.37, 0.85])'; metaanálisis de 8 estudios. El intervalo 0.37 a 0.85 y '8 estudios' de la lámina sí coinciden."
+  }
+ ],
+ [
+  "auditar:cifras",
+  {
+   "lamina": "resultados",
+   "texto": "Reingresos por insuficiencia cardiaca con transición dirigida por enfermeras",
+   "problema": "El 0.69 de Koontalay 2025 es el riesgo relativo de reingreso por cualquier causa en pacientes con insuficiencia cardiaca, no de reingreso 'por insuficiencia cardiaca'. El rótulo de la lámina cambia el desenlace. La nota oral ('31 por ciento menos reingresos en insuficiencia cardiaca') es compatible.",
+   "correccion": "Reingresos por cualquier causa en insuficiencia cardiaca con transición dirigida por enfermeras",
+   "severidad": "MEDIA",
+   "evidencia": "ARTICULOS_REVISION_PANEL1.md, Koontalay 2025 (líneas 61-62): 'relative risk (RR) of 0.69 (95% confidence interval [CI]: 0.54-0.89) for all-cause readmission'; metaanálisis de 11 ensayos aleatorizados. 1 − 0.69 = 31 % es correcto por ser riesgo relativo."
+  }
+ ],
+ [
+  "auditar:cifras",
+  {
+   "lamina": "resultados",
+   "texto": "Puntos de hemoglobina glicosilada en diabetes con cuidado dirigido por enfermeras",
+   "problema": "La lámina y la nota ('0.68 puntos menos de hemoglobina glicosilada') añaden una unidad que el material verificado no respalda: el resumen de Zhang 2022 expresa la diferencia en 'mmol/L' (errata aparente de la fuente) y la ficha verificada advierte que el deck no debe poner unidad. 'Puntos' (puntos porcentuales) es lectura propia.",
+   "correccion": "Lámina: 'Diferencia de medias en hemoglobina glicosilada en diabetes con cuidado dirigido por enfermeras'. Nota: 'cuidado dirigido por enfermeras en diabetes, diferencia de medias de −0.68 en hemoglobina glicosilada en 13 ensayos'.",
+   "severidad": "BAJA",
+   "evidencia": "ARTICULOS_REVISION_PANEL1.md, sección 1.1 Zhang 2022: 'HbA1c (WMD=-0.68 mmol/L; 95% CI -0.85 to -0.52; p<0.001)'; 'Advertencia: El resumen expresa la hemoglobina glucosilada en mmol/L, errata aparente de la fuente; el deck no pone la unidad'. 13 ensayos y 3 757 participantes coinciden."
+  }
+ ],
+ [
+  "auditar:cifras",
+  {
+   "lamina": "remate",
+   "texto": "el informe con la nueva estructura vence el 7 de diciembre de 2026; la fecha es cálculo propio. [...] que se define antes del 7 de diciembre; quedan 56 días.",
+   "problema": "El decreto fija 90 días calendario, no una fecha. La noticia oficial es del 9 de setiembre de 2026; 9 de setiembre + 90 días = 8 de diciembre; solo contando desde el 8 de setiembre (o contando el 9 como día 1) sale el 7 de diciembre. El dossier verificado lo deja como aproximado ('vencerían aproximadamente el 7 de diciembre ... depende de cómo compute el decreto'); la lámina lo da como fecha exacta y la nota le suma una cuenta exacta de días. La resta 12 de octubre a 7 de diciembre = 56 días es correcta (19 + 30 + 7), pero hereda la incertidumbre de un día.",
+   "correccion": "Lámina: 'el informe con la nueva estructura vence hacia el 7 de diciembre de 2026 (90 días calendario desde la publicación, el 9 de setiembre; la fecha es cálculo propio)'. Nota: 'que se define hacia el 7 de diciembre; quedan menos de dos meses.'",
+   "severidad": "MEDIA",
+   "evidencia": "T:/CEP/panel1/documentos/DOSSIER_EVIDENCIA_PANEL1.md, líneas 2968-2977: Decreto Supremo 014-2026-SA, artículo 1 'por el plazo de noventa (90) días calendario'; noticia de El Peruano fechada '09/09/2026 09:38'; nota del buscador: 'Los plazos de 60 y 90 días contados desde el 8 o 9 de septiembre vencerían aproximadamente el 7 de noviembre y el 7 de diciembre de 2026 (cálculo propio, depende de cómo compute el decreto)'. Recalculado: 9-set + 90 d = 8-dic; 8-set + 90 d = 7-dic."
+  }
+ ],
+ [
+  "auditar:cifras",
+  {
+   "lamina": "mundo",
+   "texto": "de los países que respondieron la tiene: 98 de 120.",
+   "problema": "No es error frente a la fuente citada (informe, página 88: 98 de 120 = 81.7 %, redondeado 82 %), pero el archivo de datos propio da otra cuenta para 2025: 99 'sí' de 120 (82.5 %), más 5 'parcial'. Si alguien recalcula con los perfiles de país, obtendrá 99. Conviene que la lámina diga de dónde sale el 98.",
+   "correccion": "de los países que respondieron la declara: 98 de 120, según el informe (página 88).",
+   "severidad": "BAJA",
+   "evidencia": "T:/CEP/panel1/investigaciones/paises_direccion_enfermeria/sintesis.md, línea 731: '98 de los 120 países que respondieron (82 %)'; T:/CEP/panel1/datos/oms/oms_jefatura_resumen.csv, fila '2025,Mundo,Todos': si=99, parcial=5, no=16, no_reportado=74, respondieron=120, 82.5."
+  }
+ ],
+ [
+  "auditar:cifras",
+  {
+   "lamina": "datos",
+   "texto": "18 → 1 formatos de registro: 97.7 minutos menos por paciente al día y S/ 2 009 550 en un año.",
+   "problema": "La cifra coincide con la fuente, pero la lámina la presenta junto al tiempo de registro como si todo fuera ahorro de ese tiempo y como dinero ahorrado. En la tabla de origen, S/ 2 009 550 es la suma de tres valorizaciones: tiempo de registro de enfermería (S/ 1 957 073), fotocopiado o imprenta (S/ 891) y eventos adversos por úlceras por presión (S/ 51 586). El material verificado pide decir que es valorización, no dinero liberado (la nota oral sí dice 'valorizó').",
+   "correccion": "formatos de registro: 97.7 minutos menos de registro por paciente en 24 horas; ahorro valorizado por la institución en S/ 2 009 550 en un año.",
+   "severidad": "BAJA",
+   "evidencia": "gemses_src/doc4.txt, Tabla 13 (TOTAL ahorro S/. 1.957.073) y Tabla 14, líneas 2595-2605 (S/. 1.957.073 + S/. 891 + S/. 51.586,41 = S/. 2.009.550); línea 2240: '223.5 minutos' a '125.8 minutos', 'paciente en turno de 24 horas', diferencia 97.7. primera_lamina_datos_ia/sintesis.md, línea 327: 'es valorización del tiempo de enfermería en doce meses, no dinero efectivamente liberado'."
+  }
+ ],
+ [
+  "auditar:citas_y_normas",
+  {
+   "lamina": "remate",
+   "texto": "Nombrar la autonomía en la Ley 27669, con su frontera escrita: aprobar el texto sustitutorio. [notas] aprobando el texto sustitutorio de las proposiciones 91 y 159",
+   "problema": "Se pide al Congreso aprobar un texto que nadie del equipo ha leído y se le atribuye contenido («con su frontera escrita»). El material verificado lo declara vacío de fuente: el dictamen no está publicado y las dos descripciones disponibles se contradicen (nota de prensa: «autónoma e independiente»; cuadro sin firma: «autónoma, científica e interdependiente», con otro título que ya no dice «autonomía profesional» y sin el diagnóstico de enfermería). La cláusula de frontera verificada («no comprende los diagnósticos ni los demás actos reservados por ley…») es de la Proposición 159, no del texto sustitutorio. Además, «independiente» es la expresión que el Poder Ejecutivo observó en 2025. En la sala habrá legisladores que sí conocen el dictamen.",
+   "correccion": "Lámina: «Nombrar la autonomía en la Ley 27669, con su frontera escrita: que el texto sustitutorio de las proposiciones 91 y 159 la nombre y conserve el límite que propone la iniciativa del Colegio.» Notas: «…nombrar la autonomía en la Ley 27669, con su frontera escrita. La Comisión de Trabajo y Seguridad Social aprobó el 30 de setiembre un texto sustitutorio de las proposiciones 91 y 159; su dictamen no está publicado y no lo he leído: pido que ese texto la nombre y mantenga el límite que propone la iniciativa del Colegio; y fiscalizar el artículo 13.»",
+   "severidad": "ALTA",
+   "evidencia": "T:/CEP/panel1/investigaciones/autonomia/sintesis.md, sección gaps: «Texto sustitutorio aprobado el 30 de setiembre de 2026 (…): nadie lo ha leído y las dos descripciones disponibles se contradicen»; y «Redacción segura: según la nota de prensa del Congreso del 30 de setiembre de 2026 (...); el dictamen no está publicado al 10 de octubre de 2026. No defender ni atacar una palabra que no se ha leído». Leí además la nota guardada (scratchpad/autonomia_tmp/frontera_legal/nota_congreso.html): «aprobó el texto sustitutorio recaído en las proposiciones legislativas 91/2026-2031-CD y 159/2026-2031-CD» y «ejerce de manera autónoma e independiente dentro del ámbito de las competencias que le reconoce la legislación»; no menciona el diagnóstico. Cuadro guardado (cuadro.txt): título «A FIN DE FORTALECER EL MARCO DE ACCIÓN DE LA PROFESIÓN DE ENFERMERÍA»."
+  }
+ ],
+ [
+  "auditar:citas_y_normas",
+  {
+   "lamina": "clinica",
+   "texto": "La proposición en el Congreso la nombra y mantiene la frontera.",
+   "problema": "Atribución imprecisa: hay dos proposiciones (91 y 159) y un texto sustitutorio no leído. La frontera citada en las notas («el diagnóstico enfermero no comprende…») está verificada solo en la Proposición Legislativa 159, iniciativa del Colegio de Enfermeros del Perú; la 91 dice «su autónoma, científica e independencia según las competencias conferidas por ley». En singular y sin número, la frase puede leerse como referida al texto aprobado en comisión, que no se ha abierto. Falta además el rótulo «propuesta, no norma» que exige la redacción segura.",
+   "correccion": "«La Proposición Legislativa 159, iniciativa del Colegio de Enfermeros del Perú, la nombra y mantiene la frontera; es propuesta, no norma.»",
+   "severidad": "MEDIA",
+   "evidencia": "autonomia/sintesis.md, PASO 4: «La iniciativa del Colegio de Enfermeros del Perú propone que el diagnóstico enfermero «no comprende los diagnósticos ni los demás actos reservados por ley a otros profesionales de la salud» (Proposición Legislativa 159; es propuesta, no norma)». autonomia/afirmaciones.md: Proposición 91, fórmula legal, página 1: «se caracteriza por su autónoma, científica e independencia según las competencias conferidas por ley»; Proposición 159: autonomía «técnica, científica, ética y funcional, dentro del ámbito de sus competencias profesionales»."
+  }
+ ],
+ [
+  "auditar:citas_y_normas",
+  {
+   "lamina": "piramide",
+   "texto": "Seguro Social: Gerente de Red Prestacional y Director de instituto exigen «Médico Cirujano». [notas] el perfil del Gerente de Red Prestacional y del Director de instituto exige título de médico cirujano",
+   "problema": "(1) «Director de instituto» generaliza: el perfil verificado es uno solo, formato FAD 11 «DIRECTOR III- INCOR» (Instituto Nacional Cardiovascular). (2) Denominación desactualizada: desde el 10 de julio de 2026 el cargo se denomina «Gerente» (Resolución de Presidencia Ejecutiva 932-PE-ESSALUD-2026) y el perfil adecuado a ese cambio no se halló publicado; los verificadores pidieron que conste en el enunciado. (3) El verbo de la fuente es «requiere», no «exige».",
+   "correccion": "Lámina: «Seguro Social: los perfiles de Gerente de Red Prestacional y de Director del Instituto Nacional Cardiovascular (perfil de 2024; hoy el cargo se denomina Gerente) requieren título de «Médico Cirujano».» Notas: «…en el Seguro Social de Salud el perfil de 2024 del Gerente de Red Prestacional y el del Director del Instituto Nacional Cardiovascular, cargo que desde julio de 2026 se denomina Gerente, requieren título profesional de médico cirujano.»",
+   "severidad": "MEDIA",
+   "evidencia": "T:/CEP/panel1/investigaciones/tres_niveles/afirmaciones.md, [estructura_real#1] MATIZAR: texto de la fuente «FORMATO FAD 05 GERENTE DE RED PRESTACIONAL (…) b) Carrera: Título Profesional Universitario de Médico Cirujano» y «FORMATO FAD 11- DIRECTOR III- INCOR (…) Título Profesional Universitario de Médico Cirujano»; verificador, punto 1: «Denominación desactualizada (…) desde el 10 de julio de 2026 el cargo se denomina «Gerente» (Resolución 932-PE-ESSALUD-2026) (…) debe estar en el enunciado»; punto 4: «El manual usa «requerido» y «requiere»»."
+  }
+ ],
+ [
+  "auditar:citas_y_normas",
+  {
+   "lamina": "piramide",
+   "texto": "Manual de Perfiles de Puestos del Seguro Social de Salud (Resolución 925-PE-ESSALUD-2024)",
+   "problema": "Norma nombrada de forma inexacta: no es «Resolución» a secas ni aprueba el manual. Es la Resolución de Presidencia Ejecutiva 925-PE-ESSALUD-2024, del 27 de noviembre de 2024, que modifica el Manual de Perfiles de Puestos aprobado por la Resolución de Presidencia Ejecutiva 881-PE-ESSALUD-2024.",
+   "correccion": "«Manual de Perfiles de Puestos del Seguro Social de Salud (Resolución de Presidencia Ejecutiva 881-PE-ESSALUD-2024, modificada por la Resolución de Presidencia Ejecutiva 925-PE-ESSALUD-2024, del 27 de noviembre de 2024)»",
+   "severidad": "BAJA",
+   "evidencia": "tres_niveles/afirmaciones.md, [estructura_real#1], campo Fuente: «Resolución de Presidencia Ejecutiva número 925-PE-ESSALUD-2024 (Lima, 27 de noviembre de 2024), que modifica el «Manual de Perfiles de Puestos – MPP de ESSALUD» aprobado por la Resolución de Presidencia Ejecutiva número 881-PE-ESSALUD-2024»."
+  }
+ ],
+ [
+  "auditar:citas_y_normas",
+  {
+   "lamina": "piramide",
+   "texto": "Decretos Supremos 008-2017-SA y 019-2025-SA",
+   "problema": "El Decreto Supremo 019-2025-SA (Sección Primera del nuevo Reglamento de Organización y Funciones del Ministerio de Salud, 30 de octubre de 2025) figura como fuente de «Ministerio: ningún órgano de enfermería», pero en el material verificado de esta ronda consta como no abierto y con vigencia pendiente. Solo el 008-2017-SA tiene lectura documentada (93 páginas; la cadena «nfermer» no aparece). La única mención de que el de 2025 tampoco tiene órgano está en la auditoría propia del 9 de octubre, sin cita de pasaje.",
+   "correccion": "«Decreto Supremo 008-2017-SA, Reglamento de Organización y Funciones del Ministerio de Salud (lectura propia: ningún órgano de enfermería)». Si se mantiene el segundo: añadir «; el Decreto Supremo 019-2025-SA, Sección Primera del nuevo reglamento, no fue reabierto en esta verificación».",
+   "severidad": "MEDIA",
+   "evidencia": "T:/CEP/panel1/investigaciones/agenda_ministro/sintesis.md: «no afirmar nada sobre la estructura orgánica del Ministerio con este material: el Decreto Supremo 019-2025-SA no fue abierto» y lista de «Normas vistas solo como título, no abiertas». tres_niveles/afirmaciones.md: «Según la auditoría del proyecto corresponde a los Decretos Supremos 008-2017-SA y 019-2025-SA; la vigencia del segundo está pendiente». DOSSIER_EVIDENCIA_PANEL1.md: lectura del 008-2017-SA, «la cadena «nfermer» no aparece». AUDITORIA_PANEL1_2026-10-09.md línea 95: afirma que ni el de 2017 ni el de 2025 tienen órgano, sin localizador."
+  }
+ ],
+ [
+  "auditar:citas_y_normas",
+  {
+   "lamina": "pregunta",
+   "texto": "[notas] Empiezo por la definición, y no es mía: es del reglamento de nuestra ley. (…) Eso es autonomía: decidir en el propio campo y responder por lo decidido.",
+   "problema": "Ascenso de capa en lo que se dirá en voz alta: el artículo 4 del Decreto Supremo 004-2002-SA describe en qué se basa el cuidado integral de enfermería; no define la autonomía ni usa esa palabra (cero apariciones en el texto del reglamento). Presentarlo como «la definición (…) del reglamento» atribuye a la norma una lectura que es del autor (DERIVACIÓN). La cita de la lámina sí es literal.",
+   "correccion": "«1:00. Empiezo por un texto que no es mío: es del reglamento de nuestra ley. El cuidado de enfermería se basa en el juicio crítico y ponderado de la enfermera y en la toma de decisiones que competen a su labor, por lo cual asume plena responsabilidad. El reglamento no usa la palabra autonomía; yo llamo autonomía a eso: decidir en el propio campo y responder por lo decidido.»",
+   "severidad": "MEDIA",
+   "evidencia": "Texto guardado del reglamento (scratchpad/autonomia_tmp/frontera_legal/ds004.txt): artículo 4 literal; búsqueda de «autonom»: 0 apariciones. autonomia/afirmaciones.md: «El Reglamento (Decreto Supremo 004-2002-SA…), sin usar la palabra «autonomía», dice que el cuidado «se basa en el juicio crítico…»»; autonomia/sintesis.md: «Debe ir con su salvedad: no usa la palabra «autonomía»»."
+  }
+ ],
+ [
+  "auditar:citas_y_normas",
+  {
+   "lamina": "clinica",
+   "texto": "La Ley 27669 no usa la palabra «autonomía»: hoy la sostienen el reglamento y el Código de Ética y Deontología del Colegio de Enfermeros del Perú.",
+   "problema": "Tal como está, se entiende que el reglamento sí usa la palabra. No la usa: describe el contenido (decidir y responder). El único texto peruano abierto que dice «autonomía profesional» es el Código, artículo 49. La letra pequeña verificada decía «hoy lo dicen», referido al contenido.",
+   "correccion": "«Ni la Ley 27669 ni su reglamento usan la palabra «autonomía»: el reglamento describe su contenido (decidir y responder) y el Código de Ética y Deontología del Colegio de Enfermeros del Perú la nombra.»",
+   "severidad": "BAJA",
+   "evidencia": "autonomia/sintesis.md: «Letra pequeña obligatoria: la Ley 27669 no usa la palabra «autonomía»; hoy lo dicen el Reglamento y el Código» y «artículo 49 del Código, único texto peruano que une «autonomía profesional» y «equipo de salud» en una oración»; ds004.txt: 0 apariciones de «autonom»."
+  }
+ ],
+ [
+  "auditar:citas_y_normas",
+  {
+   "lamina": "limites",
+   "texto": "La autonomía clínica ya está en la norma",
+   "problema": "Misma imprecisión, ahora en la conclusión: la norma del Estado (reglamento) contiene las decisiones, la responsabilidad y el registro, pero no la palabra; por eso el pedido es «nombrarla en la ley». Dicho así contradice la letra pequeña de la lámina «clinica» y el pedido 3 de esta misma lámina.",
+   "correccion": "«El contenido de la autonomía clínica ya está en la norma» (lámina y notas: «Uno: el contenido de la autonomía clínica ya está en la norma y, cuando se ejerce, …»).",
+   "severidad": "BAJA",
+   "evidencia": "Mismas fuentes del hallazgo anterior: reglamento sin la palabra «autonomía» (ds004.txt, 0 apariciones); autonomia/sintesis.md, salvedad «no usa la palabra «autonomía»»."
+  }
+ ],
+ [
+  "auditar:citas_y_normas",
+  {
+   "lamina": "remate",
+   "texto": "[notas] la nueva estructura del Ministerio, que se define antes del 7 de diciembre",
+   "problema": "El decreto no dice que la estructura se defina en esa fecha: fija el plazo para presentar un informe con «la propuesta de una nueva estructura orgánica». El pie de la lámina lo dice bien («el informe con la nueva estructura vence…»); las notas van más allá de la fuente.",
+   "correccion": "«…una instancia de enfermería en la nueva estructura del Ministerio, cuya propuesta debe presentarse hasta el 7 de diciembre; quedan 56 días.»",
+   "severidad": "BAJA",
+   "evidencia": "T:/CEP/panel1/documentos/ARTICULOS_REVISION_PANEL1.md, líneas 298-299: Decreto Supremo 014-2026-SA, artículo 1 «Se declara en reorganización el Ministerio de Salud, por el plazo de noventa (90) días calendario…»; artículo 2 «…dentro de los noventa (90) días calendario de emitido el presente Decreto Supremo, un informe detallando: a) las medidas de reforma a ser aplicadas, y, b) la propuesta de una nueva estructura orgánica.»; línea 3499: «[DERIVACIÓN] Fecha límite. 8 de setiembre de 2026 más 90 días calendario = 7 de diciembre de 2026»."
+  }
+ ],
+ [
+  "auditar:citas_y_normas",
+  {
+   "lamina": "datos",
+   "texto": "Fuentes: Panamericana Televisión, 9 de setiembre de 2026",
+   "problema": "El 9 de setiembre de 2026 es la fecha de la nota del canal; la fecha de la entrevista no consta en el material verificado. Las tres expresiones entre comillas son literales, pero provienen de la transcripción del propio canal y de una sola oración condicional.",
+   "correccion": "«Panamericana Televisión, programa «Esta Noche», nota fechada el 9 de setiembre de 2026 (transcripción del canal)»",
+   "severidad": "BAJA",
+   "evidencia": "T:/CEP/panel1/investigaciones/primera_lamina_datos_ia/afirmaciones.md, [ministro_dicho#1], redacción segura: «Según la nota del programa «Esta Noche» de Panamericana Televisión fechada el 9 de setiembre de 2026 (…; transcripción del propio canal)»; verificador: «la fecha de la entrevista misma no consta». Texto de la fuente: «Si nosotros empezamos a hacer la interconexión y empezar a controlar todo el sistema, hospitales, centros de salud, podemos con esa data empezar a hacer gestión»."
+  }
+ ],
+ [
+  "auditar:citas_y_normas",
+  {
+   "lamina": "mundo",
+   "texto": "El Perú reportó «No» en 2020; en 2025 no reportó.",
+   "problema": "«2020» es la edición del perfil de la Organización Mundial de la Salud, no el año de la respuesta: el material verificado ubica la respuesta en 2019 y deja «por determinar» quién respondió. La comilla «No» es correcta.",
+   "correccion": "«En el perfil de 2020 el Perú figura con «No»; en el de 2025 no hay respuesta registrada.» (notas: «El Perú figura con que no en el perfil de 2020 y sin respuesta en el de 2025.»)",
+   "severidad": "BAJA",
+   "evidencia": "T:/CEP/panel1/investigaciones/paises_direccion_enfermeria/sintesis.md, porDeterminar: «quién respondió «No» en 2019 y por qué no hay respuesta registrada en 2025»; afirmaciones.md: cuadro de la Organización Panamericana de la Salud 2022 con fuente en el informe mundial de 2020, «Perú figura con «No»»."
+  }
+ ]
+]

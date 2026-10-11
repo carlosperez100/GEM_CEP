@@ -169,7 +169,7 @@ out["ventana"] = lam("ventana", "La ventana: la nueva estructura del Ministerio"
 # ---------------------------------------------------------------- 8. Remate
 def pedido(a_quien, color, items):
     return caja('<p style="font-size:24px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:%s">%s</p>' % (color, a_quien) + "".join(
-        '<div style="display:flex;gap:12px;align-items:flex-start"><div style="flex:none;width:14px;height:14px;border-radius:7px;background:%s;margin:12px 0px 0px"></div><p style="flex:1;min-width:0px;font-size:30px;line-height:1.25;color:%s">%s</p></div>' % (color, TINTA, i) for i in items), pad="24px 26px", extra="border-top:8px solid %s" % color)
+        '<div style="display:flex;gap:12px;align-items:flex-start"><div style="flex:none;width:14px;height:14px;border-radius:7px;background:%s;margin:14px 0px 0px"></div><p style="flex:1;min-width:0px;font-size:34px;line-height:1.26;color:%s">%s</p></div>' % (color, TINTA, i) for i in items), pad="24px 26px", extra="border-top:8px solid %s" % color)
 
 
 rem = '<div style="display:flex;gap:18px;align-items:stretch">' + pedido("Al Ministro", MAL, ["Una instancia de enfermería en la nueva estructura del Ministerio, antes del 7 de diciembre.", "Que el registro de enfermería sea dato estandarizado en la historia clínica electrónica.", "Un piloto medido: alerta con inteligencia artificial, supervisada, con enfermería al mando del cuidado."]) + \
