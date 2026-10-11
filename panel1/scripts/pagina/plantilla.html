@@ -9,10 +9,16 @@
 <meta property="og:title" content="Autonomía profesional de enfermería">
 <meta property="og:description" content="Qué dice la norma, qué muestran los datos y qué falta decidir. Láminas, guion, fuentes con enlace y datos del Panel I.">
 <meta property="og:url" content="{{SITIO}}">
-<meta property="og:image" content="{{SITIO}}figuras/tres_brechas_enfermeria.png">
+<meta property="og:locale" content="es_PE">
+<meta property="og:image" content="{{SITIO}}figuras/compartir.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Tres brechas: digital, de toma de decisiones y de información">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="canonical" href="{{SITIO}}">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..900;1,9..144,300..900&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,300..900;1,300..900&display=swap">
 <style>
 :root{
   color-scheme:light;
@@ -77,7 +83,7 @@ a{color:var(--azul)}
 .pedidos{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:22px;margin-top:22px}
 .ped{background:var(--sup);border:1px solid var(--line);border-top:5px solid var(--azul);border-radius:14px;padding:18px 22px;min-width:0}
 .ped:nth-child(2){border-top-color:var(--mag)} .ped:nth-child(3){border-top-color:var(--verde)}
-.ped h4{margin:0 0 8px;font-size:13px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--ink2)}
+.ped h3{margin:0 0 8px;font-size:13px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--ink2)}
 .ped ul{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:6px}
 .capas{margin-top:22px;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:0;border:1px solid var(--line);border-radius:14px;overflow:hidden;background:var(--sup)}
 .capa{padding:16px 20px;border-left:1px solid var(--line);min-width:0}
@@ -93,7 +99,7 @@ a{color:var(--azul)}
 .lam{margin:0 0 34px;scroll-margin-top:60px;min-width:0}
 .lam figcaption{display:flex;align-items:baseline;gap:12px;margin:0 0 8px}
 .lam-n{flex:none;font-family:var(--serif);font-weight:600;font-size:22px;color:var(--azul);font-variant-numeric:tabular-nums}
-.lam-t{flex:1;min-width:0;font-weight:600;line-height:1.3}
+.lam-t{flex:1;min-width:0;margin:0;font-size:inherit;font-weight:600;line-height:1.3}
 .lam-z{flex:none;font:inherit;font-size:13.5px;font-weight:600;color:var(--ink2);background:var(--sup);border:1px solid var(--line);border-radius:999px;padding:4px 12px;cursor:pointer}
 @media (min-width:1100px){.lam-z{display:none}}
 .visor{overflow:hidden;border-radius:12px;border:1px solid var(--line);box-shadow:var(--sombra);background:#FFFFFF}
@@ -116,7 +122,6 @@ a{color:var(--azul)}
 .lienzo h2{font-size:64px;font-weight:600;line-height:1.15}
 .lienzo h3{font-size:44px;font-weight:600;line-height:1.2}
 .lienzo p{font-size:32px;font-weight:400;line-height:1.4}
-{{CSS_FONDOS}}
 
 /* fuentes */
 .tabla-wrap{overflow-x:auto;border:1px solid var(--line);border-radius:14px;background:var(--sup);box-shadow:var(--sombra)}
@@ -156,7 +161,21 @@ table.fu{width:100%;border-collapse:collapse;font-size:15.5px}
   .fu td{padding:0;border:0}
   .fu td.c-n{display:none}
   .fu td.c-uso{margin-top:4px}
+  .fu td.c-uso::before{content:"Dónde se usa: ";font-weight:600}
   .fu td.c-enl{margin-top:4px}
+}
+@media (prefers-reduced-motion: reduce){html{scroll-behavior:auto}}
+@media (max-width:520px){.lam{scroll-margin-top:90px}}
+@media print{
+  :root{color-scheme:light;--bg:#FFFFFF;--sup:#FFFFFF;--sup2:#EBF0F6;--ink:#0B1D36;--ink2:#34465F;--mut:#586981;--line:#D3DCE8;--azul:#005FA3;--oro:#8A5F07;--verde:#0B6E55;--mag:#9A2A63;--sombra:none}
+  html{scroll-behavior:auto}
+  .hero{background:#FFFFFF;color:#0B1D36;padding-block:0 10px}
+  .hero .sobre,.hero .sub,.hero .nota{color:#34465F}
+  .nav,.indice,.lam-z{display:none}
+  .sec{padding-block:18px 0}
+  .lam{break-inside:avoid}
+  .lienzo{transform:scale(tan(atan2(100cqw, 1920px))) !important}
+  .lienzo, .lienzo *{-webkit-print-color-adjust:exact;print-color-adjust:exact}
 }
 </style>
 </head>
@@ -214,7 +233,7 @@ table.fu{width:100%;border-collapse:collapse;font-size:15.5px}
 <section class="sec" id="presentacion">
   <h2>La presentación</h2>
   <p class="ent">{{N_LAMINAS}} láminas: diez minutos de exposición, tres minutos de remate con los pedidos y las láminas de respaldo. Debajo de cada una está el guion del expositor; el número con que empieza es su duración prevista, en minutos y segundos. Las láminas llevan el sello del Colegio de Enfermeros del Perú porque usan su plantilla: no significa aval.</p>
-  <div class="indice" aria-label="Ir a la lámina">{{INDICE}}</div>
+  <nav class="indice" aria-label="Láminas">{{INDICE}}</nav>
   {{LAMINAS}}
 </section>
 
@@ -264,6 +283,8 @@ table.fu{width:100%;border-collapse:collapse;font-size:15.5px}
 
 </main>
 
+<style>
+{{CSS_FONDOS}}</style>
 <script>
 (function () {
   var marcos = document.querySelectorAll('.marco');

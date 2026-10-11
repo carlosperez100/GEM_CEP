@@ -76,6 +76,7 @@ for i, sid in enumerate(ORDEN, 1):
         titulo = "Portada"
     if sid == "gracias":
         titulo = "Cierre"
+    src = re.sub(r"<(h[1-6])\b", r'<\1 role="presentation"', src)  # los titulos internos no entran al esquema de la pagina
     LAMINAS.append({"n": i, "id": sid, "titulo": titulo, "html": src.strip(), "guion": guion})
 
 POR_ID = {l["id"]: l for l in LAMINAS}
@@ -200,23 +201,38 @@ res_html = "".join(
     '<li><a class="res" href="#l-%s"><span class="res-n">%s</span><span class="res-t">%s</span><span class="res-k">%s</span></a></li>'
     % (sid, e(cab), e(cuerpo[0].upper() + cuerpo[1:]), e(k)) for cab, cuerpo, k, sid in RESULTADOS)
 
-ped_html = "".join('<div class="ped"><h4>%s</h4><ul>%s</ul></div>' % (e(g[0]), li(g[1])) for g in PEDIDOS)
+ped_html = "".join('<div class="ped"><h3>%s</h3><ul>%s</ul></div>' % (e(g[0]), li(g[1])) for g in PEDIDOS)
 
 lam_html = []
 for l in LAMINAS:
     lam_html.append(
         '<figure class="lam" id="l-%s">'
-        '<figcaption><span class="lam-n">%d</span><span class="lam-t">%s</span>'
+        '<figcaption><span class="lam-n">%d</span><h3 class="lam-t">%s</h3>'
         '<button class="lam-z" type="button" aria-pressed="false">Ampliar</button></figcaption>'
         '<div class="visor"><div class="marco"><div class="lienzo">%s</div></div></div>'
         '%s</figure>'
         % (l["id"], l["n"], e(l["titulo"]), l["html"],
            ('<details class="guion"><summary>Guion del expositor</summary><p>%s</p></details>' % e(nb(l["guion"]))) if l["guion"] else ""))
 
-indice = "".join('<a href="#l-%s" title="%s">%d</a>' % (l["id"], e(l["titulo"]), l["n"]) for l in LAMINAS)
+indice = "".join('<a href="#l-%s" aria-label="Lámina %d: %s" title="%s">%d</a>' % (l["id"], l["n"], e(l["titulo"]), e(l["titulo"]), l["n"]) for l in LAMINAS)
 
 CSS_FONDOS = "".join(".lienzo section.%s{background-image:url(%s) !important}\n" % (cl, uri) for cl, uri in FONDOS.values() if uri)
 
+# imagen para compartir el enlace (1200 x 630), a partir de la figura de las tres brechas
+def imagen_compartir():
+    from PIL import Image
+    origen = S / "figura" / "tres_brechas_enfermeria.png"
+    if not origen.exists():
+        return
+    (AQUI / "figuras").mkdir(exist_ok=True)
+    im = Image.open(origen).convert("RGB")
+    im.thumbnail((1120, 630), Image.LANCZOS)
+    lz = Image.new("RGB", (1200, 630), "#FFFFFF")
+    lz.paste(im, ((1200 - im.width) // 2, (630 - im.height) // 2))
+    lz.save(AQUI / "figuras" / "compartir.jpg", "JPEG", quality=86, optimize=True, progressive=True)
+
+
+imagen_compartir()
 PLANTILLA = (AQUI / "plantilla.html").read_text(encoding="utf-8")
 BLOQUE_FUENTES = (AQUI / "bloque_fuentes.html").read_text(encoding="utf-8") if FUENTES else ""
 NAV_FUENTES = '<a href="#fuentes">Fuentes con enlace</a>' if FUENTES else ""
