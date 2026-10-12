@@ -2,7 +2,7 @@
 
 Material público de **Carlos Pérez Pérez** para el Panel I del Foro Nacional «Enfermería con voz y autonomía» (Congreso de la República del Perú, 12 de octubre de 2026): la presentación, su guion, cada fuente con su enlace, los datos y los programas con que se hizo. Incluye la base de salud de la Organización para la Cooperación y el Desarrollo Económicos (OCDE) con que se compara al Perú.
 
-> Página personal del autor. No es una publicación oficial del Colegio de Enfermeros del Perú, del Congreso de la República ni del Ministerio de Salud, y no expresa la posición de ninguno de ellos. Las láminas usan la plantilla institucional del Colegio, con la que se expone en el foro: su sello no significa aval. Versión del 11 de octubre de 2026.
+> Página personal del autor. No es una publicación oficial del Colegio de Enfermeros del Perú, del Congreso de la República ni del Ministerio de Salud, y no expresa la posición de ninguno de ellos. Las láminas usan la plantilla institucional del Colegio, con la que se expone en el foro: su sello no significa aval. Versión del 12 de octubre de 2026.
 
 ## Empiece aquí
 

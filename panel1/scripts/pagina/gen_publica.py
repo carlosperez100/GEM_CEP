@@ -10,7 +10,7 @@ PROJ = S / "deck-panel1" / "project"
 PNG = S / "plantilla_png"
 REPO = "https://github.com/carlosperez100/GEM_CEP/tree/main/panel1"
 SITIO = "https://carlosperez100.github.io/GEM_CEP/panel1/"
-VERSION = "11 de octubre de 2026"
+VERSION = "12 de octubre de 2026"
 
 deck = json.loads((PROJ / "deck.json").read_text(encoding="utf-8"))
 ORDEN = deck["order"]
@@ -46,6 +46,7 @@ TELEFONO = re.compile(r"(?<!\d)9\d{8}(?!\d)")
 
 def limpia_contacto(src):
     """La pagina publica no lleva correo ni telefono personales."""
+    src = re.sub(r"\s*·\s*[\w.+-]+@[\w-]+\.[\w.-]+\s*(?:&nbsp;|\s)*-\s*9\d{8}", "", src)  # formato de una sola linea
     src = re.sub(r"[\w.+-]+@[\w-]+\.[\w.-]+\s*(?:&nbsp;|\s)*-\s*9\d{8}\s*<br\s*/?>", "", src)
     src = CORREO.sub("", src)
     src = TELEFONO.sub("", src)

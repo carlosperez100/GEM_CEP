@@ -9,7 +9,7 @@ S = AQUI.parent
 REPO_DIR = pathlib.Path(sys.argv[1])
 PAGINA = "https://carlosperez100.github.io/GEM_CEP/panel1/"
 BASE_OCDE = "https://carlosperez100.github.io/GEM_CEP/"
-VERSION = "11 de octubre de 2026"
+VERSION = "12 de octubre de 2026"
 
 R = json.loads((AQUI / "resumen.json").read_text(encoding="utf-8"))
 fe = S / "fuentes_enlaces.json"
