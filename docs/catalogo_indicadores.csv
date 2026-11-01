@@ -37,16 +37,6 @@ DSD_HCQO@DF_CC,Cancer care,CCRTNTSR.Y_GE15.OBS,Rectal cancer five-year net survi
 DSD_HCQO@DF_CC,Cancer care,CCSTNTSR.Y_GE15.BOUNDLCI,Stomach cancer five-year net survival [15 years or over · Confidence interval lower bound],Percentage of population who have condition,4,2004,2014,12
 DSD_HCQO@DF_CC,Cancer care,CCSTNTSR.Y_GE15.BOUNDUCI,Stomach cancer five-year net survival [15 years or over · Confidence interval upper bound],Percentage of population who have condition,4,2004,2014,12
 DSD_HCQO@DF_CC,Cancer care,CCSTNTSR.Y_GE15.OBS,Stomach cancer five-year net survival [15 years or over · Observed],Percentage of population who have condition,4,2004,2014,12
-DSD_HCQO@DF_EOLC,End-of-life care,ADMDEALL,All causes of death - unplanned/urgent in-patient admissions during the last 180 days of life,Percentage of deaths,1,2014,2020,7
-DSD_HCQO@DF_EOLC,End-of-life care,ADMDEALZ,Alzheimer's and other dementias' deaths - unplanned/urgent in-patient admissions during the last 180 days of life,Percentage of deaths,1,2014,2020,7
-DSD_HCQO@DF_EOLC,End-of-life care,ADMDECAN,Cancer deaths - unplanned/urgent in-patient admissions during the last 180 days of life,Percentage of deaths,1,2014,2020,7
-DSD_HCQO@DF_EOLC,End-of-life care,ADMDECAR,Cardiovascular diseases' deaths - unplanned/urgent in-patient admissions during the last 180 days of life,Percentage of deaths,1,2014,2020,7
-DSD_HCQO@DF_EOLC,End-of-life care,ADMDECHR,Chronic respiratory diseases' deaths - unplanned/urgent in-patient admissions during the last 180 days of life,Percentage of deaths,1,2014,2020,7
-DSD_HCQO@DF_EOLC,End-of-life care,ADMMOALL,All causes of death - unplanned/urgent in-patient admissions during the last 30 days of life,Percentage of deaths,1,2014,2020,7
-DSD_HCQO@DF_EOLC,End-of-life care,ADMMOALZ,Alzheimer's and other dementias' deaths - unplanned/urgent in-patient admissions during the last 30 days of life,Percentage of deaths,1,2014,2020,7
-DSD_HCQO@DF_EOLC,End-of-life care,ADMMOCAN,Cancer deaths - unplanned/urgent in-patient admissions during the last 30 days of life,Percentage of deaths,1,2014,2020,7
-DSD_HCQO@DF_EOLC,End-of-life care,ADMMOCAR,Cardiovascular diseases' deaths - unplanned/urgent in-patient admissions during the last 30 days of life,Percentage of deaths,1,2014,2020,7
-DSD_HCQO@DF_EOLC,End-of-life care,ADMMOCHR,Chronic respiratory diseases' deaths - unplanned/urgent in-patient admissions during the last 30 days of life,Percentage of deaths,1,2014,2020,7
 DSD_HCQO@DF_EOLC,End-of-life care,MORTACAL,"Deaths in inpatient acute care, Alzheimer's and other dementias’ deaths",Percentage of deaths,2,2014,2023,10
 DSD_HCQO@DF_EOLC,End-of-life care,MORTACCA,"Deaths in inpatient acute care, cancer deaths",Percentage of deaths,1,2014,2022,9
 DSD_HCQO@DF_EOLC,End-of-life care,MORTACCD,"Deaths in inpatient acute care, cardiovascular diseases’ deaths",Percentage of deaths,2,2014,2023,10
